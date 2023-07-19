@@ -1,4 +1,4 @@
-# Web Crawler Script (script-web-crawler.py)
+# Web Crawler Script
 
 This is a Python script that utilizes Scrapy to crawl websites, starting from a given URL and domain, and saves the crawled URLs to a file named `crawled_urls.txt`. Additionally, it removes any duplicate URLs from the list of crawled websites.
 
