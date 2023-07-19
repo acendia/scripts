@@ -31,7 +31,7 @@ pip install beautifulsoup4 requests
 2. Run the script using the following command:
 
 ```bash
-python data_extraction_script.py
+python script_data_scraping.py
 ```
 
 ## Functionality
