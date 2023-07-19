@@ -44,7 +44,7 @@ height = args.height
 screen_size = pyautogui.size()
 
 # Set the bounding box based on the choice (change the choice to "default" or "optimized" based on your needs)
-choice = "super_optimized"
+choice = "default"
 
 if choice == "default":
     bounding_box = {'top': top, 'left': left, 'width': screen_size.width, 'height': screen_size.height}
