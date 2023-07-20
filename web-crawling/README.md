@@ -45,7 +45,7 @@ After the crawling and data extraction process, it will display the number of al
 ## Zip File
 The script will also create a zip file named "myxalandri.zip" that contains the extracted data from the crawled websites.
 The zip file will include the three directories mentioned above.
-Please note that the script will not remove any existing zip files or directories. If you want to recreate the directories, run the script with the --delete-existing-directories option.
+Please note that the script will not remove any existing zip files or directories.
 
 ## Disclaimer
 This script is provided as-is and may require modifications or updates based on your specific use case or the website's structure being crawled.
