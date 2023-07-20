@@ -6,14 +6,17 @@ from scrapy.exceptions import CloseSpider
 
 class AllSpider(scrapy.Spider):
     name = 'all'
-    allowed_domains = ['myxalandri.gr']
-    start_urls = ['https://myxalandri.gr']
 
-    def __init__(self, max_crawled_websites=None):
+    def __init__(self, max_crawled_websites=None, start_urls=None, allowed_domains=None):
         self.links = []
         self.max_crawled_websites = max_crawled_websites
         self.crawled_websites = 0
         self.file = open('crawled_urls.txt', 'w')
+
+        if start_urls is not None:
+            self.start_urls = start_urls
+        if allowed_domains is not None:
+            self.allowed_domains = allowed_domains
 
     def parse(self, response):
         if self.max_crawled_websites is not None and self.crawled_websites >= self.max_crawled_websites:
@@ -41,9 +44,14 @@ class AllSpider(scrapy.Spider):
             file.writelines(crawled_urls)
 
 
-def main(max_crawled_websites=None):
+def main(max_crawled_websites=None, start_urls=None, allowed_domains=None):
     process = CrawlerProcess()
-    process.crawl(AllSpider, max_crawled_websites=max_crawled_websites)
+    process.crawl(
+        AllSpider,
+        max_crawled_websites=max_crawled_websites,
+        start_urls=start_urls,
+        allowed_domains=allowed_domains
+    )
     process.start()
 
     # Read from the file crawled_urls.txt and print the total number of crawled websites.
@@ -60,8 +68,9 @@ def main(max_crawled_websites=None):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Scrape websites and remove duplicates.')
-    parser.add_argument('--max-websites', type=int, default=None, help='Maximum number of crawled websites.')
-    #TODO: Add an argument to specify the start URL and domain.
+    parser.add_argument('--max-websites', type=int, default=50, help='Maximum number of crawled websites.')
+    parser.add_argument('--start-urls', nargs='+', default=['https://myxalandri.gr'], help='Space-separated list of starting URLs.')
+    parser.add_argument('--allowed-domains', nargs='+', default=['myxalandri.gr'], help='Space-separated list of allowed domains.')
     args = parser.parse_args()
 
-    main(args.max_websites)
+    main(args.max_websites, args.start_urls, args.allowed_domains)
