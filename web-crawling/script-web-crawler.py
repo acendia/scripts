@@ -165,6 +165,7 @@ class WebsiteDirectoryManager:
         else:
             print(f'Directory {metadata_files} already exists')
 
+        print('--' * 60)
         return dir_name
     
     # zip the directories
@@ -193,12 +194,12 @@ class WebsiteDataExtractor():
         if meta_tags:
             print(f'Website: {tag}')
             # print(meta_tags)
-            print('--' * 80)
+            print('--' * 60)
             return 0 # return 0 if it is not an index page
         else:
             print(f'Website: {tag}')
             print("This is an index page. No meta tags with name author")
-            print('--' * 80)
+            print('--' * 60)
             return 1 # return 1 if it is an index page
 
 
@@ -297,11 +298,12 @@ class WebsiteDataExtractor():
             idx_article_page += 1
 
         # Show information about the files extracted
-        print('###' * 30)
+        print('##' * 60)
         print(f'Number of all pages: {idx_article_page + idx_index_page}')
         print(f'Number of article pages: {idx_article_page}')
         print(f'Number of index pages: {idx_index_page}')
-        print(f'Percentage of index pages: {round(idx_index_page/idx_article_page*100, 2)}%')
+        print(f'Percentage of index pages: {round(idx_index_page/(idx_article_page + idx_index_page)*100, 2)}%')
+        print(f'Percentage of article pages: {round(idx_article_page/(idx_article_page + idx_index_page)*100, 2)}%')
 
 
 if __name__ == "__main__":
@@ -315,6 +317,7 @@ if __name__ == "__main__":
     parser.add_argument('--max-websites', type=int, default=None, help='Maximum number of crawled websites.')
     parser.add_argument('--start-urls', nargs='+', default=['https://myxalandri.gr'], help='Space-separated list of starting URLs.')
     parser.add_argument('--allowed-domains', nargs='+', default=['myxalandri.gr'], help='Space-separated list of allowed domains.')
+    parser.add_argument('--delete-existing-directories', type=bool, default=False, help='Delete existing directories.')
     args = parser.parse_args()
 
     if not args.ignore_web_crawler: 
@@ -324,7 +327,7 @@ if __name__ == "__main__":
 
     if not args.ingnore_manage_directories:
         # Create a WebsiteDirectoryManager instance and manage the directories
-        directory_manager = WebsiteDirectoryManager(site_maps_file='crawled_urls.txt', delete_existing_directories=False)
+        directory_manager = WebsiteDirectoryManager(site_maps_file='crawled_urls.txt', delete_existing_directories=args.delete_existing_directories)
         dir_name =  directory_manager.create_directories()
 
     if not args.ignore_data_extractor:

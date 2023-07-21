@@ -1,4 +1,0 @@
-Title:
-Home
-Description:
-[widgetkit id=&quot;1&quot; name=&quot;00001 home 3rd&quot;]
