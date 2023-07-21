@@ -26,8 +26,17 @@ pip install -r requirements.txt
 2. Open a terminal or command prompt in the directory containing the script.
 3. Run the script with the desired arguments:
 ```bash
-python script.py [--max-websites MAX_WEBSITES] [--start-urls START_URLS [START_URLS ...]] [--allowed-domains ALLOWED_DOMAINS [ALLOWED_DOMAINS ...]]
+python script.py [--ignore-web-crawler BOOL] [--ingnore-manage-directories BOOL] [--ignore-data-extractor BOOL]
+                [--ignore-zip BOOL] [ ][--max-websites MAX_WEBSITES] [--start-urls START_URLS [START_URLS ...]]
+                [--allowed-domains ALLOWED_DOMAINS [ALLOWED_DOMAINS ...]] [--delete-existing-directories BOOL]
 ```
+
+## Example
+Run the script
+```bash
+python script-web-crawler.py --delete-existing-directories True --max-websites 50
+```
+
 
 ## Arguments:
 - **--max-websites**: Optional. Maximum number of websites to crawl. If not provided, the script will crawl all accessible pages from the starting URLs.
