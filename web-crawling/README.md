@@ -26,9 +26,10 @@ pip install -r requirements.txt
 2. Open a terminal or command prompt in the directory containing the script.
 3. Run the script with the desired arguments:
 ```bash
-python script-web-crawler.py [--ignore-web-crawler BOOL] [--ingnore-manage-directories BOOL] [--ignore-data-extractor BOOL]
-                [--ignore-zip BOOL] [ ][--max-websites MAX_WEBSITES] [--start-urls START_URLS [START_URLS ...]]
-                [--allowed-domains ALLOWED_DOMAINS [ALLOWED_DOMAINS ...]] [--delete-existing-directories BOOL]
+python script-web-crawler.py [--ignore-web-crawler BOOL] [--ingnore-manage-directories BOOL]
+[--ignore-data-extractor BOOL] [--ignore-zip BOOL] [--max-websites MAX_WEBSITES]
+[--start-urls START_URLS [START_URLS ...]] [--allowed-domains ALLOWED_DOMAINS [ALLOWED_DOMAINS ...]]
+[--delete-existing-directories BOOL]
 ```
 
 ## Example
