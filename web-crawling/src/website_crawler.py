@@ -1,8 +1,10 @@
 import scrapy
 from scrapy.exceptions import CloseSpider
 
-
 class WebsiteCrawler(scrapy.Spider):
+    """
+    This class is responsible for crawling the websites.
+    """
     name = 'website_crawler'
 
     def __init__(self, max_crawled_websites=None, start_urls=None, allowed_domains=None):
@@ -10,6 +12,7 @@ class WebsiteCrawler(scrapy.Spider):
         self.links = []
         self.max_crawled_websites = max_crawled_websites
         self.crawled_websites = 0
+        # TODO make the file name dynamic
         self.file = open('crawled_urls.txt', 'w')
 
         if start_urls is not None:
@@ -18,6 +21,9 @@ class WebsiteCrawler(scrapy.Spider):
             self.allowed_domains = allowed_domains
 
     def parse(self, response):
+        """
+        This method is responsible for parsing the response.
+        """
         # Check if the maximum number of crawled websites has been reached
         if self.max_crawled_websites is not None and self.crawled_websites >= self.max_crawled_websites:
             self.file.close()
@@ -36,6 +42,9 @@ class WebsiteCrawler(scrapy.Spider):
             yield response.follow(href, self.parse)
 
     def closed(self, reason):
+        """
+        This method is called when the spider is closed.
+        """
         # After the spider is closed, remove duplicates and save the crawled_urls list to the file.
         with open('crawled_urls.txt', 'r') as file:
             crawled_urls = file.readlines()
@@ -45,4 +54,3 @@ class WebsiteCrawler(scrapy.Spider):
 
         with open('crawled_urls.txt', 'w') as file:
             file.writelines(crawled_urls)
-

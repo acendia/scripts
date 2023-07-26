@@ -27,6 +27,7 @@ class WebsiteCrawler(scrapy.Spider):
         self.links = []
         self.max_crawled_websites = max_crawled_websites
         self.crawled_websites = 0
+        # TODO replace crawled_urls.txt with a dynamic file name
         self.file = open('crawled_urls.txt', 'w')
 
         if start_urls is not None:
@@ -54,12 +55,13 @@ class WebsiteCrawler(scrapy.Spider):
 
     def closed(self, reason):
         # After the spider is closed, remove duplicates and save the crawled_urls list to the file.
+        # TODO replace crawled_urls.txt with a dynamic file name
         with open('crawled_urls.txt', 'r') as file:
             crawled_urls = file.readlines()
 
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
-
+        # TODO replace crawled_urls.txt with a dynamic file name
         with open('crawled_urls.txt', 'w') as file:
             file.writelines(crawled_urls)
 
@@ -87,6 +89,7 @@ class WebsiteProcessor:
     @staticmethod
     def process_crawled_urls():
         # Read from the file crawled_urls.txt and print the total number of crawled websites.
+        # TODO replace crawled_urls.txt with a dynamic file name
         with open('crawled_urls.txt', 'r') as file:
             crawled_urls = file.readlines()
             print(f'\nTotal number of crawled websites: {len(crawled_urls)}')
@@ -97,19 +100,22 @@ class WebsiteProcessor:
         for url in duplicates:
             print(url.strip())
 
-        # TODO 
+        
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
+        # TODO replace crawled_urls.txt with a dynamic file name
         with open('crawled_urls.txt', 'w') as file:
             file.writelines(crawled_urls)
 
 
 class WebsiteDirectoryManager:
-    def __init__(self, site_maps_file='crawled_urls.txt', delete_existing_directories=False):
+    # TODO replace crawled_urls.txt with a dynamic file name
+    def __init__(self, site_maps_file='crawled_urls.txt', delete_existing_directories=False, directory=None):
         self.site_maps_file = site_maps_file
         self.delete_existing_directories = delete_existing_directories
         self.url = None
         self.urls = []
+        self.directory = directory
 
     def read_urls_from_file(self):
         if os.path.exists(self.site_maps_file):
@@ -129,8 +135,8 @@ class WebsiteDirectoryManager:
             return
 
         # Extract the domain name and top-level domain (TLD) from the URL
-        dir_name = re.search(r"(?<=://)(.*?)(?=\.gr)", self.url).group(0)
-
+        # dir_name = re.search(r"(?<=://)(.*?)(?=\.gr)", self.url).group(0)
+        dir_name = self.directory
         # Check if the directory exists (directory name contains the domain name and TLD)
         if not os.path.exists(dir_name):
             print(f'Creating new directory {dir_name}')
@@ -171,7 +177,7 @@ class WebsiteDirectoryManager:
         return dir_name
     
     # zip the directories
-    def create_zip_file(self, directory_name, zip_file_name="myxalandri"):
+    def create_zip_file(self, directory_name, zip_file_name=None):
         zip_file_name = zip_file_name + ".zip"
         with zipfile.ZipFile(zip_file_name, "w", zipfile.ZIP_DEFLATED) as zip_file:
             directory_path = os.path.abspath(directory_name)
@@ -184,8 +190,8 @@ class WebsiteDirectoryManager:
 
     
 class WebsiteDataExtractor():
-    def __init__(self):
-        pass
+    def __init__(self, directory=None):
+        self.directory = directory
 
     def is_index_page(self, soup, tag):
         """
@@ -194,15 +200,17 @@ class WebsiteDataExtractor():
         # get all meta tags with name author
         meta_tags = soup.find_all('meta', attrs={'name': 'author'})
         if meta_tags:
-            print(f'Website: {tag}')
-            # print(meta_tags)
             print('--' * 60)
-            return 0 # return 0 if it is not an index page
+            print(f'Website: {tag}')
+            # return 0 if it is not an index page
+            return 0 
         else:
+            print('--' * 60)
             print(f'Website: {tag}')
             print("This is an index page. No meta tags with name author")
-            print('--' * 60)
-            return 1 # return 1 if it is an index page
+            # return 1 if it is an index page
+            return 1 
+        
 
 
     def extract_html(self, html_document, dir_name, idx_file):
@@ -274,6 +282,7 @@ class WebsiteDataExtractor():
         # Loop over each tag and extract the data
         # for tag in loc_tags:
         for tag in urls[1:]:
+            
             # Retrieve the HTML document using the get() method of the requests module
             html_document = requests.get(tag)
 
@@ -290,8 +299,8 @@ class WebsiteDataExtractor():
                 continue
             
             # Extract the domain name and TLD from the URL
-            dir_name =  re.search(r"(?<=://)(.*?)(?=\.gr)", urls[0]).group(0)
-
+            # dir_name =  re.search(r"(?<=://)(.*?)(?=\.gr)", urls[0]).group(0)
+            dir_name = self.directory
             # Extracting phase
             self.extract_html(html_document, dir_name, idx_article_page)
 
@@ -309,12 +318,110 @@ class WebsiteDataExtractor():
         print(f'Percentage of index pages: {round(idx_index_page/(idx_article_page + idx_index_page)*100, 2)}%')
         print(f'Percentage of article pages: {round(idx_article_page/(idx_article_page + idx_index_page)*100, 2)}%')
 
-class WebsiteDataAnalyzer():
-    def __init__(self):
-        pass
 
-    # function that finds similarity between articles
-    # def find_similarity(self, article1, article2):
+class MyXalandriDataExtractor(WebsiteDataExtractor):
+    def __init__(self, directory=None):
+        self.directory = directory
+
+    def is_index_page(self, soup, tag):
+        """
+        Check if the URL is an index page.
+        """
+        # get all meta tags with name author
+        meta_tags = soup.find_all('meta', attrs={'name': 'author'})
+        if meta_tags:
+            print('--' * 60)
+            print(f'Website: {tag}')
+            # return 0 if it is not an index page
+            return 0 
+        else:
+            print('--' * 60)
+            print(f'Website: {tag}')
+            print("This is an index page. No meta tags with name author")
+            # return 1 if it is an index page
+            return 1 
+    
+    def extract_headline_and_description(self, soup, dir_name, idx_file):
+        """
+        Extract the headline and description from the JSON data
+        """
+        
+        script_tags = soup.find_all('script', attrs={'data-type': 'gsd'})
+
+        # Extract the headline and description from each script tag
+        for script_tag in script_tags:
+            # Extract the JSON data
+            json_data = script_tag.string.strip()
+
+            # Parse the JSON data
+            data = json.loads(json_data)
+
+            # Extract the headline and description using the get() method
+            headline = data.get('headline')
+            description = data.get('description')
+
+            # Print the extracted values
+            if headline is not None and description is not None:
+                with open(dir_name + "/txt_files/" +  str(idx_file) + '.txt', 'w') as f:
+                    f.write('Title:'+ '\n' + headline + '\n')
+                    f.write('Description:' + '\n' + description + '\n')
+                    f.close()
+    
+
+class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
+    def __init__(self, directory=None):
+        self.directory = directory
+
+
+    def is_index_page(self, soup, tag):
+        """
+        Check if the URL is an index page.
+        """
+        # get all meta tags with name author
+        meta_tags = script_tag = soup.find('script', type='application/ld+json')
+        num_meta_tags = len(soup.find_all('script', type='application/ld+json'))
+
+        if meta_tags and num_meta_tags == 2:
+            print(f'Website: {tag}')
+            # print(meta_tags)
+            print('--' * 60)
+            return 0 # return 0 if it is not an index page
+        else:
+            print(f'Website: {tag}')
+            print("This is an index (or useless) page.")
+            print('--' * 60)
+            return 1 # return 1 if it is an index page
+
+
+    def extract_headline_and_description(self, soup, dir_name, idx_file):
+        """
+        Extract the headline and description
+        """
+        # Find the title tag and extract the text
+        title = soup.find('title').get_text(strip=True)
+        
+        ### Solution - 1 (Contains part of the description information, but it is separated by paragraphs)
+        # Find the div containing the post content
+        content_tag = soup.find('div', class_='post-body post-content')
+        # Find the paragraphs inside the div
+        paragraphs = content_tag.find_all('p')
+        # Combine paragraphs and separate them with a new line
+        description = '\n'.join([p.get_text(strip=True) for p in paragraphs])
+        
+        ### Solution - 2 (Contains all the description information, but it is not separated by paragraphs)     
+        # Find the div containing the post content
+        description = soup.find('div', class_='post-body post-content').get_text(strip=True)
+
+        # Write the headline and description to a .txt file
+        with open(dir_name + "/txt_files/" + str(idx_file) + '.txt', 'w') as f:
+            f.write('Title:\n' + title + '\n')
+            f.write('Description:\n' + description + '\n')
+            f.close()
+
+
+class WebsiteDataAnalyzer():
+    def __init__(self, directory = None):
+        self.directory = directory
 
     def get_sentences_from_text(self, text):
         # Split text into sentences using a regular expression.
@@ -325,10 +432,10 @@ class WebsiteDataAnalyzer():
 
     def get_sentences_and_files(self,):
         sentences_dict = defaultdict(list)
-        for filename in os.listdir('myxalandri/txt_files/'):
+        for filename in os.listdir(f'{self.directory}/txt_files/'):
             # print('--', filename)
             if filename.endswith('.txt'):
-                with open('myxalandri/txt_files/'+filename, 'r', encoding='utf-8') as file:
+                with open(f'{self.directory}/txt_files/'+filename, 'r', encoding='utf-8') as file:
                     content = file.read()
                     # Extract the description section using regex.
                     description_match = re.search(r'Description:(.+)', content, re.DOTALL)
@@ -348,6 +455,7 @@ class WebsiteDataAnalyzer():
                     print("Found in files:", ", ".join(np.unique(files)))
                     print()
 
+
 if __name__ == "__main__":
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description='Scrape websites and remove duplicates.')
@@ -355,12 +463,19 @@ if __name__ == "__main__":
     parser.add_argument('--ingnore-manage-directories', type=bool, default=False, help='Ignore the directory manager and process the crawled URLs.')
     parser.add_argument('--ignore-data-extractor', type=bool, default=False, help='Ignore the data extractor and process the crawled URLs.')
     parser.add_argument('--ignore-zip', type=bool, default=False, help='Ignore the zip file creation.')
+    
 
     parser.add_argument('--max-websites', type=int, default=None, help='Maximum number of crawled websites.')
     parser.add_argument('--start-urls', nargs='+', default=['https://myxalandri.gr'], help='Space-separated list of starting URLs.')
     parser.add_argument('--allowed-domains', nargs='+', default=['myxalandri.gr'], help='Space-separated list of allowed domains.')
     parser.add_argument('--delete-existing-directories', type=bool, default=False, help='Delete existing directories.')
+
+    parser.add_argument('--mode', type=int, default=0, help='Website to crawl. 0: myxalandri.gr, 1: sportsnews.gr')
     args = parser.parse_args()
+
+    if args.mode == 1: 
+        args.start_urls = ['https://www.sportsnewsgreece.gr']
+        args.allowed_domains = ['sportsnewsgreece.gr']
 
     if not args.ignore_web_crawler: 
         # Create a WebsiteProcessor instance and initiate the crawling and processing
@@ -369,19 +484,24 @@ if __name__ == "__main__":
 
     if not args.ingnore_manage_directories:
         # Create a WebsiteDirectoryManager instance and manage the directories
-        directory_manager = WebsiteDirectoryManager(site_maps_file='crawled_urls.txt', delete_existing_directories=args.delete_existing_directories)
+        # TODO replace crawled_urls.txt with a dynamic file name
+        directory_manager = WebsiteDirectoryManager(site_maps_file = 'crawled_urls.txt', delete_existing_directories = args.delete_existing_directories, directory = args.allowed_domains[0])
         dir_name =  directory_manager.create_directories()
 
     if not args.ignore_data_extractor:
         # Create a WebsiteDataExtractor instance and extract the data
-        data_extractor = WebsiteDataExtractor()
+        if args.mode == 0:
+            data_extractor = MyXalandriDataExtractor(directory = args.allowed_domains[0])
+        else:
+            data_extractor = SportsNewsGreeceDataExtractor(directory = args.allowed_domains[0])
+        
         data_extractor.run(directory_manager.urls)
 
     if not args.ignore_zip:
         # Create a zip file
-        directory_manager.create_zip_file(directory_name = dir_name, zip_file_name="myxalandri")
+        directory_manager.create_zip_file(directory_name = dir_name, zip_file_name=args.allowed_domains[0])
 
-    analytics = WebsiteDataAnalyzer()
+    analytics = WebsiteDataAnalyzer(directory = args.allowed_domains[0])
     sentences_dict = analytics.get_sentences_and_files()
     analytics.print_duplicates(sentences_dict)
 

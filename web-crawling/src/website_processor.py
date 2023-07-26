@@ -1,9 +1,13 @@
 from website_crawler import WebsiteCrawler
-import scrapy
 from scrapy.crawler import CrawlerProcess
+import os
+import scrapy
 
 
 class WebsiteProcessor:
+    """
+    This class is responsible for initiating the crawling process and processing the crawled URLs.
+    """
     def __init__(self, max_crawled_websites=None, start_urls=None, allowed_domains=None):
         self.max_crawled_websites = max_crawled_websites
         self.start_urls = start_urls
@@ -18,7 +22,6 @@ class WebsiteProcessor:
             start_urls=self.start_urls,
             allowed_domains=self.allowed_domains
         )
-        
         process.start()
 
         # Call the function to process crawled URLs after the spider is closed.

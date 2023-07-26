@@ -4,20 +4,25 @@ import shutil
 import zipfile
 
 class WebsiteDirectoryManager:
-    def __init__(self, site_maps_file='crawled_urls.txt', delete_existing_directories=False):
+    """
+    This class is responsible for managing the directories .
+    """
+    def __init__(self, site_maps_file='crawled_urls.txt', delete_existing_directories=False, directory=None):
         self.site_maps_file = site_maps_file
         self.delete_existing_directories = delete_existing_directories
         self.url = None
         self.urls = []
+        self.directory = directory
 
     def read_urls_from_file(self):
         if os.path.exists(self.site_maps_file):
             with open(self.site_maps_file, 'r') as f:
                 self.urls = f.readlines()
                 self.urls = [url.strip() for url in self.urls]
-                print(f'Number of urls: {len(self.urls)}')
-                print(f'First url: {self.urls[0]}')
                 self.url = self.urls[0]
+                print(f'Number of urls: {len(self.urls)}')
+                print(f'First url: {self.url}')
+                
         else:
             print('File does not exist')
             raise FileNotFoundError('File does not exist')
@@ -28,8 +33,8 @@ class WebsiteDirectoryManager:
             return
 
         # Extract the domain name and top-level domain (TLD) from the URL
-        dir_name = re.search(r"(?<=://)(.*?)(?=\.gr)", self.url).group(0)
-
+        # dir_name = re.search(r"(?<=://)(.*?)(?=\.gr)", self.url).group(0)
+        dir_name = self.directory
         # Check if the directory exists (directory name contains the domain name and TLD)
         if not os.path.exists(dir_name):
             print(f'Creating new directory {dir_name}')
@@ -70,7 +75,7 @@ class WebsiteDirectoryManager:
         return dir_name
     
     # zip the directories
-    def create_zip_file(self, directory_name, zip_file_name="myxalandri"):
+    def create_zip_file(self, directory_name, zip_file_name=None):
         zip_file_name = zip_file_name + ".zip"
         with zipfile.ZipFile(zip_file_name, "w", zipfile.ZIP_DEFLATED) as zip_file:
             directory_path = os.path.abspath(directory_name)
