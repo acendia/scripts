@@ -1,0 +1,345 @@
+----------------------------------------
+Article 12: https://myxalandri.gr/out-xalandri/13043-ta-kalytera-potakia-ekso-ta-pinoume-sto-xalandri 
+Article 5: https://myxalandri.gr/out-xalandri/12386-ta-kalytera-kokteil-sta-barakia-tou-xalandriou 
+Similarity: 40%
+----------------------------------------
+----------------------------------------
+Article 49: https://myxalandri.gr/out-xalandri/13043-ta-kalytera-potakia-ekso-ta-pinoume-sto-xalandri 
+Article 5: https://myxalandri.gr/out-xalandri/12056-pame-gia-poto-sto-xalandri 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 49: https://myxalandri.gr/out-xalandri/12386-ta-kalytera-kokteil-sta-barakia-tou-xalandriou 
+Article 12: https://myxalandri.gr/out-xalandri/12056-pame-gia-poto-sto-xalandri 
+Similarity: 42%
+----------------------------------------
+----------------------------------------
+Article 31: https://myxalandri.gr/apopseis/11729-doro-aksies-mesa-se-ena-perityligma 
+Article 26: https://myxalandri.gr/apopseis/11692-ta-kleidia-gia-tin-asfali-ploigisi-ton-paidion-mas-sto-diadiktyo 
+Similarity: 41%
+----------------------------------------
+----------------------------------------
+Article 6: https://myxalandri.gr/apopseis/5596-i-filia-stin-efiveia-tis-psyxologou-marinas-kontzila 
+Article 5: https://myxalandri.gr/apopseis/7920-o-fovos-tis-agapis-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 6: https://myxalandri.gr/apopseis/5596-i-filia-stin-efiveia-tis-psyxologou-marinas-kontzila 
+Article 5: https://myxalandri.gr/apopseis/7920-o-fovos-tis-agapis-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 9: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 6: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 6: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Article 9: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 46%
+----------------------------------------
+----------------------------------------
+Article 23: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 13: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 38: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 13: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 38: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Article 23: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 99%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/out-xalandri/12562-dj-freestone-melodies-over-dopeness-white-monkey-xalandri 
+Article 28: https://myxalandri.gr/out-xalandri/12835-a-saturday-night-with-dj-freestone-white-monkey-xalandri 
+Similarity: 52%
+----------------------------------------
+----------------------------------------
+Article 42: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Article 37: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 40%
+----------------------------------------
+----------------------------------------
+Article 9: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 6: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 6: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Article 9: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 46%
+----------------------------------------
+----------------------------------------
+Article 23: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 13: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 38: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 13: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 38: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Article 23: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 99%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/out-xalandri/12562-dj-freestone-melodies-over-dopeness-white-monkey-xalandri 
+Article 28: https://myxalandri.gr/out-xalandri/12835-a-saturday-night-with-dj-freestone-white-monkey-xalandri 
+Similarity: 52%
+----------------------------------------
+----------------------------------------
+Article 42: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Article 37: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 40%
+----------------------------------------
+----------------------------------------
+Article 113: https://myxalandri.gr/penaki/21000-notis-mavroudis-1945-2023-skitso-tou-panou-iatridi 
+Article 8: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Similarity: 100%
+----------------------------------------
+----------------------------------------
+Article 138: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Article 123: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 99%
+----------------------------------------
+----------------------------------------
+Article 336: https://myxalandri.gr/out-xalandri/11923-oi-pio-nostimes-staseis-gia-fagito-sto-xeri-sto-xalandri-kai-ta-voreia-proastia 
+Article 345: https://myxalandri.gr/out-xalandri/12015-poy-tha-fas-nostima-kai-oikonomika-sto-xalandri 
+Similarity: 37%
+----------------------------------------
+----------------------------------------
+Article 152: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 387: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 35: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 387: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 297: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 387: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 39%
+----------------------------------------
+----------------------------------------
+Article 35: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Article 152: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 46%
+----------------------------------------
+----------------------------------------
+Article 257: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 191: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 256: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 191: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 294: https://myxalandri.gr/apopseis/14877-ta-aparaitita-systatika-gia-tin-kyvernisimotita-ton-dimon-tou-xari-kougioumtzopoulou 
+Article 280: https://myxalandri.gr/apopseis/19269-giati-o-proteinomenos-eklogikos-nomos-gia-tin-aftodioikisi-vrisketai-se-lathos-kateythynsi-tou-xari-kougioumtzopoulou1 
+Similarity: 37%
+----------------------------------------
+----------------------------------------
+Article 256: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Article 257: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 99%
+----------------------------------------
+----------------------------------------
+Article 297: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Article 34: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 39%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Article 34: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Similarity: 35%
+----------------------------------------
+----------------------------------------
+Article 120: https://myxalandri.gr/out-xalandri/12562-dj-freestone-melodies-over-dopeness-white-monkey-xalandri 
+Article 109: https://myxalandri.gr/out-xalandri/12835-a-saturday-night-with-dj-freestone-white-monkey-xalandri 
+Similarity: 52%
+----------------------------------------
+----------------------------------------
+Article 297: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Article 35: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 40%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Article 297: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Similarity: 38%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Article 37: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Similarity: 35%
+----------------------------------------
+----------------------------------------
+Article 345: https://myxalandri.gr/out-xalandri/11923-oi-pio-nostimes-staseis-gia-fagito-sto-xeri-sto-xalandri-kai-ta-voreia-proastia 
+Article 336: https://myxalandri.gr/out-xalandri/12015-poy-tha-fas-nostima-kai-oikonomika-sto-xalandri 
+Similarity: 37%
+----------------------------------------
+----------------------------------------
+Article 387: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 152: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 387: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 35: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 387: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 39%
+----------------------------------------
+----------------------------------------
+Article 152: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Article 35: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 46%
+----------------------------------------
+----------------------------------------
+Article 191: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 257: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 191: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 256: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 280: https://myxalandri.gr/apopseis/14877-ta-aparaitita-systatika-gia-tin-kyvernisimotita-ton-dimon-tou-xari-kougioumtzopoulou 
+Article 294: https://myxalandri.gr/apopseis/19269-giati-o-proteinomenos-eklogikos-nomos-gia-tin-aftodioikisi-vrisketai-se-lathos-kateythynsi-tou-xari-kougioumtzopoulou1 
+Similarity: 37%
+----------------------------------------
+----------------------------------------
+Article 257: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Article 256: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 99%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 39%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Article 37: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Similarity: 35%
+----------------------------------------
+----------------------------------------
+Article 109: https://myxalandri.gr/out-xalandri/12562-dj-freestone-melodies-over-dopeness-white-monkey-xalandri 
+Article 120: https://myxalandri.gr/out-xalandri/12835-a-saturday-night-with-dj-freestone-white-monkey-xalandri 
+Similarity: 52%
+----------------------------------------
+----------------------------------------
+Article 35: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 40%
+----------------------------------------
+----------------------------------------
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Article 37: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Similarity: 38%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Article 34: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Similarity: 35%
+----------------------------------------
+----------------------------------------
+Article 345: https://myxalandri.gr/out-xalandri/11923-oi-pio-nostimes-staseis-gia-fagito-sto-xeri-sto-xalandri-kai-ta-voreia-proastia 
+Article 336: https://myxalandri.gr/out-xalandri/12015-poy-tha-fas-nostima-kai-oikonomika-sto-xalandri 
+Similarity: 37%
+----------------------------------------
+----------------------------------------
+Article 387: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 152: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 387: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 35: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 44%
+----------------------------------------
+----------------------------------------
+Article 387: https://myxalandri.gr/mymag/19597-ypnos-kai-oria-to-paidi-mou-den-koimatai-ti-na-kano 
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 39%
+----------------------------------------
+----------------------------------------
+Article 152: https://myxalandri.gr/apopseis/18168-pos-milame-sta-paidia-gia-ton-koronoio-tis-psyxologou-marinas-kontzila 
+Article 35: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Similarity: 46%
+----------------------------------------
+----------------------------------------
+Article 191: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 257: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Similarity: 100%
+----------------------------------------
+----------------------------------------
+Article 191: https://myxalandri.gr/penaki/15116-diorismos-anapliroton-ekpaideftikon-geloiografia-tou-panou-iatridi 
+Article 256: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 280: https://myxalandri.gr/apopseis/14877-ta-aparaitita-systatika-gia-tin-kyvernisimotita-ton-dimon-tou-xari-kougioumtzopoulou 
+Article 294: https://myxalandri.gr/apopseis/19269-giati-o-proteinomenos-eklogikos-nomos-gia-tin-aftodioikisi-vrisketai-se-lathos-kateythynsi-tou-xari-kougioumtzopoulou1 
+Similarity: 37%
+----------------------------------------
+----------------------------------------
+Article 257: https://myxalandri.gr/penaki/14629-ta-lefta-den-fernoun-tin-eksousia-geloiografia-tou-panou-iatridi 
+Article 256: https://myxalandri.gr/penaki/14581-proeklogikes-yposxeseis-geloiografia-tou-panou-iatridi 
+Similarity: 57%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 39%
+----------------------------------------
+----------------------------------------
+Article 34: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Article 37: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Similarity: 35%
+----------------------------------------
+----------------------------------------
+Article 109: https://myxalandri.gr/out-xalandri/12562-dj-freestone-melodies-over-dopeness-white-monkey-xalandri 
+Article 120: https://myxalandri.gr/out-xalandri/12835-a-saturday-night-with-dj-freestone-white-monkey-xalandri 
+Similarity: 52%
+----------------------------------------
+----------------------------------------
+Article 35: https://myxalandri.gr/apopseis/6838-i-simasia-tou-agiou-vasili-gia-ta-paidia-tis-psyxologou-marinas-kontzila 
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Similarity: 40%
+----------------------------------------
+----------------------------------------
+Article 297: https://myxalandri.gr/apopseis/19949-as-riksoume-fos-stous-aoratous-anthropous-tis-mimis-gasoyka 
+Article 37: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Similarity: 38%
+----------------------------------------
+----------------------------------------
+Article 37: https://myxalandri.gr/apopseis/17875-anamniseis-apo-tin-paidagogo-kalliopi-moustaka-grafei-o-mathitis-tis-athanasios-xristakis 
+Article 34: https://myxalandri.gr/apopseis/11609-i-allileggyi-sto-xalandri-tis-meres-tis-krisis-tis-evgenias-katoyfa 
+Similarity: 35%
+----------------------------------------
