@@ -1,6 +1,6 @@
 from website_processor import WebsiteProcessor
 from website_directory_manager import WebsiteDirectoryManager
-from website_data_extractor import MyXalandriDataExtractor, SportsNewsGreeceDataExtractor
+from website_data_extractor import MyXalandriDataExtractor, SportsNewsGreeceDataExtractor, MistikaKipouDataExtractor
 from website_data_analyzer import WebsiteDataAnalyzer
 import argparse
 
@@ -26,6 +26,9 @@ if __name__ == "__main__":
     if args.mode == 1: 
         args.start_urls = ['https://www.sportsnewsgreece.gr']
         args.allowed_domains = ['sportsnewsgreece.gr']
+    elif args.mode == 2:
+        args.start_urls = ['https://www.mistikakipou.gr']
+        args.allowed_domains = ['mistikakipou.gr']
 
     if not args.ignore_web_crawler: 
         # Create a WebsiteProcessor instance and initiate the crawling and processing
@@ -41,9 +44,11 @@ if __name__ == "__main__":
         # Create a WebsiteDataExtractor instance and extract the data
         if args.mode == 0:
             data_extractor = MyXalandriDataExtractor(directory = args.allowed_domains[0])
-        else:
+        elif args.mode == 1:
             data_extractor = SportsNewsGreeceDataExtractor(directory = args.allowed_domains[0])
-        
+        elif args.mode == 2:
+            data_extractor = MistikaKipouDataExtractor(directory = args.allowed_domains[0])
+
         data_extractor.run(directory_manager.urls)
 
     if not args.ignore_zip:

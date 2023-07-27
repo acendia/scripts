@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-
+import bs4
 
 class WebsiteDataExtractor():
     """
@@ -53,16 +53,16 @@ class WebsiteDataExtractor():
         # Loop over each tag and extract the data
         # for tag in loc_tags:
         for tag in urls[1:]:
-            
             # Retrieve the HTML document using the get() method of the requests module
             html_document = requests.get(tag)
 
             # Create a BeautifulSoup object for parsing the HTML document
             soup = BeautifulSoup(html_document.text, 'html.parser')
 
-            # if url is front page, skip
-            if tag.split('/')[-1] == '': 
-                continue
+            # TODO: bad code - fix it
+            # # if url is front page, skip
+            # if tag.split('/')[-1] == '': 
+            #     continue
 
             # if url is index page, skip
             if self.is_index_page(soup, tag):
@@ -90,12 +90,13 @@ class WebsiteDataExtractor():
         print(f'Percentage of article pages: {round(idx_article_page/(idx_article_page + idx_index_page)*100, 2)}%')
 
 
+##############################################################################################################
+
+
 class MyXalandriDataExtractor(WebsiteDataExtractor):
     """
     This class is responsible for extracting the data from the crawled websites from myxalandri.gr.
     """
-    def __init__(self, directory=None):
-        self.directory = directory
 
     def is_index_page(self, soup, tag):
         """
@@ -163,13 +164,13 @@ class MyXalandriDataExtractor(WebsiteDataExtractor):
             f.write(json.dumps(metadata, indent=4, ensure_ascii=False))
 
 
+##############################################################################################################
+
+
 class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
     """
     This class is responsible for extracting the data from the crawled websites from sportsnews.gr.
     """
-    def __init__(self, directory=None):
-        self.directory = directory
-
 
     def is_index_page(self, soup, tag):
         """
@@ -208,8 +209,8 @@ class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
         
         ### Solution - 2 (Contains all the description information, but it is not separated by paragraphs)     
         # Find the div containing the post content
-        description = soup.find('div', class_='post-body post-content').get_text(strip=True)
-
+        # description = soup.find('div', class_='post-body post-content').get_text(strip=True)
+        
         # Write the headline and description to a .txt file
         with open(dir_name + "/txt_files/" + str(idx_file) + '.txt', 'w') as f:
             f.write('Title:\n' + title + '\n')
@@ -253,6 +254,96 @@ class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
             "Author": author
         }
 
+        # Write the metadata to a .meta file in JSON format
+        meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
+        with open(meta_file, 'w') as f:
+            f.write(json.dumps(extracted_data, indent=4, ensure_ascii=False))
+
+
+##############################################################################################################
+
+
+class MistikaKipouDataExtractor(WebsiteDataExtractor):
+    """
+    This class is responsible for extracting the data from the crawled websites from mistikakipou.gr.
+    """
+
+    def is_index_page(self, soup, tag):
+        """
+        Check if the URL is an index page.
+        """
+        # get meta tags
+        meta_tags = soup.find_all('meta')
+        # get meta_tag with name "keywords"
+        meta_tag = soup.find('meta', attrs={'name': 'keywords'})
+        # if it exists return 0 else return 1
+        if meta_tag:
+            print('--' * 60)
+            print(f'Website: {tag}')
+            return 0
+        else:
+            print('--' * 60)
+            print(f'Website: {tag}')
+            print("This is an index page. No meta tags with name keywords")
+            return 1
+
+
+    # Function to get the text from a tag while ignoring anchor tags
+    def get_text_from_tag(self, tag):
+        if isinstance(tag, bs4.NavigableString):
+            return tag.strip()
+        elif tag.name == 'a':  # Ignore anchor tags
+            return ' ' + tag.get_text(strip=True).strip() + ' '
+        else:
+            return ''.join(self.get_text_from_tag(child) for child in tag.contents)
+
+
+    def extract_headline_and_description(self, soup, dir_name, idx_file):
+        """
+        Extract the headline and description
+        """
+        soup = soup.find('div', class_='entry-content')
+        title = soup.find('h1', class_='entry-title').get_text(strip=True)
+        
+        paragraphs = soup.find_all(['h4', 'h3', 'h2', 'p', 'li'])
+
+        # Write the headline and description to a .txt file
+        with open(dir_name + "/txt_files/" + str(idx_file) + '.txt', 'w') as f:
+            f.write('Title:\n' + title + '\n')
+            
+            # Write the 'Description' label only once at the start
+            f.write('Description:\n')
+            
+            # Separate paragraphs with newlines and write them to the file
+            for paragraph in paragraphs:
+                paragraph_text = self.get_text_from_tag(paragraph)
+                if paragraph.name == 'li':
+                    paragraph_text = '* ' + paragraph_text.strip()
+                
+                if "A post shared by Τα Μυστικά του Κήπου (@mistikakipou)" in paragraph_text:
+                    continue
+                
+                f.write(paragraph_text + '\n\n')
+
+
+    def extract_metadata(self, soup, dir_name, idx_file):
+        """
+        Extract the metadata from the HTML document
+        """
+
+        # find all <meta> tags
+        title = soup.find('meta', attrs={'property': 'og:title'})
+        url = soup.find('meta', attrs={'property': 'og:url'})
+        published_time = soup.find('meta', attrs={'property': 'article:published_time'})
+        modified_time = soup.find('meta', attrs={'property': 'article:modified_time'})
+    
+        extracted_data = {
+            "URL": url["content"],
+            "Title": title["content"],
+            "Published Time": published_time["content"] if published_time else None,
+            "Modified Time": modified_time["content"] if modified_time else None
+        }
+        
         # Write the metadata to a .meta file in JSON format
         meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
         with open(meta_file, 'w') as f:
