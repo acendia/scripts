@@ -7,22 +7,21 @@ class WebsiteDirectoryManager:
     """
     This class is responsible for managing the directories .
     """
-    def __init__(self, site_maps_file='crawled_urls.txt', delete_existing_directories=False, directory=None):
-        self.site_maps_file = site_maps_file
+    def __init__(self, crawled_urls_file=None, delete_existing_directories=False, directory=None):
+        self.crawled_urls_file = crawled_urls_file
         self.delete_existing_directories = delete_existing_directories
         self.url = None
         self.urls = []
         self.directory = directory
 
     def read_urls_from_file(self):
-        if os.path.exists(self.site_maps_file):
-            with open(self.site_maps_file, 'r') as f:
+        if os.path.exists(self.crawled_urls_file):
+            with open(self.crawled_urls_file, 'r') as f:
                 self.urls = f.readlines()
                 self.urls = [url.strip() for url in self.urls]
-                self.url = self.urls[0]
                 print(f'Number of urls: {len(self.urls)}')
-                print(f'First url: {self.url}')
-                
+                print(f'First url: {self.urls[0]}')
+                self.url = self.urls[0]
         else:
             print('File does not exist')
             raise FileNotFoundError('File does not exist')

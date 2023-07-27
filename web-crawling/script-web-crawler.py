@@ -28,7 +28,7 @@ class WebsiteCrawler(scrapy.Spider):
         self.max_crawled_websites = max_crawled_websites
         self.crawled_websites = 0
         # TODO replace crawled_urls.txt with a dynamic file name
-        self.file = open('crawled_urls.txt', 'w')
+        self.file = open(f'crawled_urls_{allowed_domains[0]}.txt', 'w')
 
         if start_urls is not None:
             self.start_urls = start_urls
@@ -56,13 +56,13 @@ class WebsiteCrawler(scrapy.Spider):
     def closed(self, reason):
         # After the spider is closed, remove duplicates and save the crawled_urls list to the file.
         # TODO replace crawled_urls.txt with a dynamic file name
-        with open('crawled_urls.txt', 'r') as file:
+        with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'r') as file:
             crawled_urls = file.readlines()
 
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
         # TODO replace crawled_urls.txt with a dynamic file name
-        with open('crawled_urls.txt', 'w') as file:
+        with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'w') as file:
             file.writelines(crawled_urls)
 
 
@@ -86,11 +86,10 @@ class WebsiteProcessor:
         # Call the function to process crawled URLs after the spider is closed.
         self.process_crawled_urls()
 
-    @staticmethod
-    def process_crawled_urls():
+    def process_crawled_urls(self,):
         # Read from the file crawled_urls.txt and print the total number of crawled websites.
         # TODO replace crawled_urls.txt with a dynamic file name
-        with open('crawled_urls.txt', 'r') as file:
+        with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'r') as file:
             crawled_urls = file.readlines()
             print(f'\nTotal number of crawled websites: {len(crawled_urls)}')
 
@@ -104,22 +103,22 @@ class WebsiteProcessor:
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
         # TODO replace crawled_urls.txt with a dynamic file name
-        with open('crawled_urls.txt', 'w') as file:
+        with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'w') as file:
             file.writelines(crawled_urls)
 
 
 class WebsiteDirectoryManager:
     # TODO replace crawled_urls.txt with a dynamic file name
-    def __init__(self, site_maps_file='crawled_urls.txt', delete_existing_directories=False, directory=None):
-        self.site_maps_file = site_maps_file
+    def __init__(self, crawled_urls_file=None, delete_existing_directories=False, directory=None):
+        self.crawled_urls_file = crawled_urls_file
         self.delete_existing_directories = delete_existing_directories
         self.url = None
         self.urls = []
         self.directory = directory
 
     def read_urls_from_file(self):
-        if os.path.exists(self.site_maps_file):
-            with open(self.site_maps_file, 'r') as f:
+        if os.path.exists(self.crawled_urls_file):
+            with open(self.crawled_urls_file, 'r') as f:
                 self.urls = f.readlines()
                 self.urls = [url.strip() for url in self.urls]
                 print(f'Number of urls: {len(self.urls)}')
@@ -372,7 +371,6 @@ class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
     def __init__(self, directory=None):
         self.directory = directory
 
-
     def is_index_page(self, soup, tag):
         """
         Check if the URL is an index page.
@@ -392,7 +390,6 @@ class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
             print('--' * 60)
             return 1 # return 1 if it is an index page
 
-
     def extract_headline_and_description(self, soup, dir_name, idx_file):
         """
         Extract the headline and description
@@ -410,13 +407,64 @@ class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
         
         ### Solution - 2 (Contains all the description information, but it is not separated by paragraphs)     
         # Find the div containing the post content
-        description = soup.find('div', class_='post-body post-content').get_text(strip=True)
+        # description = soup.find('div', class_='post-body post-content').get_text(strip=True)
 
         # Write the headline and description to a .txt file
         with open(dir_name + "/txt_files/" + str(idx_file) + '.txt', 'w') as f:
             f.write('Title:\n' + title + '\n')
             f.write('Description:\n' + description + '\n')
             f.close()
+
+    def extract_metadata(self, soup, dir_name, idx_file):
+        """
+        Extract the metadata from the HTML document
+        """
+
+        # Find all <meta> tags
+        meta_tags = soup.find_all('meta')
+
+        json_script = soup.find_all('script', type='application/ld+json')
+        data = json.loads(json_script[0].string)
+        
+        url_id = data["mainEntityOfPage"]["@id"]
+        headline = data["headline"]
+        date_published = data["datePublished"]
+        date_modified = data["dateModified"]
+        author = data["author"]["name"]
+
+        print("URL:", url_id)
+        print("Headline:", headline)
+        print("Date Published:", date_published)
+        print("Date Modified:", date_modified)
+        print("Author:", author)
+
+        
+        data_topic = json.loads(json_script[1].string)
+        topic = [item["item"]["name"] for item in data_topic["itemListElement"]]
+        print(topic)
+
+        extracted_data = {
+            "URL": url_id,
+            "Topic": topic[:-1],
+            "Headline": headline,
+            "Date Published": date_published,
+            "Date Modified": date_modified,
+            "Author": author
+        }
+
+
+        # # Extract the desired metadata from each meta tag
+        # metadata = {}
+        # for meta_tag in meta_tags:
+        #     name = meta_tag.get('name')
+        #     content = meta_tag.get('content')
+        #     if name and content:
+        #         metadata[name] = content
+
+        # Write the metadata to a .meta file in JSON format
+        meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
+        with open(meta_file, 'w') as f:
+            f.write(json.dumps(extracted_data, indent=4, ensure_ascii=False))
 
 
 class WebsiteDataAnalyzer():
@@ -485,7 +533,7 @@ if __name__ == "__main__":
     if not args.ingnore_manage_directories:
         # Create a WebsiteDirectoryManager instance and manage the directories
         # TODO replace crawled_urls.txt with a dynamic file name
-        directory_manager = WebsiteDirectoryManager(site_maps_file = 'crawled_urls.txt', delete_existing_directories = args.delete_existing_directories, directory = args.allowed_domains[0])
+        directory_manager = WebsiteDirectoryManager(crawled_urls_file = f'crawled_urls_{args.allowed_domains[0]}.txt', delete_existing_directories = args.delete_existing_directories, directory = args.allowed_domains[0])
         dir_name =  directory_manager.create_directories()
 
     if not args.ignore_data_extractor:

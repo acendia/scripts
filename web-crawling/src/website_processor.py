@@ -27,10 +27,9 @@ class WebsiteProcessor:
         # Call the function to process crawled URLs after the spider is closed.
         self.process_crawled_urls()
 
-    @staticmethod
-    def process_crawled_urls():
+    def process_crawled_urls(self, ):
         # Read from the file crawled_urls.txt and print the total number of crawled websites.
-        with open('crawled_urls.txt', 'r') as file:
+        with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'r') as file:
             crawled_urls = file.readlines()
             print(f'\nTotal number of crawled websites: {len(crawled_urls)}')
 
@@ -40,8 +39,7 @@ class WebsiteProcessor:
         for url in duplicates:
             print(url.strip())
 
-        # TODO 
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
-        with open('crawled_urls.txt', 'w') as file:
+        with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'w') as file:
             file.writelines(crawled_urls)
