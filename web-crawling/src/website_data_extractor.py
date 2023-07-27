@@ -39,22 +39,7 @@ class WebsiteDataExtractor():
         """
         Extract the metadata from the HTML document
         """
-
-        # Find all <meta> tags
-        meta_tags = soup.find_all('meta')
-
-        # Extract the desired metadata from each meta tag
-        metadata = {}
-        for meta_tag in meta_tags:
-            name = meta_tag.get('name')
-            content = meta_tag.get('content')
-            if name and content:
-                metadata[name] = content
-
-        # Write the metadata to a .meta file in JSON format
-        meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
-        with open(meta_file, 'w') as f:
-            f.write(json.dumps(metadata, indent=4, ensure_ascii=False))
+        raise NotImplementedError("extract_metadata method must be implemented in child classes.")
 
 
 
@@ -156,6 +141,27 @@ class MyXalandriDataExtractor(WebsiteDataExtractor):
                     f.write('Description:' + '\n' + description + '\n')
                     f.close()
     
+    def extract_metadata(self, soup, dir_name, idx_file):
+        """
+        Extract the metadata from the HTML document
+        """
+
+        # Find all <meta> tags
+        meta_tags = soup.find_all('meta')
+
+        # Extract the desired metadata from each meta tag
+        metadata = {}
+        for meta_tag in meta_tags:
+            name = meta_tag.get('name')
+            content = meta_tag.get('content')
+            if name and content:
+                metadata[name] = content
+
+        # Write the metadata to a .meta file in JSON format
+        meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
+        with open(meta_file, 'w') as f:
+            f.write(json.dumps(metadata, indent=4, ensure_ascii=False))
+
 
 class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
     """
@@ -209,3 +215,45 @@ class SportsNewsGreeceDataExtractor(WebsiteDataExtractor):
             f.write('Title:\n' + title + '\n')
             f.write('Description:\n' + description + '\n')
             f.close()
+
+    def extract_metadata(self, soup, dir_name, idx_file):
+        """
+        Extract the metadata from the HTML document
+        """
+
+        # Find all <meta> tags
+        meta_tags = soup.find_all('meta')
+
+        json_script = soup.find_all('script', type='application/ld+json')
+        data = json.loads(json_script[0].string)
+        
+        url_id = data["mainEntityOfPage"]["@id"]
+        headline = data["headline"]
+        date_published = data["datePublished"]
+        date_modified = data["dateModified"]
+        author = data["author"]["name"]
+
+        print("URL:", url_id)
+        print("Headline:", headline)
+        print("Date Published:", date_published)
+        print("Date Modified:", date_modified)
+        print("Author:", author)
+
+        
+        data_topic = json.loads(json_script[1].string)
+        topic = [item["item"]["name"] for item in data_topic["itemListElement"]]
+        print(topic)
+
+        extracted_data = {
+            "URL": url_id,
+            "Topic": topic[:-1],
+            "Headline": headline,
+            "Date Published": date_published,
+            "Date Modified": date_modified,
+            "Author": author
+        }
+
+        # Write the metadata to a .meta file in JSON format
+        meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
+        with open(meta_file, 'w') as f:
+            f.write(json.dumps(extracted_data, indent=4, ensure_ascii=False))

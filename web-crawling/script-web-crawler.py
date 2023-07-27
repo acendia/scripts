@@ -27,7 +27,6 @@ class WebsiteCrawler(scrapy.Spider):
         self.links = []
         self.max_crawled_websites = max_crawled_websites
         self.crawled_websites = 0
-        # TODO replace crawled_urls.txt with a dynamic file name
         self.file = open(f'crawled_urls_{allowed_domains[0]}.txt', 'w')
 
         if start_urls is not None:
@@ -55,13 +54,11 @@ class WebsiteCrawler(scrapy.Spider):
 
     def closed(self, reason):
         # After the spider is closed, remove duplicates and save the crawled_urls list to the file.
-        # TODO replace crawled_urls.txt with a dynamic file name
         with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'r') as file:
             crawled_urls = file.readlines()
 
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
-        # TODO replace crawled_urls.txt with a dynamic file name
         with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'w') as file:
             file.writelines(crawled_urls)
 
@@ -88,7 +85,6 @@ class WebsiteProcessor:
 
     def process_crawled_urls(self,):
         # Read from the file crawled_urls.txt and print the total number of crawled websites.
-        # TODO replace crawled_urls.txt with a dynamic file name
         with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'r') as file:
             crawled_urls = file.readlines()
             print(f'\nTotal number of crawled websites: {len(crawled_urls)}')
@@ -102,13 +98,11 @@ class WebsiteProcessor:
         
         # Remove duplicates using a dictionary and save the deduplicated URLs
         crawled_urls = list(dict.fromkeys(crawled_urls))
-        # TODO replace crawled_urls.txt with a dynamic file name
         with open(f'crawled_urls_{self.allowed_domains[0]}.txt', 'w') as file:
             file.writelines(crawled_urls)
 
 
 class WebsiteDirectoryManager:
-    # TODO replace crawled_urls.txt with a dynamic file name
     def __init__(self, crawled_urls_file=None, delete_existing_directories=False, directory=None):
         self.crawled_urls_file = crawled_urls_file
         self.delete_existing_directories = delete_existing_directories
@@ -532,7 +526,6 @@ if __name__ == "__main__":
 
     if not args.ingnore_manage_directories:
         # Create a WebsiteDirectoryManager instance and manage the directories
-        # TODO replace crawled_urls.txt with a dynamic file name
         directory_manager = WebsiteDirectoryManager(crawled_urls_file = f'crawled_urls_{args.allowed_domains[0]}.txt', delete_existing_directories = args.delete_existing_directories, directory = args.allowed_domains[0])
         dir_name =  directory_manager.create_directories()
 

@@ -34,7 +34,6 @@ if __name__ == "__main__":
 
     if not args.ingnore_manage_directories:
         # Create a WebsiteDirectoryManager instance and manage the directories
-        # TODO replace crawled_urls.txt with a dynamic file name
         directory_manager = WebsiteDirectoryManager(crawled_urls_file = f'crawled_urls_{args.allowed_domains[0]}.txt', delete_existing_directories = args.delete_existing_directories, directory = args.allowed_domains[0])
         dir_name =  directory_manager.create_directories()
 
