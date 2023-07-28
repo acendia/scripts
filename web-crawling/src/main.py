@@ -1,6 +1,6 @@
 from website_processor import WebsiteProcessor
 from website_directory_manager import WebsiteDirectoryManager
-from website_data_extractor import MyXalandriDataExtractor, SportsNewsGreeceDataExtractor, MistikaKipouDataExtractor
+from website_data_extractor import MyXalandriDataExtractor, SportsNewsGreeceDataExtractor, MistikaKipouDataExtractor, TennisNewsDataExtractor
 from website_data_analyzer import WebsiteDataAnalyzer
 import argparse
 
@@ -29,6 +29,9 @@ if __name__ == "__main__":
     elif args.mode == 2:
         args.start_urls = ['https://www.mistikakipou.gr']
         args.allowed_domains = ['mistikakipou.gr']
+    elif args.mode == 3:
+        args.start_urls = ['https://tennisnews.gr']
+        args.allowed_domains = ['tennisnews.gr']
 
     if not args.ignore_web_crawler: 
         # Create a WebsiteProcessor instance and initiate the crawling and processing
@@ -37,24 +40,25 @@ if __name__ == "__main__":
 
     if not args.ingnore_manage_directories:
         # Create a WebsiteDirectoryManager instance and manage the directories
-        directory_manager = WebsiteDirectoryManager(crawled_urls_file = f'crawled_urls_{args.allowed_domains[0]}.txt', delete_existing_directories = args.delete_existing_directories, directory = args.allowed_domains[0])
+        directory_manager = WebsiteDirectoryManager(crawled_urls_file = f'website_files/crawled_urls_{args.allowed_domains[0]}.txt', delete_existing_directories = args.delete_existing_directories, directory = "website_files/" + args.allowed_domains[0])
         dir_name =  directory_manager.create_directories()
 
     if not args.ignore_data_extractor:
         # Create a WebsiteDataExtractor instance and extract the data
         if args.mode == 0:
-            data_extractor = MyXalandriDataExtractor(directory = args.allowed_domains[0])
+            data_extractor = MyXalandriDataExtractor(directory = "website_files/" + args.allowed_domains[0])
         elif args.mode == 1:
-            data_extractor = SportsNewsGreeceDataExtractor(directory = args.allowed_domains[0])
+            data_extractor = SportsNewsGreeceDataExtractor(directory = "website_files/" + args.allowed_domains[0])
         elif args.mode == 2:
-            data_extractor = MistikaKipouDataExtractor(directory = args.allowed_domains[0])
-
+            data_extractor = MistikaKipouDataExtractor(directory = "website_files/" + args.allowed_domains[0])
+        elif args.mode == 3:
+            data_extractor = TennisNewsDataExtractor(directory = "website_files/" + args.allowed_domains[0])
         data_extractor.run(directory_manager.urls)
 
     if not args.ignore_zip:
         # Create a zip file
-        directory_manager.create_zip_file(directory_name = dir_name, zip_file_name=args.allowed_domains[0])
+        directory_manager.create_zip_file(directory_name = ("website_files/" + dir_name), zip_file_name=args.allowed_domains[0])
 
-    analytics = WebsiteDataAnalyzer(directory = args.allowed_domains[0])
+    analytics = WebsiteDataAnalyzer(directory = "website_files/" + args.allowed_domains[0])
     sentences_dict = analytics.get_sentences_and_files()
     analytics.print_duplicates(sentences_dict)

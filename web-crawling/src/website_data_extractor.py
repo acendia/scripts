@@ -348,3 +348,93 @@ class MistikaKipouDataExtractor(WebsiteDataExtractor):
         meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
         with open(meta_file, 'w') as f:
             f.write(json.dumps(extracted_data, indent=4, ensure_ascii=False))
+
+
+##############################################################################################################
+
+
+class TennisNewsDataExtractor(WebsiteDataExtractor):
+    
+    def is_index_page(self, soup, tag):
+        """
+        Check if the URL is an index page.
+        """
+        # get meta tag with name "author"
+        article_title_tag = soup.find('h2', class_='itemTitle')
+        article_div_tag = soup.find('div', class_='row itemPrimaryZone')
+        # if it exists return 0 else return 1
+        if article_title_tag is not None and article_div_tag is not None:
+            print('--' * 60)
+            print(f'Website: {tag}')
+            return 0
+        else:
+            print('--' * 60)
+            print(f'Website: {tag}')
+            print("This is an index page. No meta tags with name author")
+            return 1
+        
+        
+    # Function to get the text from a tag while ignoring anchor tags
+    def get_text_from_tag(self, tag):
+        if isinstance(tag, bs4.NavigableString):
+            return tag.strip()
+        elif tag.name == 'a':  # Ignore anchor tags
+            return ' ' + tag.get_text(strip=True).strip() + ' '
+        else:
+            return ''.join(self.get_text_from_tag(child) for child in tag.contents)
+        
+
+    def extract_headline_and_description(self, soup, dir_name, idx_file):
+        """
+        Extract the headline and description
+        """
+        title = soup.find('h2', class_='itemTitle').get_text(strip=True)
+        
+        soup = soup.find('div', class_='row itemPrimaryZone')
+        soup = soup.find_all(['h4', 'h3', 'p', 'li'])
+
+
+        with open(dir_name + "/txt_files/" + str(idx_file) + '.txt', 'w') as f:
+            f.write('Title:\n' + title + '\n')    
+            f.write('Description:\n')
+            for paragraph in soup:
+                for sub_paragraph in paragraph:
+                    sub_paragraph_soup = BeautifulSoup(str(sub_paragraph), 'html.parser')
+                    # find the script tag
+                    script_tag = sub_paragraph_soup.find('script')
+                    span_tag = sub_paragraph_soup.find('span')
+                    br_tag = sub_paragraph_soup.find('br')
+                    if script_tag is not None or span_tag is not None:
+                        continue
+                    if br_tag is not None:
+                        print()
+                        continue
+                    
+                    f.write(sub_paragraph_soup.get_text(strip=True) + '\n\n')
+
+
+    def extract_metadata(self, soup, dir_name, idx_file):
+        """
+        Extract the metadata from the HTML document
+        """
+
+        # # find all <meta> tags
+        title = soup.find('meta', attrs={'property': 'og:title'})
+        url = soup.find('meta', attrs={'property': 'og:url'})
+        published_time = soup.find('meta', attrs={'property': 'article:published_time'})
+        modified_time = soup.find('meta', attrs={'property': 'article:modified_time'})
+        author = soup.find('meta', attrs={'name': 'author'})
+
+        extracted_data = {
+            "URL": url["content"],
+            "Title": title["content"],
+            "Published Time": published_time["content"] if published_time else None,
+            "Modified Time": modified_time["content"] if modified_time else None,
+            "Author": author["content"] if author else None
+        }
+        
+        
+        # Write the metadata to a .meta file in JSON format
+        meta_file = dir_name + "/metadata_files/" +  str(idx_file) + '.meta'
+        with open(meta_file, 'w') as f:
+            f.write(json.dumps(extracted_data, indent=4, ensure_ascii=False))
