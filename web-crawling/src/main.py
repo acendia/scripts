@@ -5,8 +5,8 @@ from website_data_analyzer import WebsiteDataAnalyzer
 import argparse
 
 
-
 if __name__ == "__main__":
+
     # Parse command-line arguments
     parser = argparse.ArgumentParser(description='Scrape websites and remove duplicates.')
     parser.add_argument('--ignore-web-crawler', type=bool, default=False, help='Ignore the web crawler and process the crawled URLs.')
@@ -32,7 +32,9 @@ if __name__ == "__main__":
     elif args.mode == 3:
         args.start_urls = ['https://tennisnews.gr']
         args.allowed_domains = ['tennisnews.gr']
-
+    
+    # TODO write a crawler for the http://ebooks.edu.gr/ website (that crawls all the sub domains of a specific book)
+    
     if not args.ignore_web_crawler: 
         # Create a WebsiteProcessor instance and initiate the crawling and processing
         website_processor = WebsiteProcessor(args.max_websites, args.start_urls, args.allowed_domains)

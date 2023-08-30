@@ -354,6 +354,9 @@ class MistikaKipouDataExtractor(WebsiteDataExtractor):
 
 
 class TennisNewsDataExtractor(WebsiteDataExtractor):
+    """
+    This class is responsible for extracting the data from the crawled websites from tennisnews.gr.
+    """
     
     def is_index_page(self, soup, tag):
         """
