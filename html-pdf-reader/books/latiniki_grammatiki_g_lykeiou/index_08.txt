@@ -1,0 +1,320 @@
+ΜΕΡΟΣ Γ'
+ΕΤΥΜΟΛΟΓΙΚΟ
+Α' ΠΑΡΑΓΩΓΗ (DERIVATIO)
+
+
+ 108. Και της Λατινικής 	γλώσσας οι απλές λέξεις (vocabŭla simplicia) 	είναι: 
+
+
+ 1) πρωτότυπες (vocabŭla primitīva),      όπως rex (από το reg-s) βασιλιάς, lux (από το      luc-s) φως, do (από το da-o) δίνω∙ 
+
+
+ 2) παράγωγες (vocabŭla derivāta),  όπως rex (reg-is) reg-ius και reg-ālis βασιλικός, (lux, luc-is) luc-e-o φέγγω και luc-ĭdus φωτεινός, (do,  θ. da-) dator δότης (πρβ. αρχαία Ελληνική). 
+
+
+ Σημείωση.Όπως στην Ελληνική έτσι και  στη Λατινική σε μια σειρά λέξεων που  είναι ετυμολογικά συγγενείς κάθε μια  από τις λέξεις αυτές, εκτός από την  πρώτη (που είναι η κυρίως πρωτότυπη)  είναι παράγωγη ως προς την προηγούμενη  και πρωτότυπη ως προς την επόμενη, π.χ. os (or-is) στόμα, (από αυτή) oro (ora-re) λέγω, (από  αυτή) ora-tio λόγος και ora-tor (orator-is)  ρήτορας, (από αυτή) orator-ius ρητορι­κός  κτλ.
+
+
+ 109. Και στη Λατινική 	γλώσσα οι διάφορες παραγωγικές 	καταλήξεις κανονικά προστίθενται στο 	θέμα των πρωτότυπων, όπως (leg-o) lec-tor (από 	το leg-tor) αναγνώστης, salus (salut-is) salut-āris 	σωτήριος, (laus, laud-is) laud-o (από το laud-a-o) 	επαινώ. 
+
+
+ Πολλές φορές όμως (όπως και στην 	Ελληνική γλώσσα), όταν σχηματίζεται η 	παράγωγη λέξη, αποβάλλεται ένας ή 	περισσότεροι φθόγγοι από το τέλος του 	θέματος της πρωτότυπης ή παρεμβάλλεται 	κάποιο φωνήεν ανάμεσα στο θέμα της και 	στην παραγωγική κατάληξη, όπως: 
+
+
+
+
+(navi-s)
+
+
+nav-ālis ναυτικός 
+
+
+
+
+(aestas, aestat-is)
+
+
+aest-īvus θερινός, 	      κτλ. 
+
+
+
+
+(pons, pont-is)
+
+
+pont-i-cŭlus 	      γεφυράκι 
+
+
+
+
+(caput, capit-is)
+
+
+capit-ŭ-lum 	      κεφάλαιο, κτλ. 
+
+
+
+
+ 110. α´) Παράγωγα ρήματα (verba derivata). Αυτά  σχηματίζονται:
+
+
+ 1) από ονόματα (verba 	denominatīva) κατά την α´, τη β´ και την δ´ 	συζυγία, όπως (arma, §34, 4, Α´, β´), armare (οπλίζειν), (laus, lau-d-is) lau-dare (επαινείν), (levis) levare (κουφίζειν), (flos, flor-is) florere (ανθείν), (lux, luc-is) lucēre (φέγγειν), (finis) finire (oρίζειν), (lenis) lenire 	 (πραΰνειν), (sitis) sitire (διψάν), (saevus) saevire  (μαίνεσθαι).
+
+
+ Κατά την γ´ συζυγία μόνο εναρκτικά, όπως 	(durus) durescĕre (σκληρούσθαι) σκληραίνομαι 	(maturus) maturescĕre (πεπαίνεσθαι) γίνομαι 	ωραίος (§ 86, 2 γ´)· 
+
+
+ 2) από άλλα ρήματα (verba 	verbalia) 
+
+
+ α´) Εναρκτικά (verba incohatīva) κατά την γ´ 	συζυγία, όπως (senēre) senescere (γηράσκειν) 	γεράζω, (florēre) florescĕre (εξανθείν) ανθίζω, (obdormire) obdormiscere (αποκοιμάσθαι) 	αποκοιμάμαι (βλ. και αμέσως προηγούμενα) 
+
+
+ β) Θαμιστικά ή επιτατικά(verba frequentatīva ή 	intensīva) κατά την α´ συζυγία, από το 	σουπίνο του πρωτότυπου με τροπή της 	καταλήξεως -um σε -are, όπως (cano, cant-um) 	cant-āre (ᾄδειν) τραγουδώ, (curro, curs-um) curs-are 	(περιτρέχειν) τρέχω, (dormio, dormit-um) dormit-are 	(υπνώττειν) νυστάζω, κτλ. 
+
+
+ Από σουπίνα σε -atum (από ρήματα δηλ. α´ 	συζυγίας) παράγονται κανονικά 	θαμιστικά ρήματα όχι σε -atāre, αλλά σε 	-ĭtāre, όπως (rogo, rog-atum) rog-ĭtare (διερωτάν) 	ερωτώ, (volo, vol-atum) volĭtāre (περιπέτεσθαι) 	πετώ. Σύμφωνα με αυτά και (haereo, haesi, haes-um, 	haerere, haesĭtāre) (οκνείν) βρίσκομαι σε 	αμηχανία, (ag-o, § 87, 2, α´), ag-itare (ελαύνειν) 	καταδιώκω. 
+
+
+ γ´) Εφετικά (verba deideratīva) κατά την δ´ 	συζυγία, από το σουπίνο του πρωτότυπου 	με τροπή της καταλήξεως -um σε 	-urire, όπως (edo, es-um, § 92) esurire 	(επιθυμείν φαγείν) πεινώ, (pario, par-tum, § 87, 2, 	β´) part-urire (ωδίνειν) κοιλοπονώ. (πρβ. αρχ. 	ελλην. τυραννώ, τυραννήσ-ω, 	τυραννησ-είω), 
+
+
+ δ´) Υποκοριστικά (verba deminutīva), κατά την 	α´ συζυγία, κανονικά λήγουν σε -illo, όπως (canto) cant-illo (υπᾴδω) συνοδεύω το τραγούδι με τη φωνή 	μου, ακομπανιάρω, (sorbeo) sorbillο (υποπίνω, 	ροφώ) σιγοπίνω. (Πβ. νεοελλην. 	κουτσοπίνω, κουτσοδουλεύω, κτλ.). 
+
+
+ 111. Παράγωγα ουσιαστικά 	(substantīva derivāta). Αυτά σχηματίζονται: 
+
+
+ 1) από ρήματα (substantīva verbalia). 
+
+
+ α´) από το θέμα του σουπίνου (§ 88) με 	κατάληξη -or, για να δηλωθεί το πρόσωπο 	που ενεργεί, όπως (amare, amat-um) amat-or 	εραστής, (currere, curs-um) curs-or δρομέας, (pingere, 	pict-um) pictor ζωγράφος, (πρβ. πράττω - 	πράκτωρ, κτλ.). 
+
+
+ Σημείωση.Πολλά από τα ουσιαστικά σε-tor 	σχηματίζουν θηλυκό σε -trix (γεν. trīcis), όπως (vincĕre, vict-um) victor νικητής, victrix 	νικήτρια, (πρβ.§ 40, γ´). 
+
+
+ β´) από το ρηματικό θέμα με κατάληξη -or, 	-us, -ium, ēla, για να δηλωθεί ενέργεια ή 	κατάσταση, όπως (am-are) am-or έρωτας, (do-lēre) 	dol-or λύπη, (fur-ĕre) fur-or μανία, (dec-ere) dec-us 	καλλωπισμός, (gaud-ēre) gaud-ium χαρά, (od-i, § 98, 1) od-ium μίσος, (quer-i, § 80) quēr-ela μομφή, 	κατηγορία, (tut-ari § 81) tut-ela επιστασία. 
+
+
+ γ´) από το θέμα του σουπίνου με κατάληξη 	-io, -us (δ´ κλίσεως), ūra για να δηλωθεί 	ενέργεια ή το αποτέλεσμα κάποιας 	ενέργειας, όπως (agĕre, act-um) act-io πράξη, (venare, venatum) venat-io θήρα (το κυνήγι), (movere, 	mot-um) mot-us κίνηση, (currere, curs-um) curs-us δρόμος (τρέξιμο), (sepelire, sepult-um) sepult-ūra ταφή, (colere, 	cult-um) cult-ūra θεραπεία, περιποίηση, (accusare, 	accusat-um) accusat-io κατηγορία, (orare, orat-um) orat-io 	λόγος, (frui, fruct-um, § 80) fruct-us καρπός, (scribere, 	script-um) script-ūra γραφή, (nasci, nat-um, § 80) nat-ūra 	φύση. 
+
+
+ δ´) Από το ρηματικό θέμα με κατάληξη -men, 	-mentum, -ŭlum, -bŭlum, cŭlum, -crum, -trum, για να 	δηλωθεί κάποιο μέσο ή όργανο ή τόπος 	μιας ενέργειας, όπως (volv-ere) volu-men 	σκέπασμα, (al-ere) ali-mentum τροφή, (vinc-ire) 	vinc-ŭlum δεσμός, (pa-scere) pa-bŭlum χόρτο, βοσκή, (vocare) voca-bŭlum λέξη, (orare) oraculum μαντείο, 	χρησμός, (sepelire) sepul-crum τάφος, (arare) arā-trum 	άροτρο. 
+
+
+ 2) Από άλλα ουσιαστικά (substantīva 	denominatīva). 
+
+
+ α´) Με κατάληξη -tor, -ĭtor. για να δηλωθεί 	το πρόσωπο που έχει σχέση με εκείνο που 	φανερώνει το πρωτότυπο, όπως (via) viātor 	οδοιπόρος, (ianua) ian-ĭtor θυρωρός, (funda) fund-ĭtor σφενδονήτης (πρβ.§ 111, 1, α´). 
+
+
+ β´) Με κατάληξη -arium, -ētum, -īle, για να 	δηλωθεί ο τόπος μέσα στον οποίο 	υπάρχουν ή διαμένουν πολλά ομοειδή 	όντα, όπως (columba) columb-arium περιστερώνας, (oliva) oliv-ētum ελαιώνας, (bos, bovis) bov-īle 	βουστάσιο. 
+
+
+ γ´) Με την κατάληξη -ina (-trina), για να 	δηλωθεί το επάγγελμα ή ο τόπος όπου 	ασκείται το επάγγελμα, όπως (medicus) medic-īna 	ιατρική, (doctor) doctr-ina διδασκαλία, (opifex, 	opific-is) offic-ina (από το opific-ina) εργαστήριο, (tonsor) tons-trina κουρείο. 
+
+
+ δ´) Με την κατάληξη -ium (-itium), για να 	δηλωθεί κατάσταση ή σύνολο προσώπων 	όμοιας καταστάσεως, όπως (sacerdos) sacerdot-ium 	ιερατεία, (collēga) colle-gium εταιρεία, (servus) 	serv-itium δουλεία, οι δούλοι. 
+
+
+ ε´) Με τις καταλήξεις -lus, -la, -lum, (-ŭlus, -ŭla, 	-ŭlum, ŏlus, -ŏla, -ŏlum, -cŭlus, -cŭla, -cŭlum και 	σπανιότερα -illus, -illa, -illum) υποκοριστικά. 	Αυτά συνήθως διατηρούν το γένος του 	πρωτοτύπου, όπως (liber) libel-lus (από το 	liber-lus) βιβλιάριο, (lapis) lapil-lus (από το 	lapid-lus) λιθαράκι, (puer) puer-ŭlus παιδάριο και 	puella (από το puer-la) κοριτσάκι, (sacrum) sacel-lum (από το sacer-lum) μικρό ιερό, (silva) silv-ŭla 	μικρό δάσος, (filius) fili-ŏlus αγοράκι, (filia) 	fili-ŏla κοριτσάκι, (mus) mus-cŭlus ποντικάκι, (opus) opus-culum μικρό έργο, (codex) codic-illus μικρό 	σύγγραμμα, κωδίκελλος, (signum) sig-illum 	αγαλμάτιο. 
+
+
+ Σημείωση.Και από υποκοριστικά 	σχηματίζονται άλλα υποκοριστικά όπως 	cista κίστη, (κιβώτιο) — cist-ula μικρή κίστη, 	μικρό κιβώτιο — cistel-la, cistell-ula κιβωτίδιο. 	(πβ. αρχ. ελλην. πίναξ — πινακ-ίς — 	πινακίδιον και νεοελλην. σάκος — 	σακούλι — σακουλάκι). 
+
+
+ στ´) Από κύρια ονόματα προσώπων 	πατρωνυμικά με τις καταλήξεις (που 	προέρχονται από την ελληνική γλώσσα) 	-ides ή -ides, -ădes, -iades (αρσενικά) και -as, -is, 	ēis (θηλυκά), όπως (Priamus) Priamĭdes (Πριαμίδης) γιος του Πριάμου, (Atreus) Atrīdes 	(Ατρείδης) γιος του Ατρέα, (Aeneas) Aeneădes Αινειάδης, (Telamon) Telamon-iădes 	Τελαμωνιάδης, (Tantalus) Tantăl-is Τανταλίς, (Thesti-us) Thesti-as, Θεστιάς, (Nerēus) Ner-ēis Νηρηίς. (Βλ. § 16 και § 28). Κατά 	τον ίδιο τρόπο σχηματίστηκαν παράγωγα 	και από γνήσια ρωμαϊκά ονόματα, όπως (Romulus) Romul-ĭdes Ρωμυλίδης, (Scipio) Scipi-ādes 	Σκιπιάδης. 
+
+
+ 3) Από επίθετα αφηρημένα ουσιαστικά, για 	να δηλώσουν σχετική ιδιότητα. Αυτά 	έχουν τις εξής παραγωγικές καταλήξεις: 	-ia, -itia, ή -ties (ε´ κλίσεως), -tas, -ĭtas, -tūdo, 	-itūdo και σπανίως -monia, όπως (gratus) grat-ia 	χάρη, εύνοια, (insanus) insan-ia μανία, (malus) 	malitia κακία, (segnis) segn-itia και segn-ĭties 	νωθρότητα, (liber) liber-tas ελευθερία, (levis) 	levĭ-tas ελαφρότητα, (probus) probĭtas 	χρηστότητα, (fortis) forti-tūdo δύναμη, (longus) 	long-itūdo μακρότητα, (acer) acr-i-monia δριμύτητα, 	(castis) castimonia αγνότητα. 
+
+
+ 112. γ´) Παράγωγα επίθετα (adverbia derivata). 	Αυτά σχηματίζονται: 
+
+
+ 1) Από ρήματα (adiectīva verbalia) από 	το ρηματικό θέμα (πβ. § 111, 1, β´ και δ´): 
+
+
+ α´) Με κατάληξη -ĭdus και φανερώνουν 	εκείνον που έχει σχετική ιδιότητα με 	αυτό που σημαίνει το ρήμα, όπως (valēre) 	val-ĭdus εύρωστος, (calēre) cal-ĭdus θερμός. 
+
+
+ β´) Με κατάληξη -ĭlis, -bĭlis και φανερώνουν 	τον επιτήδειο να πάθει εκείνο που 	σημαίνει το ρήμα, όπως (docere) doc-cĭlis 	ευδίδακτος, (placare) placa-bĭlis πραϋντικός, (movere) mobilis ευκίνητος. 
+
+
+ γ´) Με κατάληξη -ax, -ŭlus και φανερώνουν 	συνήθως εκείνον που έχει κάποιο 	ελάττωμα σχετικό με αυτό που σημαίνει 	το ρήμα, όπως (audēre) aud-ax τολμηρός, (loqui) 	loqu-ax φλύαρος, (credere) credŭlus εύπιστος, (queri) 	quer-ŭlus μεμψίμοιρος. 
+
+
+ δ´) Με την κατάληξη -bundus, -cundus και 	φανερώνουν με επίταση ό,τι η μετοχή του 	ενεστώτα του ρήματος, όπως (venerari) 	venerabundus πολύ ευσεβής, (furĕre) furi-bundus 	έξαλλος, (irasci) ira-cundus πολύ οργισμένος. 
+
+
+ 2) Από ουσιαστικά (adiectiva 	denominatīva): 
+
+
+ α´) Με κατάληξη -icus, -ius, -icius, -ālis, -īlis, -āris, 	-arius, -nus (-ānus, -īnus), -ensis, -īvus, και 	φανερώνουν εκείνον που ανήκει σε ό,τι 	σημαίνει το πρωτότυπο ή έχει σχέση με 	αυτό, όπως (bellum) bell-ĭcus πολεμικός, (orator) 	orator-ius ρητορικός, (pater) patr-ius πατρικός, (tribunus) tribun-icius δημαρχικός, (navis) nav-ālis 	ναυτικός, vir-īlis ανδρικός, (populus) popul-āris 	δημοτικός, (legio) legionarius λεγεωνάριος, (mater) mater-nus μητρικός, (urbs) urb-ānus αστικός, (equus) equīnus ιππικός, (forum) for-ensis αγοραίος, (tempe-stas) tempest-īvus έγκαιρος, (§ 109). Και από 	εθνικά ονόματα (με τις καταλήξεις –icus, 	-īus), οπως (Gallus) Gall-ĭcus, (Thrax) Thrac-ius, από 	κύρια ονόματα προσώπων (με τις 	καταλήξεις -nus, -ānus, -īnus, -iānus), όπως (Sulla) Sullanus, (Tullius) 	Tulli-ānus, (Verres) Verr-īnus, (Caesar) Caesar-iānus, και 	από τοπωνύμια ή ονόματα χωρών, νήσων, 	ηπείρων με τις καταλήξεις -nus, -ānus, -īnus, 	-ensis και ακόμη -as γεν. -atis, όπως (Roma) Rom-ānus, 	(Africa) Afric-ānus, (Tusculum) Tuscul-ānus. (Ameria) Amer-īnus, 	(Cannae) Cannensis, (Sicilia) Sicili-ensis, (Arpinum) Arpīn-as (26, 4, Β´, β´). 
+
+
+ β´) Με κατάληξη -tus (-ātus, -ītus, -ūtus) και 	φανερώνουν εκείνον που έχει ή φέρει ό,τι 	σημαίνει το πρωτότυπο, όπως (ala) alā-tus 	φτερωτός, (hasta) hastā-tus λογχοφόρος, (clavus) 	clav-ātus καρφωτός, (auris) aur-ītus όποιος 	ακούει, (cornu) cornū-tus εκείνος που έχει 	κέρατα. 
+
+
+ γ´) Με κατάληξη -ōsus, -entus, -lentus και 	φανερώνουν πλησμονή, όπως (aqua) aqu-ōsus (υδρώδης) όποιος έχει άφθονα νερά, (periculum) pericul-ōsus επικίνδυνος, (turbăla) turbul-entus 	θορυβώδης, (fraus) fraud-u-lentus απατηλός. 
+
+
+ δ´) Με κατάληξη -ĕus, και φανερώνουν την 	ύλη από την οποία είναι φτιαγμένο κάτι, 	όπως (lana) lan-ĕus μάλλινος, (argentum) argent-eus (αργυρούς) ασημένιος, (ferrum) ferr-eus (σιδηρούς) σιδερένιος. 
+
+
+ 3) Από άλλα επίθετα. 	Αυτά είναι υποκοριστικά (adiectīva de-minutīva) 	και σχηματίζονται με τις καταλήξεις 	-lus, -ŭlus, -ŏlus, -cŭlus, όπως (miser) misel-lus (από      το miser-lus) ταλαίπωρος, (parvus) parv-ŭlus      μικρούλης, (aureus) aure-ŏlus επίχρυσος, (pauper)      pauper-culus φτοιχούλης. (πβ. § 111, 2, ε´). 
+
+
+ 4) Από επιρρήματα (adiectīva adverbialia):
+
+
+ α´) Τοπικά με κατάληξη -īcus, όπως (ante) 	ant-īcus εμπρόσθιος, (post) post-īcus οπίσθιος. 
+
+
+ β) Χρονικά με κατάληξη, -īnus, -tĭnus, (ή -tīnus), -ernus, -ternus, -iternus, όπως (repente) repent-īnus 	αιφνίδιος, (cras) cras- tĭnus αυριανός, (prius) 	pris-tĭnus ή pris-tīnus πρότερος, (hodie) hodiernus 	σημερινός, (heri από την αρχή, hesi πβ. §23, 2 	σημ.) hes-ternus, χθεσινός, (semper) sempiternus 	αιώνιος. 
+
+
+ 113. δ´) Παράγωγα επιρρήματα (adverbia derivata). Αυτά σχηματίζονται: 
+
+
+ 1) τοπικά από 	ουσιαστικά και επίθετα με την κατάληξη 	-ĭtus, για να δηλώσουν το από που: ή το από 	πότε; (caelum) cael-ĭtus από τον ουρανό, (fundus) 	fund-ĭtus από τα θεμέλια, (tadex, -dĭcis) radic-ĭtus 	από τις ρίζες, (divinus) divin-ītus από το θεό, (antiquus) antiqu-itus από την αρχαία εποχή. 
+
+
+ 2) τροπικά α´) από επίθετα και 	μετοχές της β´ κλίσεως (§ 37 και § 43, 1) με 	κατάληξη -ē, όπως (iucundus) iucund-ē (ηδέως) 	ευχάριστα, (pulcher) pulchr-ē (ευπρεπώς) 	ωραία, (doctus) doct-ē σοφά, (accuratus) accurat-ē 	επιμελώς (βλ. και §53). 
+
+
+ Σημείωση.Από τα τροπικά επιρρήματα σε -e 	το benĕ (= καλά, από το bonus αρχικά benus) και 	το malĕ (= κακά, από το malus) έχουν το 	καταληκτικό e βραχύ. 
+
+
+ β´) από επίθετα (ή μετοχές) τριτόκλιτες 	με κατάληξη -er, -ter, -ĭter, όπως (prudens, prudent-is) prudent-er συνετά, (audax, audac-is) audact-er τολμηρά, 	(fortis) fortĭter ισχυρά, (felix, felic-is) felic-ĭter 	ευτυχώς (βλ. και §53). 
+
+
+ Σημείωση.Κατ’ αναλογίαν 	σχηματίστηκαν τροπικά επιρρήματα σε -ē 	από τριτόκλιτα επίθετα και σε -ĭter από 	δευτερόκλιτα, όπως (impun-is) impun-e (ατιμωρητί) χωρίς τιμωρία, (largus) larg-e και 	largiter άφθονα, (humanus) humane και humaniter 	ανθρώπινα. 
+
+
+ γ´) από ρήματα, θέμα του υπτίου, με 	κατάληξη –im, όπως (nominare, nomināt-um) nominā-tim 	ονομαστικά, (rapĕre, raptum) rapt-im αρπακτικά, 	(currere, curs-um) curs-im (δρομαίως) γρήγορα. Κατά 	τον ίδιο τρόπο σχηματίστηκαν έπειτα με 	την ίδια κατάληξη και από ονόματα, όπως 	(gradus) grad-ātim (βαθμηδόν) σιγά-σιγά, (grex, grecis) 	greg-ātim (αγεληδόν) σαν κοπάδι, (vir) viri-tim 	κατ’ άνδρας, (tribus) tribū-tim κατά φυλές. 
+
+Β΄ ΣΥΝΘΕΣΗ (COMPOSITIO)
+
+ 114.  Όπως στην ελληνική 	γλώσσα έτσι και στη Λατινική 
+
+
+ 1) κάθε ένα από τα συνθετικά μέρη μιας 	σύνθετης λέξεως είναι είτε κλιτό είτε 	άκλιτο μέρος λόγου. π.χ. (pomum, fero) pomĭfer 	οπωροφόρος, (per, multus) per-multus πάρα πολύς, (de, mitto) de-mitto καταπέμπω, (per, saepe) per-saepe 	συχνότατα∙ 
+
+
+ 2) πρώτο συνθετικό μιας σύνθετης 	λέξεως μπορεί να είναι και αχώριστο 	μόριο (πβ. ελλην. α- ή αν-, δυσ-, κτλ.). 	Αχώριστα μόρια της Λατινικής είναι: 
+
+
+ α´) το ambi- (amb-, am-, an- = αμφί, περί): ambi- farius (αμφίλογος) αμφισβητούμενος, αμφίβολος, 	amb-ĕdo περιτρώγω), am-plector περιβάλλω, an-ceps (αμφικέφαλος) δίστομος∙ 
+
+
+ β´) το dis- (= δια ή α-, άν-): dis-iungo χωρίζω, 	dis-solvo διαλύω, dis-par άνισος, dis-simĭlis 	ανόμοιος∙ 
+
+
+ γ´) το in-(im-), ne-, ve- (= α-, αν-): in-utĭlis 	ανώφελος, im-pius ασεβής, ne-fas ανόσιος, ne-scio 	αγνοώ, ve-cors τρελός, vesānus φρενοβλαβής· 
+
+
+ δ´) το por- (= προ): por-tendo προσημαίνω· 
+
+
+ ε´) το red-, re- (= οπίσω, πάλιν, ανά): red-do 	δίδω πίσω, red-eo επιστρέφω, remitto στέλνω 	πάλι, refĕro φέρω πίσω· 
+
+
+ στ´) το sed-, se- (= άνευ, δια, από): sed-itio 	διάσταση, se-cūrus (= sine cura) αμέριμνος, se-cerno 	διακρίνω, secēdo αποχωρώ (πβ. ανωτέρω dis-)· 
+
+
+ 3) μερικές κλιτές σύνθετες λέξεις 	προέρχονται από απλή παράθεση δύο 	λέξεων, π.χ. respublĭca πολιτεία (από το res- 	publica), ius- iurandum όρκος (από το ius-iurandum), 	decemvĭri οι δέκαρχοι (από το decem-viri), benedīco 	επαινώ (από το bene-dico), benefacio ευεργετώ (από το bene-facio)· πβ. νεά-πολη, νεώσ-οικος, 	πασί-γνωστος κτλ. 
+
+
+ Σημείωση.Των λέξεων respublica και iusiurandum τα 	δύο συνθετικά μέρη κλίνονται χωριστά σε 	όλες τις πτώσεις: respublica, reipublicae, κτλ. (§32 	και §38) – iusiurandum, iurisiurandi, κτλ. (§ 24, 2 και § 	38) πβ. και § 95. 
+
+
+ 115. Από τις φθογγικές 	μεταβολές που συμβαίνουν μετά τη 	σύνθεση των διαφόρων λέξεων 	αξιοσημείωτες είναι οι εξής: 1) Η πρόθεση 	cum (§ 102, 2) στη σύνθεση παρουσιάζεται με τρεις 	μορφές, δηλ. com- (μπροστά από χειλικό 	σύμφωνο και το m § 4), con- (μπροστά από κάθε 	άλλο σύμφωνο) και cο- (μπροστά από φωνήεν 	ή το h): (cum, bibo) com-bĭbo συμπίνω, (cum, pono) 	com-pōno συντίθημι, (cum, mitto) com-mitto συμβάλλω, 	(cum, clamo) con-clāmo συμβοώ, (cum, trăho) con-trăho 	συσπώ, (cum, ĕo) co-ĕo συνέρχομαι, (cum, haereo) 	co-haereo κρατιέμαι από κάτι. Αλλά: com-ĕdo 	κατατρώγω (§ 92). 
+
+
+ Όταν ακολουθεί l ή r, το n της con- 	αφομοιώνεται με αυτά, π.χ. (con, loquor) 	col-lŏquor συζητώ, (con, rumpo) cor-rumpo φθείρω. 	(πρβ. συλ-λέγω, συρ-ρέω). 
+
+
+ 2) Από τις προθέσεις και τα αχώριστα 	μόρια (§ 114, 2) ως πρώτα συνθετικά 	συνήθως: 
+
+
+ α´) της ad το d αφομοιώνεται με το αρκτικό 	c, f, g του δεύτερου συνθετικού, όπως (ad, cedo) ac-cēdo προσχωρώ, (ad, fero) affero προσφέρω, (ad, 	gradior) ag-gredior προσέρχομαι· 
+
+
+ β´) της ob (§ 102, 1) και της sub (§ 102, 3) το b 	αφομοιώνεται με το άκλιτο c, f, p του 	δεύτερου συνθετικού, όπως (ob, capio) occipio 	αρχίζω, (sub, cedo) suc-cedo υπέρχομαι, (ob, facio) 	offĭcio βλάπτω, (sub, facio) suf-ficio υποτίθημι, (ob 	premo) opprĭmo καταπιέζω, (sub, peto) sup-pĕto 	υποπίπτω. 
+
+
+ To b της ob αποβάλλεται όταν είναι α´ 	συνθετικό στο ρήμα mitto, ενώ της sub ή μένει 	ή αφομοιώνεται με το επόμενο m. Έτσι 	έχουμε o-mitto αφήνω αλλά sub-mitto ή sum-mitto 	υποβάλλω. 
+
+
+ Σε μερικά σύνθετα (ιδίως μπροστά από το 	ci, το ti και το pe) η sub παρουσιάζεται με τη 	μορφή sus-, π.χ. (sub, capio) sus-cĭpio υποδέχομαι, (sub, teneo) sus- tĭneo βαστάζω, (sub, pendo) sus-pendo 	κρεμώ. Έτσι και surrīdeo χαμογελώ) (από το 	sus-rideo). 
+
+
+ Σημείωση.To sus- προέρχεται από την 	πρόθεση subs (άλλη μορφή της προθέσεως sub) 	(πβ. ab και abs, § 102, 2). Και της ob υπήρχε 	αρχικός τύπος obs, έτσι ostendo δείχνω (από 	το obs-tendo) 
+
+
+ γ´) της προθέσεως in και του αχώριστου 	μορίου in το n αφομοιώνεται με το αρκτικό 	l, m, r του β´ συνθετικού, όπως (in, ludo) il-lūdo 	εμπαίζω, (in, licitus) il-licĭtus αθέμιτος, (in, mitto) im-mitto 	εισδέχομαι, (in, memor) im-mĕmor αμνήμων, (in, rideo) ir-rīdeo σκώπτω, (in, revocatus) ir-revocatus 	αμετάκλητος. To n των ανωτέρω τρέπεται σε 	m και μπροστά από χειλικό σύμφωνο, όπως 	(in, bibo) im-bibo πίνω, (in, bellum) im-bellis απόλεμος, (in pono) im-pōnο θέτω κάτι, (in, potens) im-pŏtens 	αδύνατος (πβ. ανωτέρω con-)· 
+
+
+ δ´) του αχώριστου μορίου dis- το s 	αφομοιώνεται μόνο με το αρχικό f του β´ 	συνθετικού, όπως (dis, fero) dif-fĕro διασπώ, (dis, facilis) dif-ficĭlis δύσκολος· όταν αμέσως 	ύστερα από αυτό υπάρχει και άλλο 	σύμφωνο, το s αποβάλλεται μπροστά από το 	d, g, l, m, r, ν και s: π.χ. (dis, duco) di-dūco διασπώ, (dis, gero) di-gĕro διασπείρω, (dis, labor) di-lābor 	διαρρέω, (dis, moveo) di-mŏveo χωρίζω, (dis, rapio) 	di-rĭpio διαρπάζω, (dis, verto) di-verto διαφέρω, (dis, 	spargo) di-sprego διασπείρω, (dis, sto) dis-to απέχω, 	αλλά (dis, sentio) dis-sentio διαφωνώ. 
+
+
+ 3) To ριζικό φωνήεν του θέματος των 	ρημάτων που συντίθενται με πρόθεση 	συνήθως αλλάζει: 
+
+
+ α΄) το ă και το ĕ τρέπονται σε ĭ∙ αν 	ύστερα από αυτά ακολουθούν δύο σύμφωνα 	ή προηγείται ή ακολουθεί έρρινο ή υγρό, 	τότε συνήθως το ă τρέπεται σε ĕ, ενώ το ĕ 	μένει· π.χ. (facio, § 84) perfĭcio (κατορθώνω), 	-fēci, -fectum, -ficere — (rapio, § 84) di-ripio (διαρπάζω), -ripui, -reptum, 	-ripĕre — (emo) red-ĭmo (ανταγοράζω), -ēmi, -emptum, 	-imĕre — (statuo) in-stituo (ιδρύω), -stitui, -stitūtum, 	-stituĕre — (teneo) distĭneo (χωρίζω), -tinui, -tentum, 	-tinēre. Όμοια και: (frango) con-fringo (τρίβω) 	-frēgi, -fractum, -fringĕre — (pango, § 89, 4) com-pingo (συναρμόζω) -pēgi, -pactum, -pingĕre — (tango) con-tingo (εγγίζω), -tĭgi, -tactum, -tingere — και: (premo) 	com-prĭmo (καταπιέζω), -pressi, -pressum, -primĕre. 
+
+
+ Αλλά: (sacro) ob-sēcro (ικετεύω) — (scando) descendo (κατεβαίνω), scendi, - scensum, - scendĕre — (spargo) 	di-spergo (διασπείρω), spersi, - 	spersum, - spergĕre — (crepo) discrĕpo (διαφωνώ), crepui, 	- crepare — (mergo) sub-mergo (καταδύω), mersi, - mersum, - 	mergĕre· 
+
+
+ β´) το ae τρέπεται σε ī και το au σε ū, όπως 	(ob-caedo) oc-cīdo (φονεύω), oc-cīdi, oc-cīsum, oc-cιdĕre 	— (re, quero) re-quīro (αναζητώ), re-quisivi, re-quisitum, 	requirĕre — (in, claūdo) in-clūdo (εγκλείω), in-clusi, 	in-clusum, in-cludĕre. 
+
+
+ το ριζικό βραχύ ă ή ĕ, όπως τα ρήματα căveo, 	măneo, trăho, το ăgo σε σύνθεση με τις 	προθέσεις circum και per και το căpio με την 	πρόθεση ante, όπως prae-caveo προφυλάσσομαι, 	re-maneo αναμένω, con-trăho συστέλλω, circum-ăgo 	περιάγω, per-ăgo επιτελώ, (ενώ ex-ĭgo εξάγω, 	ex-ēgi, ex-actum, ex-igĕre), ante-capio προσλαμβάνω (ante-cēpi, ante-captum, ante-capere). Επίσης τα ρήματα 	ĕdo (§ 92), fĕro (§ 96), gĕro φορώ, mĕto θερίζω, peto 	ορμώ, sero σπέρνω, tego καλύπτω, tero τρίβω και 	veho κομίζω. Επίσης διατηρούν τη δίφθογγο 	τα ρήματα aequo ισώνω, caeco τυφλώνω, haereo 	εξαρτώμαι από κάτι και το απρόσωπο taedet 	(pertaedet me σιχαίνομαι, pertaesum est). 
+
+
+ To ρήμα lego σε άλλα σύνθετα τρέπει το e σε i, 	ενώ σε άλλα το διατηρεί∙π.χ. col-ligo 	συμμαζεύω, de-lĭgo εκλέγω. Αλλά neg-lĕgo αμέλω, 	per-lĕgo διαγιγνώσκω. 
+
+
+ Σημείωση 2.Όμοιες με τις ανωτέρω τροπές 	του φωνήεντος της ριζικής συλλαβής 	συμβαίνουν και σε ονόματα, όταν είναι 	μέσα στις λέξεις δεύτερα συνθετικά, 	όπως (facĭlis) dif-fĭcilis (arma) in-ermis άοπλος, (aequus) inīquus άνισος, κτλ. 
+
+
+ 116. Τα σύνθετα, που το 	ένα τουλάχιστον από τα συνθετικά τους 	μέρη είναι κλιτό μέρος του λόγου, είναι 	ή ρήματα ή ουσιαστικά ή επίθετα. Ως προς 	το σχηματισμό τους άξια σημειώσεως 	είναι τα εξής: 
+
+
+ 117. α) Σύνθετα ρήματα (verba composĭta). 1) Ρήματα σύνθετα με α´ 	συνθετικό ρήμα σχηματίζονται μόνο με το 	ρήμα facio ως β´ συνθετικό που μένει τότε 	αμετάβλητο, όπως (adsuescĕre, facio) adsuefacio 	συνηθίζω, adsuefeci, adsuefactum, adsuefacere, (calēre, facio) 	cale-facio θερμαίνω, (patēre, facio) patefacio ανοίγω, 	κτλ. (Βλ. § 114, 3 και § 115, 3, α´). 
+
+
+ 2) Το ρήμα facio ως β´ συνθετικό ρημάτων που 	έχουν α´ συνθετικό όνομα (ουσιαστικό ή 	επίθετο) γίνεται -fĭco (κατά την α´ 	συζυγία), όπως (aedes, facio) aedi-fĭco χτίζω, 	aedificāvi, κτλ. (amplus, facio) ampli-fĭco μεγαλύνω, (testis, facio) testificor μαρτυρώ (§ 80). 
+
+
+ 118.  β´) Σύνθετα 	ουσιαστικά (substantīva composĭta). Αυτά σχηματίζονται: 
+
+
+ 1) από όνομα και ρήμα και λήγουν 	συνήθως σε -a, -s, -r, όπως (ager, θ. agr-, colo) 	agri-cŏla γεωργός, (θ. par, cae-do) par-i-cīda 	πατροκτόνος, (ars, art-is-facio) artĭfex (από το arti-fecs) τεχνίτης, (arma, gero) arm-ĭ-ger οπλοφόρος· 
+
+
+ 2) από δύο ονόματα ή από αριθμητικό και 	όνομα και λήγουν συνήθως σε -ium, όπως (sol, status) sol-sti-tium ηλιοστάσιο, (tres, θ. trι-, annus) tri-enn-ium τριετία∙
+
+
+ 3) από πρόθεση και όνομα, που κανονικά 	μένει αμετάβλητο, όπως (cum, nomen, αρχ. gnomen) 	co-gnōmen επώνυμο, (de, decus) de-dĕcus απρέπεια, (pro, consul) pro-consul ανθύπατος. 
+
+
+ 119. γ´) Σύνθετα 	επίθετα (adiectīva composĭta). Αυτά σχηματίζονται: 
+
+
+ 1) από επίθετο (ή αριθμητικό) και 	ουσιαστικό ή από ρήμα και ουσιαστικό, 	όπως (magnus animus) magn-anĭmus μεγαλόψυχος, (tres 	θ. tri-, lingua) tri-linguis τρίγλωσσος, (misereo cors) 	miserĭcors ευσπλαχνικός. 
+
+
+ 2) από πρόθεση ή αχώριστο μόριο και 	όνομα 
+
+
+ α´) ουσιαστικό. Αυτό ή μένει αμετάβλητο 	ή παίρνει επιθετική κατάληξη, όπως (ad, 	finis) af-fīnis γειτονικός, (cum, cors) con-cors (ομόφρων) ομόψυχος, (in-ars) in-ers άτεχνος, (se-cura) secūr-us (άφροντις) αφρόντιστος, (in-arma) in-erm-is άοπλος. 
+
+
+ Σ´ αυτού του είδους τα σύνθετα, στέρηση 	φανερώνουν και οι προθέσεις a, de, ex, όπως 	a-mens, de-mens άφρονας, (ex, pars) ex-pers άμοιρος. 
+
+
+ β´) επίθετο. Σ' αυτή την περίπτωση ως α´ 	συνθετικό συνήθως υπάρχει το στερητικό 	in-, οι προθέσεις per, prae για να δηλωθεί 	επίταση και η πρόθεση sub για να δηλωθεί 	ελάττωση, όπως in-dīgnus ανάξιος, per-lĕvis πολύ 	ευτελής, prae-clărus πολύ διαυγής, sub-crūdus 	κάπως ωμός.

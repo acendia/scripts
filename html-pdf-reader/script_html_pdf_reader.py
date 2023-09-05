@@ -8,7 +8,7 @@ class SchoolBookScraper:
 
     @staticmethod
     def get_urls_from_file(file_name):
-        with open(file_name, "r") as f:
+        with open('book_urls/'+file_name, "r") as f:
             urls = f.readlines()
             urls = [x.strip() for x in urls]
         return urls
@@ -34,10 +34,10 @@ class SchoolBookScraper:
         for idx, url_page in enumerate(self.urls):
             book_section = url_page.split('/')[-1].split('.')[0]
             if book_section == '':
-                book_section = '0'
+                book_section = 'index0'
             print('--------->', book_section)
             
-
+            print('--->', url_page)
             response = requests.get(url_page)            
             html_content = response.content
 
@@ -61,7 +61,19 @@ class SchoolBookScraper:
                         continue
 
 if __name__ == "__main__":
-    book_name = "economics_g"
-    scraper = SchoolBookScraper("urls_"+book_name+".txt")
-    book_dir = scraper.create_book_directory(book_name)
-    scraper.scrape_urls(book_dir)
+    # read all the books from the all_books.txt file and create a list of books (no function)
+    list_of_books = []
+    with open("all_books.txt", "r") as f:
+        books = f.readlines()
+        books = [x.strip() for x in books]
+        for book in books:
+            list_of_books.append(book)
+
+    print(list_of_books)
+    
+    for book_name in list_of_books:
+        scraper = SchoolBookScraper("urls_"+book_name+".txt")
+        book_dir = scraper.create_book_directory(book_name)
+        print(book_name)
+        scraper.scrape_urls(book_dir)
+

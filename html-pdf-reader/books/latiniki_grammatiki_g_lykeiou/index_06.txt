@@ -1,0 +1,7883 @@
+ΕΒΔΟΜΟ ΚΕΦΑΛΑΙΟ 
+ ΤΟ ΡΗΜΑ (VERBUM) 
+
+
+ 74. Τα παρεπόμενα του ρήματος της    	  λατινικής γλώσσας είναι διάθεση, φωνή,    	  συζυγία, έγκλιση, χρόνος, αριθμός,    	  πρόσωπο, όπως και στην Ελληνική. 
+
+
+ 1. Οι διαθέσεις (genĕra verbi) είναι τέσσερις: 
+
+
+ α´) η ενεργητική (genus actīvum): laudo επαινώ∙ 
+
+
+ β´) η μέση (genus medĭum): lāvor (= lavo me) λούω τον    	  εαυτό μου, λούομαι∙ 
+
+
+ γ´) η παθητική (genus passīvum): laudor    	  επαινούμαι από κάποιον∙ 
+
+
+ δ´) η ουδέτερη (genus neutrum): dormio κοιμούμαι. 
+
+
+ 2. Οι φωνές (formae verbi) είναι δύο: 
+
+
+ α´) η ενεργητική φωνή (forma actīva)· σ'    	  αυτήν ανήκει το σύνολο των ρηματικών    	  τύπων που στην οριστική του ενεστώτα    	  έχει κατάληξη -ο, π.χ. delĕ-o (καταστρέφω),    	  dele-s, dele-t κτλ. 
+
+
+ β´) η μέση ή παθητική φωνή (forma passīva)∙ σ'    	  αυτήν ανήκουν όλοι οι ρηματικοί τύποι    	  που η κατάληξή τους στην οριστική του    	  ενεστώτα είναι -or, π.χ. delĕ-or (καταστρέφομαι), delēr-is, delē-tur κτλ. 
+
+
+ 3. Oι συζυγίες (coniugatiōnes) είναι τέσσερις: 
+
+
+ α´) η πρώτη συζυγία (coniugatio prima)· σ' αυτήν    	  ανήκουν τα ρήματα που έχουν χαρακτήρα a και το απαρέμφατο του ενεργητικού    	  ενεστώτα λήγει σε -āre, όπως amo (από το amao), απαρέμφ. amāre («αγαπάν»)· 
+
+
+ β´) η δεύτερη συζυγία (coniugatio secunda)∙ σ'    	  αυτήν ανήκουν τα ρήματα που έχουν    	  χαρακτήρα e και το απαρέμφατο του    	  ενεργητικού ενεστώτα λήγει σε -ēre, όπως    	  dele-o, απαρέμφ. delēre («καταστρέφειν»)· 
+
+
+ γ´) η τρίτη συζυγία (coniugatio tertia)∙ σ' αυτήν    	  ανήκουν τα ρήματα που έχουν χαρακτήρα    	  σύμφωνο ή φωνήεν u και το απαρέμφατο    	  του ενεργητικού ενεστώτα λήγει σε -ĕre,    	  όπως leg-o, απαρέμφ. legĕre («αναγινώσκειν»),    	  tribu-o, απαρέμφ. tribu-ĕre («απονέμειν»)· 
+
+
+ δ´) η τέταρτη συζυγία (coniugatio quarta)∙ σ'    	  αυτήν ανήκουν τα ρήματα που έχουν    	  χαρακτήρα i και το απαρέμφατο του    	  ενεργητικού ενεστώτα λήγει σε -īre, όπως    	  audĭ-ο, απαρεμφ. audīre («ακούειν»). 
+
+
+ 4. Οι εγκλίσεις (modi) είναι τρεις: 
+
+
+ α´) η οριστική (modus indicativus)· 
+
+
+ β´) η υποτακτική (modus coniunctīvus), η οποία    	  πολλές φορές είναι αντίστοιχη και προς    	  την ευκτική της αρχαίας Ελληνικής (και    	  τότε λέγεται modus optatīvus) (βλ. και § 168)∙ 
+
+
+ γ´) η προστακτική (modus imperativus), που    	  διακρίνεται σε προστακτική του    	  ενεστώτα και σε προστακτική του    	  μέλλοντα. 
+
+
+ 5) Οι χρόνοι (tempŏra) είναι έξι: 
+
+
+ α´) ο ενεστώτας (tempus praesens ή απλώς praesens)∙ 
+
+
+ β´) ο παρατατικός (imperfēctum)∙ 
+
+
+ γ´) ο μέλλοντας (futūrum)∙ 
+
+
+ δ´) ο παρακείμενος (perfectum), με τη    	  σημασία του κυρίως παρακειμένου (perfectum praesens ή logĭcum) και του ιστορικού    	  παρακειμένου ή αορίστου (perfectum historĭcum    	 )∙ 
+
+
+ ε´) ο υπερσυντέλικος (plusquamperfectum)∙ 
+
+
+ στ´) ο τετελεσμένος μέλλοντας (futūrum    	  exāctum)∙ 
+
+
+ 6) Οι αριθμοί (numĕri) είναι δύο, ενικός    	  (singulāris) και πληθυντικός    	    	  (plurālis) (πρβ. § 12,2). 
+
+
+ 7) Τα πρόσωπα (persōnae) είναι τρία:    	  πρώτο (persona prima), δεύτερο (persona secūnda) και    	  τρίτο (persona tertĭa) (§56). 
+
+
+ 75. H λατινική γλώσσα έχει πέντε    	  ονοματικούς τύπους (η αρχαία    	  ελληνική έχει μόνο δύο): 
+
+
+ 1) το απαρέμφατο (infinitīvus)∙ και στη    	  λατινική γλώσσα αρχικά είναι όνομα    	  ουσιαστικό αφηρημένο ουδέτερου γένους (πρβ. errāre humanum est = «τό πλανάσθαι    	  άνθρώπινόν εστί» και 
+
+
+ 2) η μετοχή (participĭum) ∙ στη λατινική    	  γλώσσα μετοχή στην ενεργητική φωνή έχει    	  μόνο ο ενεστώτας και ο μέλλοντας, στη    	  μέση (παθητική) εχει μόνο ο    	  παρακείμενος (ή αόριστος). 
+
+
+ Εκτός από τους δύο παραπάνω ονοματικούς    	  τύπους, το ρήμα στη Λατινική έχει ακόμη: 
+
+
+ 3) το σουπίνο ή ύπτιο (supīnum). Αυτό    	  είναι ρηματικό ουσιαστικό (δ´ κλίσεως    	  §29) και έχει δύο μόνο πτώσεις του ενικού,    	  την αιτιατική (σε -um) και την    	  αφαιρετική (σε -ū). Και 
+
+
+ α´) ο τύπος σε -um χρησιμοποιείται με    	  ρήματα που φανερώνουν κίνηση και δηλώνει σκοπό: (postulo ζητώ), venērunt    	  auxilium postulātum (ήρθαν για να    	  ζητήσουν βοήθεια), (aquor παίρνω νερό), eo aquātum (πηγαίνω για να πάρω    	  νερό). 
+
+
+ β´) ο τύπος σε -ū ακολουθεί ορισμένα    	  επίθετα και δηλώνει αναφορά (όπως    	  facilis, difficilis, iucundus, mirabilis κ.ά.). Κάποτε    	  εκφέρεται και με τη φράση fas (ή nefas) est    	  είναι όσιο (ή ανόσιο): iucundus auditū ευάρεστος στο να τον ακούει κάποιος, hoc    	  nefas est dictu αυτό είναι ανόσιο να το    	  λέει κανείς. 
+
+
+ 4) το γερούνδιο (gerundium). Αυτό είναι    	  ρηματικό ουσιαστικό ουδέτερο    	  δευτερόκλιτο, που έχει τις τέσσερις    	  πλάγιες πτώσεις του ενικού με τις    	  καταλήξεις -ndi, -ndo, -ndum, -ndo. Καθένας από    	  αυτούς τους τύπους έχει αντίστοιχη στην    	  αρχαία ελληνική μία πλάγια πτώση σύναρθρου απαρεμφάτου (ενεργητικού    	 ) ενεστώτα (ή σπανίως αορίστου). Π.χ. ον.    	  scribĕre = «γράφειν» ή «το γράφειν», γεν.    	  scribendi = «του γράφειν», δοτ. scribendo = «τῳ    	  γράφειν», αιτ. (scribĕre ή ad) scribendum = «(προς)    	  το γράφειν», αφαιρ. scribendo = «δια του    	  γράφειν» κτλ.: dicendi perītus έμπειρος στο    	  να ομιλεί, arma pugnando (δοτ.) ή ad pugnandum (αιτ.) utilia όπλα χρήσιμα στο να μάχεται    	  κανείς∙ hominis mens discendo (αφαιρ.) alitur ο    	  νους του ανθρώπου τρέφεται με το να    	  μαθαίνει (με μαθήματα). 
+
+
+ 5) το γερουνδιακό (gerundīvum). Αυτό    	  κανονικώς είναι ρηματικό επίθετο με παθητική διάθεση και λήγει σε -ndus,    	  -nda, -ndum (§38, α´). Το γερουνδιακό συνήθως    	  σημαίνει ό,τι και τα εις -τέος, -τέα,    	  -τέον ρηματικά επίθετα της αρχαίας    	  ελληνικής. Πολλές φορές όμως σημαίνει    	  και εκείνο που είναι δυνατό ή άξιο να    	  γίνει: delenda est Carthāgo «καταστρεπτέα ἐστίν    	  ή Καρχηδών» πρέπει να καταστραφεί η    	  Καρχηδών, legendae sunt litterae «αναγνωστέα   	    ἐστίν ἡ ἐπιστολή» πρέπει να αναγνωσθεί          η επιστολή (§34, 4, Α´ β´ Σημ.), facinus laudandum          έργο που (πρέπει να επαινεθεί) είναι          άξιο να επαινεθεί, αξιέπαινο. 
+
+
+ 76. Αρκετοί τύποι του ρήματος στη    	  λατινική γλώσσα σχηματίζονται    	  περιφραστικά, δηλ. με το ρήμα sum (= ειμί,    	  είμαι) ως βοηθητικό (verbum auxiliāre), όπως    	  και στην αρχαία ελληνική με το ρήμα    	  εἰμί και στη νέα ελληνική με το ρήμα έχω    	  και το είμαι. 
+
+
+ Κατά τα ανωτέρω περιφραστικά    	  σχηματίζονται κανονικώς από την    	  ενεργητική φωνή ο μέλλοντας της    	  υποτακτικής και του απαρεμφάτου, και    	  από τη μέση (παθητική) φωνή ο    	  παρακείμενος, ο υπερσυντέλικος και ο    	  τετελεσμένος μέλλοντας στην οριστική,    	  υποτακτική και το απαρέμφατο. 
+
+
+ 77. Το ρήμα sŭm (ανώμαλο, όπως το εἰμί          της αρχαίας και το είμαι της νέας        ελληνικής) κλίνεται ως εξής: 
+
+
+
+
+ 1. Indicativus 
+
+
+ 2. Coniunctivus 
+
+
+
+ 
+
+
+
+ Praesens 
+
+
+
+
+
+
+
+
+ (Αρχαιότεροι τύποι) 
+
+
+
+
+ sum 
+
+
+ είμαι 
+
+
+ sim 
+
+
+ να είμαι 
+
+
+ siem ή fuam 
+
+
+
+
+ ĕs 
+
+
+ είσαι 
+
+
+ sis 
+
+
+ να είσαι 
+
+
+ sies ή fuas 
+
+
+
+
+ ĕst 
+
+
+ είναι (πρβ. ἐστί) 
+
+
+ sit 
+
+
+ να είναι 
+
+
+ siet ή fuat 
+
+
+
+
+ sŭmŭs 
+
+
+ είμαστε 
+
+
+ simus 
+
+
+ να είμαστε 
+
+
+ — 
+
+
+
+
+ ĕstĭs 
+
+
+ είστε (πρβ. ἐστέ) 
+
+
+ sitis 
+
+
+ να είστε 
+
+
+ — 
+
+
+
+
+ sunt 
+
+
+ είναι 
+
+
+ sint 
+
+
+ να είναι 
+
+
+ sient ή fuant 
+
+
+
+ 
+
+
+
+ Imperfectum 
+
+
+
+
+
+
+
+
+ (Αρχαιότεροι τύποι) 
+
+
+
+
+ ĕrăm 
+
+
+ ήμουν 
+
+
+ essĕm 
+
+
+ να ήμουν 
+
+
+ forem 
+
+
+
+
+ ĕrās 
+
+
+ ήσουν 
+
+
+ essēs 
+
+
+ να ήσουν 
+
+
+ fores 
+
+
+
+
+ ĕrăt 
+
+
+ ήταν 
+
+
+ essĕt 
+
+
+ να ήταν 
+
+
+ foret 
+
+
+
+
+ ĕrāmus 
+
+
+ ήμαστε 
+
+
+ essēmus 
+
+
+ να ήμαστε 
+
+
+ — 
+
+
+
+
+ ĕrātis 
+
+
+ ήσαστε 
+
+
+ essētis 
+
+
+ να ήσαστε 
+
+
+ — 
+
+
+
+
+ ĕrant 
+
+
+ ήταν 
+
+
+ essent 
+
+
+ να ήταν 
+
+
+ forent 
+
+
+
+ 
+
+
+
+ Futurum 
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+ ĕrō 
+
+
+ θα είμαι 
+
+
+ futūrus, -a, -um 
+
+
+ sim 
+
+
+
+
+
+ ĕrĭs 
+
+
+ θα είσαι 
+
+
+
+ sis 
+
+
+
+
+
+ ĕrĭt 
+
+
+ θα είναι 
+
+
+
+ sit 
+
+
+
+
+
+ ĕrĭmus 
+
+
+ θα είμαστε 
+
+
+ futūrī, -ae,-a 
+
+
+simus
+
+
+
+
+
+ ĕrĭtis 
+
+
+ θα είστε 
+
+
+
+ sitis 
+
+
+
+
+
+ ĕrunt 
+
+
+ θα είναι 
+
+
+
+ sint 
+
+
+
+
+ 
+
+
+
+ Perfectum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ fŭī 
+
+έγινα (υπήρξα) 
+
+ fuĕrĭm 
+
+ 
+ 
+
+
+
+ fuistī 
+
+έγινες 
+
+ fuerĭs 
+
+ 
+ 
+
+
+
+ fuĭt 
+
+έγινε
+
+ fuerĭt 
+
+ 
+ 
+
+
+
+ fuĭmus 
+
+εγίναμε
+
+ fuerĭmus 
+
+ 
+ 
+
+
+
+ fuistĭs 
+
+εγίνατε 
+
+ fuerĭtis 
+
+ 
+ 
+
+
+
+ fuērunt ή fuēre 
+
+έγιναν
+
+ fuerint 
+
+ 
+ 
+
+
+ 
+
+
+
+Ρlusquamperfectum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+fuĕrăm 
+
+είχα υπάρξει 
+
+fuissĕm 
+
+ 
+ 
+
+
+
+fuĕrās 
+
+είχες υπάρξει
+
+fuissēs 
+
+ 
+ 
+
+
+
+fuĕrăt 
+
+είχε υπάρξει 
+
+fuissĕt 
+
+ 
+ 
+
+
+
+fuĕrāmus
+
+είχαμε υπάρξει 
+
+fuissēmus 
+
+ 
+ 
+
+
+
+fuĕrātis 
+
+είχατε υπάρξει 
+
+fuissētis 
+
+ 
+ 
+
+
+
+fuĕrant 
+
+είχαν υπάρξει 
+
+fuissent 
+
+ 
+ 
+
+
+ 
+
+
+
+Futurum exactum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+fŭĕro 
+
+θα έχω υπάρξει 
+
+ 
+
+ 
+ 
+
+
+
+fuĕrĭs 
+
+θα έχεις υπάρξει 
+
+ 
+
+ 
+ 
+
+
+
+fuĕrĭt 
+
+θα έχει υπάρξει 
+ 
+ 
+ 
+
+
+
+fuĕrĭmus 
+
+θα έχουμε υπάρξει 
+
+Δεν έχει 
+
+ 
+ 
+
+
+
+fuerĭtis 
+
+θα έχετε υπάρξει 
+
+ 
+
+ 
+ 
+
+
+
+fuĕrint 
+
+θα έχουν υπάρξει 
+
+ 
+
+ 
+ 
+
+
+ 
+
+
+
+ 3. Imperativus 
+
+
+
+
+ Praesens 
+
+
+
+ Futurum 
+
+
+
+
+ Sing. 2.    	      ĕs
+
+
+ να είσαι (έσο) 
+
+
+ Sing 2. esto να είσαι (έσο) 3. esto να είναι (έστω) 
+
+
+
+
+ Plur. 2.    	      este 
+
+
+ να είστε (έστε) 
+
+
+ Plur. 2  estōte να είστε (έστε) 3. sunto να είναι    	        (έστωσαν) 
+
+
+
+
+  
+
+
+ 
+
+
+ 
+
+
+4. Infinitivus 
+
+
+
+
+
+  
+
+
+Praesens
+
+
+ 
+
+
+ esse (είναι) 
+
+
+ να είναι, 
+
+
+ ότι είναι 
+
+
+ 
+
+
+ 
+
+
+Perfectum 
+
+
+ 
+
+
+ fuisse (γεγονέναι ή 
+                  γενέσθαι) ότι έχει                γίνει 
+                  ή να έχει γίνει 
+
+
+  
+
+
+Futurum
+
+
+ 
+
+
+ ενικ. futūrum, -am, -um 
+
+
+ esse ή απλώς fŏre πληθ. 
+
+
+ futūros, -as, -a esse ή απλώς fŏre (έσεσθαι) ότι    	        θα γίνει 
+
+
+
+ 
+
+
+
+ 5. Participium 
+
+
+
+
+ Ρraesens: (sens) 
+
+
+ 
+
+
+ Futurum: futurus, -a, -um 
+
+
+ 
+
+
+
+
+Σημείωση.Η μετοχή του ενεστώτα (sens)    	  χρησιμοποιείται μόνο στα δύο σύνθετα:    	  praesens παρών και absens απών (§43,2). 
+
+
+ Γερούνδιο και σουπίνο δεν έχει το sum. 
+
+
+ 78. Παραδείγματα ρημάτων που κλίνονται    	  ομαλά 
+
+
+ (amo αγαπώ, deleo καταστρέφω, lego διαβάζω, audio    	  ακούω) 
+
+
+ 1. Ενεργητική φωνή 
+
+
+
+
+
+ α´ συζυγίας 
+
+
+ β´συζυγίας 
+
+
+ γ´ συζυγίας 
+
+
+ δ´ συζυγίας 
+
+
+
+
+  
+
+
+1. Indicatīνus 
+
+
+
+
+ Praesens 
+
+
+  
+
+
+amo 
+
+
+(από το ama-o) 
+
+
+  
+
+
+dēlĕ-ō 
+
+
+  
+
+
+lĕg-ō 
+
+
+  
+
+
+audĭ-ō 
+
+
+
+
+ amā-s 
+
+
+ delē-s 
+
+
+ leg-ĭ-s 
+
+
+ audī-s 
+
+
+
+
+ amă-t 
+
+
+ delĕ-t 
+
+
+ leg-ĭt 
+
+
+ audĭ-t 
+
+
+
+
+ amā-mŭs 
+
+
+ delē-mus 
+
+
+ leg-ĭ-mus 
+
+
+ audī-mus 
+
+
+
+
+ amā-tĭs 
+
+
+ delē-tis 
+
+
+ leg-ĭ-tis 
+
+
+ audī-tis 
+
+
+
+
+ ama-nt 
+
+
+ dele-nt          
+
+
+ leg-unt 
+
+
+ audi-unt 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ Imperfectum 
+
+
+  
+
+
+amā-bă-m 
+
+
+ αγαπούσα 
+
+
+  
+
+
+dēlē-băm 
+
+
+ κατάστρεφα 
+
+
+  
+
+
+lĕg-ē-băm 
+
+
+ διάβαζα 
+
+
+  
+
+
+audi-ē-băm 
+
+
+ άκουα 
+
+
+
+
+ amā-bā-s 
+
+
+ delē-bās 
+
+
+ leg-e-bās 
+
+
+ audī-e-bās 
+
+
+
+
+ amā-bă-t 
+
+
+ delē-băt 
+
+
+ leg-e-băt 
+
+
+ audi-e-băt 
+
+
+
+
+ amā-bā-mus 
+
+
+ delē-bāmus 
+
+
+ leg-e-bāmus 
+
+
+ aud-e-bāmus 
+
+
+
+
+ amā-bā-tis 
+
+
+ delē-bātis 
+
+
+ leg-e-bātis 
+
+
+ audi-e-bātis 
+
+
+
+
+ amā-ba-nt 
+
+
+ delē-bant 
+
+
+ leg-e-bant 
+
+
+ audi-e-bant 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Futurum 
+
+
+  
+
+
+ămā-bō 
+
+
+ αγαπούσα 
+
+
+  
+
+
+dēlē-bō 
+
+
+ θα καταστρέψω 
+
+
+  
+
+
+lĕg-ăm 
+
+
+ θα διάβασω 
+
+
+  
+
+
+audĭ-ĭăm 
+
+
+ θα ακούσω 
+
+
+
+
+ amā-bĭs 
+
+
+ delē-bĭs 
+
+
+ leg-ēs 
+
+
+ audi-ēs 
+
+
+
+
+ amā-bĭt 
+
+
+ delē-bĭt 
+
+
+ leg-ĕt 
+
+
+ audi-ĕt 
+
+
+
+
+ amā-bĭmus 
+
+
+ delē-bĭmus 
+
+
+ leg-ēmus 
+
+
+ aud-ēmus 
+
+
+
+
+ amā-bĭtis 
+
+
+ delē-bĭtis 
+
+
+ leg-ētis 
+
+
+ audi-ētis 
+
+
+
+
+ amā-bunt 
+
+
+ delē-bunt 
+
+
+ leg-ent 
+
+
+ audi-ent 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Perfectum 
+
+
+  
+
+
+ămā-v-ī 
+
+
+ έχω αγαπήσει ή 
+
+                  αγάπησα 
+
+
+  
+
+
+dēlē-v-ī έχω 
+
+
+ καταστρέψει ή 
+
+                  κατάστρεψα 
+
+
+  
+
+
+lēg-ī  έχω διαβάσει ή 
+
+
+ διάβασα 
+
+
+  
+
+
+audīv-ī 
+
+
+έχω ακούσει
+
+                  ή άκουσα 
+
+
+
+
+ amāv-īstī 
+
+
+ delev-īsti 
+
+
+ leg-īstī 
+
+
+ audiv-īstī 
+
+
+
+
+ amāv-ĭt 
+
+
+ delev-ĭt 
+
+
+ leg-ĭt 
+
+
+ audiv-ĭt 
+
+
+
+
+ amāv-ĭmus 
+
+
+ delev-ĭmus 
+
+
+ leg-ĭmus 
+
+
+ audiv-ĭmus 
+
+
+
+
+ amāv-īstis 
+
+
+ delev-īstis 
+
+
+ leg-īstis 
+
+
+ audiv-īstis 
+
+
+
+
+ amāv-ērunt ή 
+
+
+ amav-ēre 
+
+
+ delev-ērunt ή 
+
+
+ delev-ēre 
+
+
+ leg-ērunt ή 
+
+
+ leg-ēre 
+
+
+ audiv-ērunt ή 
+
+
+ audiv- ēre 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Plusqaumperfectum 
+
+
+  
+
+
+amāv-ĕrăm 
+
+
+ είχα αγαπήσει 
+
+
+  
+
+
+dēlēv-ĕrăm 
+
+
+είχα καταστρέψει 
+
+
+  
+
+
+leg-ĕrăm   
+
+
+ είχα διάβασει 
+
+
+  
+
+
+audīv-ĕrăm 
+
+
+ είχα ακούσει 
+
+
+
+
+ amā-erās 
+
+
+ delev-erās 
+
+
+ leg-erās 
+
+
+ audiv-erās 
+
+
+
+
+ amā-erăt 
+
+
+ delev-erăt 
+
+
+ leg-erăt 
+
+
+ audiv-erăt 
+
+
+
+
+ amā-erāmus 
+
+
+ delev-erāmus 
+
+
+ leg-erāmus 
+
+
+ audiv-erāmus 
+
+
+
+
+ amā-erātis 
+
+
+ delev-erātis 
+
+
+ leg-erātis 
+
+
+ audiv-erātis 
+
+
+
+
+ amā-ĕrant 
+
+
+ delev-ĕrant 
+
+
+ leg-ĕrant 
+
+
+ audiv-ĕrant 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Futurum exactum 
+
+
+ 
+
+
+ămāv-ĕrō θα 
+
+
+ έχω αγαπήσει 
+
+
+  
+
+
+dēlev-ĕrō 
+
+
+θα έχω 
+
+
+καταστρέψει 
+
+
+ 
+
+
+lēg-ĕrō 
+
+
+θα έχω διάβασει 
+
+
+ 
+
+
+audīv- ĕrō 
+
+
+ είχα ακούσει 
+
+
+
+
+amav-erĭs 
+
+
+ delev-erĭs 
+
+ leg-erĭs 
+ audiv-erĭs 
+
+
+
+amav-erĭt 
+
+
+ delev-erĭt 
+
+ leg-erĭt 
+ audiv-erĭt 
+
+
+
+ amav-erĭmus 
+
+
+ delev-erĭmus 
+
+ leg-erĭmus 
+ audiv-erĭmus 
+
+
+
+ amav-erĭtis 
+
+
+ delev-erĭtis 
+
+ leg-erĭtis 
+ audiv-erĭtis 
+
+
+
+ amav-ĕrint 
+
+
+ delev-erĭnt 
+
+ leg-ĕrĭnt 
+ audiv-ĕrint 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+  
+
+
+2 Coniunctīvus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+ăm-ĕm 
+
+
+(από το ama-em) 
+
+
+να αγαπώ 
+
+
+ 
+
+
+dēle-ăm 
+
+
+να καταστρέφω
+
+
+ 
+
+
+lĕg-ăm 
+
+
+να διαβάζω
+
+
+ 
+
+
+audi-ăm 
+
+
+να ακούω 
+
+
+
+
+am-ēs 
+
+
+dele-ās 
+
+
+leg-ās 
+
+
+audi-ăs 
+
+
+
+
+am-ĕt 
+
+
+dele-ăt 
+
+
+leg-ăt 
+
+
+audi-at 
+
+
+
+
+am-ēmus 
+
+
+dele-āmus 
+
+
+leg-āmus 
+
+
+audi-āmus 
+
+
+
+
+am-ētis 
+
+
+dele-ātis 
+
+
+leg-ātis 
+
+
+audi-ātis 
+
+
+
+
+am-ent 
+
+
+dele-ant 
+
+
+leg-ant 
+
+
+audi-ant 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Imperfectum 
+
+
+ 
+
+
+ămā-rĕm 
+
+
+να αγαπούσα 
+
+
+ 
+
+
+dēlē-rĕm 
+
+
+να κατάστρεφα 
+
+
+ 
+
+
+leg-ĕ-rĕm 
+
+
+να διάβαζα 
+
+
+ 
+
+
+audī-rĕm 
+
+
+vα άκουα 
+
+
+
+ ama-rēs 
+ delē-rēs 
+ leg-e-rēs 
+ audi-rēs 
+
+
+ ama-rĕt 
+ dele-rĕt 
+ leg-e-rĕt 
+ audi-rĕt 
+
+
+ ama-rēmus 
+ dele-rēmus 
+ leg-e-rēmus 
+ audi-rēmus 
+
+
+ ama-rētis 
+ dele-rētis 
+ dele-rētis 
+ audi-rētis 
+
+
+ ama-rent 
+ dele-rent 
+ leg-ĕ-rent 
+ audī-rent 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Futurum 
+
+
+ 
+
+
+ămatūrus, a, 
+
+
+um sim
+
+
+ 
+
+
+dēletūrus, a, 
+
+
+um sim 
+
+
+ 
+
+
+lectūrus, a, 
+
+
+um sim 
+
+
+ 
+
+
+auditūrus, a, 
+
+
+um sim 
+
+
+
+sis 
+sis 
+sis 
+sis 
+
+
+sit 
+sit 
+sit 
+sit 
+
+
+
+amatūri, ae, 
+
+
+a simus 
+
+
+deletūri, ae, 
+
+
+a simus 
+
+
+lectūri, ae, 
+
+
+a simus 
+
+
+audituri, ae, 
+
+
+a simus 
+
+
+
+sitis 
+ sitis 
+sitis
+ sitis 
+
+
+sint 
+sint
+ sint 
+ sint 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Perfectumum
+
+
+ 
+
+
+ămāv-ĕrĭm αν, 
+
+
+ (να) αγαπήσω 
+
+
+ 
+
+
+dēlev-ĕrĭm αν, 
+
+
+ (να) καταστρέψω
+
+
+ 
+
+
+lēg- ĕrĭm αν, 
+
+
+ (να) διάβασω 
+
+
+ 
+
+
+audīv-ĕrĭm αν,
+
+
+(να) ακούσω 
+
+
+
+ amav-ĕrĭs 
+ delev-ĕrĭs 
+ leg-erĭs 
+ audiv-erĭs 
+
+
+ amav-ĕrĭt 
+ delev-ĕrĭt 
+ leg-erĭt 
+ audiv-erĭt 
+
+
+ amav-erĭmus 
+ delev-erĭmus 
+ leg-erĭmus 
+ audiv-erĭmus 
+
+
+ amav-erĭtis 
+ delev-erĭtis 
+ leg-erĭtis 
+ audiv-erĭtis 
+
+
+ amav-ĕrint 
+ delev-ĕrint 
+ leg-ĕrint 
+ audiv-ĕrint 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Plusquamperfectum
+
+
+ 
+
+
+amav-issĕm αν, 
+
+
+ (να) είχα 
+
+
+αγαπήσει
+
+
+ 
+
+
+dēlev-issĕm αν, 
+
+
+ (να) είχα 
+
+
+καταστρέψει
+
+
+ 
+
+
+lēg-issĕm αν, 
+
+
+ (να) είχα διάβασει
+
+
+ 
+
+
+audīv-issĕm αν,
+
+
+(να) είχα ακούσει
+
+
+
+ amav-issēs 
+ delev-issēs 
+ leg-issēs 
+ audiv-issēs 
+
+
+ amav-issĕt 
+ delev-issĕt 
+ leg-issĕt 
+ audiv-issĕt 
+
+
+ amav-issēmus 
+ delev-issēmus 
+ leg-issēmus 
+ audiv-issēmus 
+
+
+ amav-issētis 
+ delev-issētis 
+ leg-issētis 
+ audiv-issētis 
+
+
+ amav-issent 
+ delev-issent 
+ leg-issent 
+ audiv-issent 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Futurum 
+
+                  exactum
+
+ 
+
+
+
+Δεν έχει 
+
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+3. Imperatīvus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+Sing. 
+
+
+ 
+
+
+2.ămā 
+
+
+ αγάπα 
+
+
+ 
+
+
+dēlē 
+
+
+κατάστρεφε 
+
+
+ 
+
+
+lĕg-e 
+
+
+ διάβαζε 
+
+
+ 
+
+
+audī 
+
+
+ άκουε 
+
+
+
+ Plur. 
+2. amā-te 
+dēlē-te 
+legĭ-te 
+audī-te 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Futurum
+
+
+ 
+
+
+Sing. 
+
+
+ 
+
+
+2.ămā-to αγάπησε 
+
+
+3.amā-tō 
+
+
+ 
+
+
+dēlē-tō κατάστρεψε 
+
+
+delē-tō 
+
+
+ 
+
+
+leg-ĭ-tō 
+
+
+ διάβασε 
+
+
+leg-ĭ-tō 
+
+
+ 
+
+
+audī-to 
+
+
+ άκουσε 
+
+
+audi-tō 
+
+
+
+ Plur. 
+
+2.amā-tōte 
+
+
+3.amā-nto 
+
+
+delē-tōte 
+
+
+dele-ntō 
+
+
+leg-ĭ-tōte 
+
+
+leg-u-ntō 
+
+
+audi-tōte 
+
+
+audi-u-ntō 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+4. Infinitīvus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+ămā-re 
+
+
+ «αγαπάν» 
+
+
+ 
+
+
+dēlē-re 
+
+
+ «καταστρέφειν» 
+
+
+ 
+
+
+lĕg-ĕ-re 
+
+
+ «αναγινώσκειν»
+
+
+ 
+
+
+audī-re 
+
+
+«ακούειν» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Futurum 
+
+
+ 
+
+
+amatūrum,am,
+
+
+-um esse 
+
+
+ 
+
+
+deletūrum, -am 
+
+
+ -um esse 
+
+
+ 
+
+
+lectūrum,-am 
+
+
+-um esse
+
+
+ 
+
+
+auditūrum,-am 
+
+
+-um esse 
+
+
+
+
+amatūros, -as 
+
+
+ -a esse
+
+
+deletūros, -as 
+
+
+ -a esse 
+
+
+lectūros, -as 
+
+
+ -a esse
+
+
+auditūros, as 
+
+
+ -a esse 
+
+
+
+
+«αγαπήσειν»
+
+
+«καταστρέψειν»
+
+
+«αναγνώσειν»
+
+
+«ακούσειν» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Perfectum
+
+
+ 
+
+
+amav-isse 
+
+
+ «αγαπήσαι» 
+
+
+ 
+
+
+delev-isse 
+
+
+ «καταστρέψαι» 
+
+
+ 
+
+
+lĕg-isse 
+
+
+ «αναγνώσαι» 
+
+
+ 
+
+
+audiv-isse 
+
+
+ «ακούσαι» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+5. Gerundĭum 
+
+
+
+
+  
+
+
+Gen. 
+
+
+  
+
+
+ăma-ndi 
+
+
+«του αγαπάν» 
+
+
+ 
+
+
+dēle-ndī «του 
+
+
+καταστρέφειν» 
+
+
+ 
+
+
+lĕg-e-ndi «του 
+
+
+αναγινώσκειν» 
+
+
+ 
+
+
+audi-e-ndi 
+
+
+ «τουακούειν» 
+
+
+
+
+ Dat. 
+
+
+ama-ndō 
+
+
+dele-ndō 
+
+
+leg-e-ndō 
+
+
+audi-e-ndō 
+
+
+
+
+ Acc. 
+
+
+ama-ndum 
+
+
+dele-ndum 
+
+
+leg-e-ndum 
+
+
+audi-e-ndum 
+
+
+
+
+ Abl. 
+
+
+ama-ndō 
+
+
+dele-ndō 
+
+
+leg-e-ndō 
+
+
+audi-e-ndō
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+6. Supīnum 
+
+
+
+
+ 
+
+
+Acc. 
+
+
+ 
+
+
+ămātum 
+
+
+ 
+
+
+dēlēt-um 
+
+
+ 
+
+
+lect-um 
+
+
+ 
+
+
+audīt-um 
+
+
+
+
+Abl. 
+
+
+ămāt-ū 
+
+
+delēt-ū 
+
+
+lēct-ū 
+
+
+audīt-ū 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+7. Participium 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+amā-ns 
+
+
+ amanti-s 
+
+
+ αγαπώντας 
+
+
+ (αγαπών, 
+
+
+ -ώσα, -ών) 
+
+
+ 
+
+
+delēns 
+
+
+ dele-ntis 
+
+
+ καταστρέφοντας 
+
+
+ (καταστρέφων, 
+
+
+ -ουσα, -ov) 
+
+
+ 
+
+
+leg-ēns 
+
+
+ leg-e-ntis 
+
+
+ διαβάζοντας 
+
+
+ (αναγινώσκω, 
+
+
+ -ουσα, -ov) 
+
+
+ 
+
+
+audi-ē-ns 
+
+
+ audi-e-ntis 
+
+
+ ακούοντας 
+
+
+ (ακούων, 
+
+
+ ουσα, -ov) 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Futurum 
+
+
+amat-ūrus, 
+
+
+  -ūra, -ūrum 
+
+
+ «αγαπήσων, 
+
+
+ -ούσα, ον» 
+
+
+dele-tūrus, 
+
+
+ -ūra, -ūrum 
+
+
+ «καταστρέφων, 
+
+
+ -ούσα, ον» 
+
+
+lect-ūrus, 
+
+
+ -ūra, ūrum 
+
+
+ «αναγνωσόμενος 
+
+
+ -μένη, -μενον» 
+
+
+audit-urus, 
+
+
+ -ūra, -ūrum 
+
+
+ «ακουσόμενος,
+
+
+-μένη, μενον» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+2. Μέση ή παθητική φωνή
+
+
+
+
+
+  
+
+
+α´ συζυγίας 
+
+
+  
+
+
+β´συζυγίας 
+
+
+  
+
+
+γ´ συζυγίας 
+
+
+  
+
+
+δ´ συζυγίας 
+
+
+
+
+  
+
+
+1. Indicatīνus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+ămŏr 
+
+
+(από το amaor)
+
+
+αγαπιέμαι 
+
+
+ 
+
+
+dēle-ŏr καταστρέφομαι 
+
+
+ 
+
+
+lĕgŏr 
+
+
+διάβαζομαι 
+
+
+ 
+
+
+audĭ-ŏr 
+
+
+ ακούoμαι 
+
+
+
+
+amā-ris (ή -re) 
+
+
+delē-ris (ή -re) 
+
+
+lĕg-ĕ-ris (ή -re) 
+
+
+audī-ris (ή -re) 
+
+
+
+
+amā-tur 
+
+
+delē-tur 
+
+
+leg-ĭ-tur 
+
+
+audī-tur 
+
+
+
+
+amā-mur 
+
+
+delē-mur 
+
+
+leg-ĭ-mur 
+
+
+audī-mur 
+
+
+
+
+amā-mĭnī 
+
+
+delē-mĭnī 
+
+
+leg-ĭ-mini 
+
+
+audī-mĭni 
+
+
+
+
+ama-ntur 
+
+
+dele-ntur 
+
+
+leg-u-ntur 
+
+
+audi-u-ntur 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Imperfectum 
+
+
+ 
+
+
+ămā-bar 
+
+
+ αγαπιόμουν 
+
+
+ 
+
+
+dēlē-băr 
+
+
+καταστρεφόμουν 
+
+
+ 
+
+
+lĕg-ē-băr διάβαζομουν 
+
+
+ 
+
+
+audi-ē-bar 
+
+
+ ακουόμουν 
+
+
+
+
+ama-bāris (ή -re)
+
+
+dele-bā-ris (ή -re) 
+
+
+lĕg-e-bāris (ή-re) 
+
+
+audi-e-bāris 
+
+
+(ή- re) 
+
+
+
+
+ama-bātur 
+
+
+dele-bātur 
+
+
+leg-e-bātur 
+
+
+audi-e-bātur 
+
+
+
+
+ama-bāmur 
+
+
+dele-bāmur 
+
+
+leg-e-bāmur 
+
+
+audi-e-bāmur 
+
+
+
+
+ama-bāmĭnī 
+
+
+dele-bāmĭnī 
+
+
+leg-e-bāmĭni 
+
+
+audi-e-bămĭni 
+
+
+
+
+ama-bantur 
+
+
+dele-bantur 
+
+
+leg-e-bantur 
+
+
+audi-e-bantur 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Futrurum
+
+
+ 
+
+
+ămā-bŏr 
+
+
+θα αγαπηθώ
+
+
+ 
+
+
+dēlē-bŏr 
+
+
+θα κατάστραφώ 
+
+
+ 
+
+
+lĕg-ăr 
+
+
+θα διάβαστω 
+
+
+ 
+
+
+audĭ-ăr 
+
+
+ ακούoμαι 
+
+
+
+
+ ama-bĕ-ris (ή -re)
+
+
+dele-bĕ-ris (ή -re)
+
+
+lĕg-ē-ris (ή -re) 
+
+
+audi-ē-ris (ή -re) 
+
+
+
+
+amā-bĭtur 
+
+
+dele-bĭtur 
+
+
+leg-ētur 
+
+
+audi-ētur 
+
+
+
+
+amā-bĭmur 
+
+
+delē-bĭmur 
+
+
+leg-ēmur 
+
+
+audi-ēmur 
+
+
+
+
+amā-bimĭnī 
+
+
+delē-bimĭnī 
+
+
+leg-ēmĭni 
+
+
+audi-ēmĭni 
+
+
+
+
+amā-buntur 
+
+
+dele-buntur 
+
+
+leg-entur 
+
+
+audi-entur 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Perfectum
+
+
+ 
+
+
+amātus, -a,-um 
+
+
+sum, es, est 
+
+
+ έχω αγαπηθεί 
+
+
+ή αγαπήθηκα
+
+
+ 
+
+
+delētus, -a- um
+
+
+sum, es, est  
+
+
+ έχω καταστραφεί 
+
+
+ή καταστράφηκα
+
+
+ 
+
+
+lēctus, -a, -um 
+
+
+ sum, es, est  
+
+
+έχω διαβαστεί 
+
+
+ή διαβάστηκα
+
+
+ 
+
+
+audī-tus -a, -um 
+
+
+ sum, es, est 
+
+
+έχω ακουστεί 
+
+
+ή ακούστηκα
+
+
+
+
+ama-tī, -ae, -a 
+
+
+ sumus, estis sunt 
+
+
+delēti, -ae, -a 
+
+
+ sumus, estis 
+
+
+ sunt 
+
+
+lecti, -ae, -a 
+
+
+ sumus, estis 
+
+
+ sunt 
+
+
+auditi, -ae, -a 
+
+
+ sumus, estis 
+
+
+ sunt 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Plusquamperfectum
+
+
+ 
+
+
+amatus, -a,-um 
+
+
+ eram, eras, erat  
+
+
+είχα αγαπηθεί
+
+
+ 
+
+
+deletus, -a- um  
+
+
+ eram, eras, erat  
+
+
+είχα καταστραφεί
+
+
+ 
+
+
+lēctus, -a, -um 
+
+
+ eram, eras, erat  
+
+
+ είχα διαβάστει
+
+
+ 
+
+
+auditus -a, -um 
+
+
+ eram, eras, erat  
+
+
+ είχα ακουστεί
+
+
+
+
+amati, -ae, -a 
+
+
+ eramus, eratis, 
+
+
+ erant 
+
+
+deleti, -ae, -a 
+
+
+ eramus, eratis, 
+
+
+ erant 
+
+
+lecti, -ae, -a 
+
+
+ eramus, eratis, 
+
+
+ erant 
+
+
+auditi, -ae, -a 
+
+
+ eramus, eratis, 
+
+
+ erant 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Futurum exactum 
+
+
+ 
+
+
+amatus, -a, -um   
+
+
+ero, eris, erit 
+
+
+ θα έχω αγαπηθεί
+
+
+ 
+
+
+deletus, -a- um  
+
+
+ ero, eris, erit 
+
+
+ θα έχω 
+
+
+ καταστραφεί 
+
+
+ 
+
+
+lectus, -a, -um 
+
+
+ ero, eris, erit 
+
+
+ θα έχω 
+
+
+ διαβάστει 
+
+
+ 
+
+
+audi-tus -a, -um 
+
+
+ ero, eris, erit 
+
+
+ θα έχω 
+
+
+ ακουστεί 
+
+
+
+
+amati, -ae, -a 
+
+
+ erimus, eritis, 
+
+
+erunt 
+
+
+deleti, -ae, -a 
+
+
+ erimus, eritis, erunt 
+
+
+lecti, -ae, -a 
+
+
+ erimus, eritis, erunt 
+
+
+auditi, -ae, -a 
+
+
+ erimus, eritis, 
+
+
+ erunt 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
+
+
+2 Coniunctīνus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+ămĕr
+
+
+(από το ama-er) 
+
+
+να αγαπιέμαι 
+
+
+ 
+
+
+dēlĕ-ăr 
+
+
+να καταστρέφομαι
+
+
+ 
+
+
+lĕg-ăr 
+
+
+να διάβαζομαι 
+
+
+ 
+
+
+audĭ-ăr 
+
+
+να ακούομαι 
+
+
+
+
+amē-ris (ή -re) 
+
+
+dele-ā-ris (ή -re) 
+
+
+leg-āris (ή -re) 
+
+
+audi-āris (ή -re) 
+
+
+
+
+amē-tur 
+
+
+dele-ā-tur 
+
+
+leg-ātur 
+
+
+audi-ātur 
+
+
+
+
+amē-mur 
+
+
+dele-āmur 
+
+
+leg-āmur 
+
+
+audi-āmur 
+
+
+
+
+amē-mĭnī 
+
+
+dele-amĭni 
+
+
+leg-āmĭnī 
+
+
+audi-āmĭnĭ 
+
+
+
+
+ame-ntur 
+
+
+dele-antur 
+
+
+leg-antur 
+
+
+audi-antur 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Ιmperfectum
+
+
+ 
+
+
+ămā-rĕr να 
+
+
+ αγαπιόμουν
+
+
+ 
+
+
+dēlē-rer να 
+
+
+ καταστρεφόμουν 
+
+
+ 
+
+
+lĕg-ĕ-rĕr να 
+
+
+διάβαζομουν
+
+
+ 
+
+
+audī-rĕr να 
+
+
+ ακουόμουν 
+
+
+
+
+ama-rēris (ή -re) 
+
+
+dele-rēris (ή -re) 
+
+
+leg-e-rēris (ή -re) 
+
+
+audi-rēris(ή -re) 
+
+
+
+
+ama-rētur 
+
+
+dele-rētur 
+
+
+leg-e-rētur 
+
+
+audi-rētur
+
+
+
+
+ama-rēmur 
+
+
+dele-rēmur 
+
+
+leg-e-rēmur 
+
+
+audi-rēmur
+
+
+
+
+ama-remĭnī 
+
+
+dele-remĭnī 
+
+
+leg-e-remĭnī
+
+
+audi-remĭnī
+
+
+
+
+ama-rentur 
+
+
+dele-rentur 
+
+
+leg-e-rentur 
+
+
+audi-rentur
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Perfectum
+
+
+ 
+
+
+amatus, -a, -um 
+
+
+ sim, sis, sit (αν) 
+
+
+έχω αγαπηθεί 
+
+
+ ή αγαπηθώ 
+
+
+ 
+
+
+deletus, -a- um  
+
+
+ sim, sis, sit (αν) 
+
+
+έχω καταστραφεί 
+
+
+ ή καταστραφώ 
+
+
+ 
+
+
+lectus, -a, -um 
+
+
+ sim, sis, sit (αν) 
+
+
+έχω διαβάστει 
+
+
+ ή διαβαστώ 
+
+
+ 
+
+
+audi-tus -a, -um 
+
+
+ sim, sis, sit (αν)
+
+
+ έχω ακουστεί 
+
+
+ ή ακουστώ 
+
+
+
+
+ama-ti, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+deleti, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+lecti, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+auditi, -ae, -a 
+
+
+ simus, sitis sint 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Plusquamperfectum 
+
+
+ 
+
+
+amatus, -a, -um 
+
+
+ essem, esses, 
+
+
+esset (αν) 
+
+
+είχα αγαπηθεί 
+
+
+ 
+
+
+deletus, -a- um  
+
+
+ essem, esses, 
+
+
+esset (αν) 
+
+
+είχα καταστραφεί 
+
+
+ 
+
+
+lectus, -a, -um 
+
+
+ essem, esses, 
+
+
+esset (αν) 
+
+
+είχα διαβάστει 
+
+
+ 
+
+
+audi-tus -a, -um 
+
+
+ essem, esses, 
+
+
+esset (αν) 
+
+
+ακουστεί 
+
+
+
+
+amātī, -ae, -a 
+
+
+ essemus, 
+
+
+essetis, essent 
+
+
+deleti, -ae, -a 
+
+
+ essemus, 
+
+
+ essetis, essent 
+
+
+lecti, -ae, -a 
+
+
+ essemus, 
+
+
+ essetis, essent 
+
+
+auditi, -ae, -a 
+
+
+ essemus, 
+
+
+ essetis, essent 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Futurum 
+
+                  exactum
+
+ 
+
+
+
+ 
+
+
+Δεν έχει 
+
+
+
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+3. Imperatīvus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+Sing. 
+
+
+ 
+
+
+2.ămā-re να αγαπιέσαι
+
+
+ 
+
+
+delē-re 
+
+
+να 
+
+
+καταστρέφεσαι 
+
+
+ 
+
+
+legĕ-re 
+
+
+να διαβάζεσαι
+
+
+ 
+
+
+audī-re 
+
+
+ να ακούεσαι
+
+
+
+ Plur. 
+
+2. amā-mĭni 
+
+
+dēlē-mĭni 
+
+
+leg-ĭ-mĭni 
+
+
+audi-mĭni 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Futurum
+
+
+ 
+
+
+Sing. 
+
+
+ 
+
+
+2.ămā-tor 
+
+
+ να αγαπιέσαι 
+
+
+3. amā-tōr 
+
+
+ 
+
+
+dēlē-tor 
+
+
+να 
+
+
+ καταστρέφεσαι 
+
+
+dele-tor 
+
+
+ 
+
+
+leg-ĭ-tor 
+
+
+να διάβαζεσαι 
+
+
+ 
+
+
+leg-ĭ-tor 
+
+
+ 
+
+
+audī-tor 
+
+
+να 
+
+
+ ακουόμουν
+
+
+audī-tor 
+
+
+
+ Plur. 
+
+ama-ntor
+
+
+dele-ntor 
+
+
+leg-untur 
+
+
+audi-u-ntor 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+4. Infinitīvus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+amā-ri 
+
+
+ «αγαπάσθαι»
+
+
+ 
+
+
+delē-ri 
+
+
+ «καταστρέφεσθαι» 
+
+
+ 
+
+
+leg-ī 
+
+
+ «αναγιγνώ-
+
+
+σκεσθαι»
+
+
+ 
+
+
+audī-ri 
+
+
+ «ακούεσθαι» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Futurum
+
+
+ 
+
+
+amatum iri 
+
+
+ «αγαπηθή- 
+
+
+ σεσθαι» 
+
+
+ 
+
+
+deletum iri 
+
+
+ «καταστραφή- 
+
+
+ σεσθαι» 
+
+
+ 
+
+
+lectum īrī 
+
+
+ «αναγνωσθή- 
+
+
+ σεσθαι» 
+
+
+ 
+
+
+auditum iri 
+
+
+ «ακουσθή- 
+
+
+ σεσθαι» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Perfectum
+
+
+ 
+
+
+amatum, -am, -um 
+
+                esse
+                
+ ότι ή να έχει 
+
+
+ αγαπηθεί 
+
+
+ amatos,-as, -a 
+
+
+ esse 
+
+
+ 
+
+
+deletum, -am, -um 
+
+
+ esse 
+
+
+ ότι ή να έχει 
+
+
+ καταστραφεί 
+
+
+ deletos,-as, -a 
+
+
+ esse 
+
+
+ 
+
+
+lectum, -am, -um 
+
+
+ esse 
+
+
+ ότι ή να έχει 
+
+
+ διαβαστεί 
+
+
+ lectos,-as,-a 
+
+
+ esse 
+
+
+ 
+
+
+auditum,-am,-um 
+
+
+ esse 
+
+
+ ότι ή να έχει 
+
+
+ ακουστεί 
+
+
+ auditos,-as,-a 
+
+
+ esse 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Futurum exactum
+
+
+ 
+
+
+amatum, -am, -um 
+
+
+ fore ότι θα έχει 
+
+
+αγαπηθεί 
+
+
+ amatos, -as, -a 
+
+
+ fore 
+
+
+ 
+
+
+deletum, -am, -um 
+
+
+ fore ότι θα έχει 
+
+
+καταστραφεί 
+
+
+ deletos, -as, -a 
+
+
+ fore 
+
+
+ 
+
+
+lectum, -am,- um 
+
+
+ fore ότι θα έχει 
+
+
+διαβαστεί 
+
+
+ lectos, -as, -a 
+
+
+ fore 
+
+
+ 
+
+
+auditum,-am,-um 
+
+
+ fore ότι θα έχει 
+
+
+ ακουστεί 
+
+
+ auditos, -as, -a 
+
+
+ fore 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+5. Participĭum 
+
+
+
+
+Perfectum
+
+
+ 
+
+
+amātus, amāta 
+
+
+ amātum 
+
+
+ αγαπημένος 
+
+
+ 
+
+
+delētus, delēta 
+
+
+ delētum 
+
+
+ καταστραμμένος 
+
+
+ 
+
+
+lēctus, lēcta, 
+
+
+ lēctum 
+
+
+ διαβασμένος 
+
+
+ 
+
+
+audītus, audīta, 
+
+
+ audītum 
+
+
+ ακουσμένος 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+
+6. Gerundīvum
+
+
+
+
+ 
+
+
+ 
+
+
+ama-ndus 
+
+
+ ama-nda 
+
+
+ ama-ndum 
+
+
+ «αγαπητέος, 
+
+
+ -τέα, -τέον»
+
+
+ 
+
+
+dele-ndus 
+
+
+ dele-nda 
+
+
+ dele-ndum 
+
+
+ «καταστρεπτέος, 
+
+
+ -έα, -έον»
+
+
+ 
+
+
+leg-e-ndus 
+
+
+ leg-e-nda 
+
+
+ leg-e-ndum 
+
+
+ «αναγνωστέος,
+
+
+ -έα, -έον»
+
+
+ 
+
+
+audi-e- ndus 
+
+
+ audi-e-nda 
+
+
+ audi-e-ndum 
+
+
+ «ακουστέος, 
+
+
+ -έα, -έον» 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 79. Οι κυρίως προσωπικές καταλήξεις των    	  ρημάτων 
+
+
+
+
+  
+
+
+Ενεργητικής φωνής 
+
+
+  
+
+
+Μέσης (ή Παθητικής) φωνής 
+
+
+
+
+
+ Οριστ. και υποτακτ. 
+
+
+ Προστακτ. 
+
+
+ Οριστ. και υποτακτ. 
+
+
+ Προστακτ. 
+
+
+
+
+ Ενικός 
+
+
+  
+
+
+1.  -m ή – 
+
+
+ 2.  -s (οριστική παρακειμ. -sti) 
+
+
+3. -t
+
+
+  
+
+
+………… 
+
+
+ – ή -to
+
+
+ 
+
+
+ 
+
+
+ -to 
+
+
+  
+
+
+-r 
+
+
+ -ris (ή -re) 
+
+
+ 
+
+
+ 
+
+
+ -tur 
+
+
+  
+
+
+………… 
+
+
+ -re ή tor
+
+
+ 
+
+
+ 
+
+
+ tor 
+
+
+
+
+ Πληθυντικός 
+
+
+  
+
+
+1. -mus 
+
+
+ 2.  -tis (οριστική παρακειμ. -stis) 
+
+
+ 3.  -nt (οριστική παρακειμ. 
+
+
+ -runt ή -re 
+
+
+
+
+
+ 
+
+
+  
+
+
+-te ή -tote 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ -nto 
+
+
+  
+
+
+-mur 
+
+
+ -mini 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ -ntur 
+
+
+ 
+
+
+
+
+
+ 
+
+
+  
+
+
+ 
+
+
+-mini 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ -ntor 
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+Σημείωση 1. To α´ ενικό πρόσωπο των    	  χρόνων της μέσης φωνής που    	  σχηματίζονται μονολεκτικώς βρίσκεται    	  από το α´ πρόσωπο του αντίστοιχου    	  χρόνου της ενεργητικής φωνής, αν λήγει    	  σε ο με την προσθήκη ενός r, αν λήγει σε m    	  με την τροπή του m σε r, όπως amo-amor, amabam-amabar,    	  amabo-amabor, amem-amer, amarem, amarer, κ.τ.λ. 
+
+
+Σημείωση 2.Το απαρέμφατο του μέλλοντα    	  της μέσης (παθητικής) φωνής (amatum iri, deletum    	  iri κτλ.) αποτελείται από το σουπίνο (§75,3    	 ) και το iri, που είναι απαρέμφατο του    	  παθητικού ενεστώτα του ρήματος eo =    	  πορεύομαι. 
+
+
+ Αρχαϊκότεροι τύποι είναι: α´)    	  του παρατατικού της δ´ συζυγίας audībam,    	  audības κτλ. και του μέλλοντα audībo, audibis κτλ.    	  β´) του απαρεμφάτου του παθητικού    	  ενεστώτα amarĭer, legĭer κτλ. (=amari, legi)· γ´)    	  του γερουνδιακού της γ´ και της δ´    	  συζυγίας σε -undus, όπως legundus, audiundus, (= legendus,    	  audiendus). 
+
+
+ Αποθετικά ρήματα (verba deponentia) 
+
+
+ 80. Και η Λατινική έχει αποθετικά ρήματα ενεργητικής (ή ουδέτερης)    	  διαθέσεως, ρήματα δηλ. που έχουν μόνο τη    	  μέση (παθητική) φωνή (γι' αυτό    	  λέγονται και media tantum §74, 2β´), όπως hortor (προτρέπω) - hortātus sum- hortātum - hortāri, vereor    	  (ευλαβούμαι) - verĭtus sum - verĭtum- verēri, loquor (ομιλώ) - locūtus sum locūtum - loqui, blandior (κολακεύω) - blandītus sum - blandītum - blandīri. 
+
+
+ Τα ρήματα αυτά κλίνονται όπως ακριβώς    	  τα αντίστοιχα ρήματα μέσης φωνής (μέσης    	  ή παθητικής διαθέσεως, §78 2) με τη    	  διάφορά ότι από τη μέση φωνή δεν έχουν    	  απαρέμφατο του μέλλοντα, ενώ από την    	  ενεργητική έχουν υποτακτική και    	  απαρέμφατο του μέλλοντα, σουπίνο,    	  μετοχή του ενεστώτα και του μέλλοντα    	  και το γερούνδιο. 
+
+
+
+
+ Futurum 
+
+
+
+
+ 
+
+
+  
+
+
+hortor 
+
+
+ πρβ. amor 
+
+
+  
+
+
+vereor 
+
+
+ πρβ. deleor 
+
+
+  
+
+
+loquor 
+
+
+ πρβ. legor 
+
+
+  
+
+
+blandior 
+
+
+ πρβ. audior 
+
+
+
+
+ Coniunctivus 
+
+
+  
+
+
+hortatūrus, -a, -um 
+
+
+ sim, sis, sit 
+
+
+  
+
+
+veritūrus, -a, -um 
+
+
+ sim, sis, sit 
+
+
+  
+
+
+locutūrus, -a, -um 
+
+
+ sim, sis, sit 
+
+
+  
+
+
+blanditūrus, -a, -um 
+
+
+ sim, sis, sit 
+
+
+
+
+ hortaturi, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+ veritūri, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+ locutūri, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+ blanditūri, -ae, -a 
+
+
+ simus, sitis, sint 
+
+
+
+ 
+
+
+
+ Infinitivus 
+
+
+  
+
+
+hortatūrum, -am, 
+
+
+  
+
+
+veritūrum, -am, 
+
+
+  
+
+
+locutūrum, -am, 
+
+
+  
+
+
+blanditūrum, -am 
+
+
+
+
+ - um esse 
+
+
+ - um esse 
+
+
+ - um esse 
+
+
+ - um esse 
+
+
+
+
+hortatūros, -as, -a esse 
+
+
+ veritūros, -as, -a esse 
+
+
+ locutūros, -as, -a esse 
+
+
+ blanditūros, -as, -a esse 
+
+
+
+ 
+
+
+
+ Supinum 
+
+
+  
+
+
+hortātum, tū
+
+
+  
+
+
+verĭtum, tū
+
+
+  
+
+
+locūtum, tū
+
+
+  
+
+
+blandītum, tū 
+
+
+
+ 
+
+
+
+  
+
+
+Participium 
+
+
+
+
+ Praesens 
+
+
+  
+
+
+hortans (gen. 
+
+
+hortantis) 
+
+
+  
+
+
+verens (gen. 
+
+
+verentis) 
+
+
+  
+
+
+loquens (gen.
+
+
+ loquentis)
+
+
+  
+
+
+blandiens (gen. 
+
+
+blandientis) 
+
+
+
+
+ Futurum 
+
+
+  
+
+
+hortatūrus, 
+
+
+ -a, -um 
+
+
+  
+
+
+veritūrus, 
+
+
+  -a, -um 
+
+
+  
+
+
+locutūrus, 
+
+
+ -a, -um 
+
+
+  
+
+
+blanditūrus, 
+
+
+ -a, -um 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ Gen. 
+
+
+ hortandi
+
+
+ verendi 
+
+
+ loquendi 
+
+
+ blandiendi 
+
+
+
+
+ Dat. 
+
+
+hortando 
+
+
+ verendo 
+
+
+ loquendo 
+
+
+ blandiendo 
+
+
+
+
+ Acc. 
+
+
+hortandum
+
+
+ verendum 
+
+
+ loquendum 
+
+
+blandiendum
+
+
+
+
+ Abl. 
+
+
+ hortando 
+
+
+ verendo 
+
+
+ loquendo 
+
+
+ blandiendo 
+
+
+
+ 
+
+
+
+ 
+
+
+ 81. Η λατινική γλώσσα έχει ακόμη και    	  μερικά ημιαποθετικά ρήματα (verba semideponentia), δηλ. ρήματα τα οποία έχουν: 
+
+
+ 1) ενεστώτα και απαρέμφατο ενεργητικού    	  τύπου, παρακείμενο μέσου τύπου. Σ' αυτή    	  την κατηγορία ανήκουν τα εξής ρήματα: 
+
+
+
+audeo
+τολμώ  
+ausus sum    	  τόλμησα 
+ausum
+audēre
+
+
+gaudeo
+χαίρω
+gavīsus sum    	  χάρηκα
+gavīsum
+gaudēre
+
+
+soleo
+συνηθίζω
+solĭtus sum    	  συνήθισα
+solĭtum
+solēre
+
+
+fido
+έχω πεποίθηση
+fisus sum ήμουν    	  πεπεισμένος
+fisum
+fidĕre.
+
+
+
+ To ίδιο και τα σύνθετα confĭdo έχω    	  πεποίθηση, diffĭdo δύσπιστώ κτλ. 
+
+
+ 2) ενεστώτα και απαρέμφατο μέσου τύπου    	  και παρακείμενο ενεργητικού. Τέτοια    	  ρήματα είναι: 
+
+
+ devertor καταλύω - deverti κατέλυσα, deversum,    	  deverti. 
+
+
+ revertor επιστρέφω - reverti (και reversus sum)    	  επέστρεψα - reversum,    	    	  reverti. 
+
+
+ adsentior παραδέχομαι - adsensi παραδέχτηκα    	  - adsensum, adsentiri (πβ. ίσταμαι - έστηκα,    	  έστην, φύομαι - πέφυκα, έφυν κ.τ.ό.). 
+
+
+Σημείωση.Όπως η μετοχή του μέσου    	  παρακειμένου των αποθετικών ρημάτων    	  αντιστοιχεί στην αρχαία ελληνική προς    	  τη μετοχή του ενεργητικού παρακειμένου    	  ή αορίστου (π.χ. loquor-locūtus = ειρηκώς ή    	  ειπών, hortor-hortātus = παραινέσας, audeo - ausus =    	  τετολμηκώς ή τολμήσας), έτσι και άλλων    	  ρημάτων η μετοχή του μέσου παρακειμένου    	  λαμβάνεται με σημασία ενεργητικoύ παρακειμένου ή αορίστου, π.χ. (ceno δειπνώ)    	  (cenātus = δεδειπνηκώς ή δειπνήσας, (prandeo    	  αριστώ) pransus = ηριστηκώς ή αριστήσας, (iuro    	  όμνυμι) iurātus = ομόσας. Των ρημάτων potāre    	  (πίνειν) και tacēre (σιγάν) η μετοχή του    	  μέσου παρακειμένου λαμβάνεται και με    	  ενεργητική και με παθητική σημασία, π.χ.    	  potus (= potatus) = πεπωκώς ή πιών και ποθείς,    	  tacĭtus = σιγήσας (σιγηλός) και σιγηθείς. (Πρβ. νεοελλ. δειπνώ - δειπνημένος = ο    	  δειπνήσας, πίνω - πιωμένος = ο    	  πεπωκώς). Πολλές φορές η μετοχή του    	  μέσου παρακειμένου λαμβάνεται και με    	  σημασία παθητικού ενεστώτα, όπως tutior est    	  certa pax quam sperāta victoria =    	  ασφαλέστερη είναι βέβαιη ειρήνη παρά ελπιζόμενη νίκη. 
+
+
+ Aυτές οι χρήσεις της μετοχής του μέσου    	  παρακειμένου σε -tus, -ta, -tum εξηγούνται    	  από το ότι η μετοχή αυτή από την αρχή    	  ήταν επίθετο που αντιστοιχούσε προς τα    	  ρηματικά επίθετα της αρχαίας Ελληνικής    	  σε -τος, -τη, -τον∙ αυτά από την    	  αρχή εσήμαιναν 1) τον υποκείμενο σ'    	  αυτό που δήλωνε το ρήμα (π.χ. θνητός = εκείνος που υπόκειται στο    	  θάνατο), 2) εκείνο που ήταν δυνατό να    	  γίνει (π.χ. βατός δρόμος = στον οποίο    	  μπορεί κανείς να βαδίσει, αντίθετα    	  άβατος) και 3) ό,τι και η μετοχή του    	  ενεργητικού ή μέσου ενεστώτα ή αορίστου    	  ή παρακειμένου (π.χ. δυνατός = (ο    	  δυνάμενος) εκείνος που μπορεί, νεοελλ. καυτός = εκείνος που καίει (ο καίων), αστράτευτος = (ο μη στρατευσάμενος)    	  εκείνος που δε στρατεύθηκε, άπρακτος = αυτός που δεν έπραξε (ο μη    	  πράξας), θαυμαστός = ο θαυμαζόμενος,    	  ο τεθαυμασμένος κτλ.). Ετσι και στη    	  λατινική π.χ. ignōtus = ο άγνωστος και ο    	  αγνοών, occultus = ο κεκρυμμένος και ο    	  (κρύπτων), ασφαλίζων κ.ά.τ. 
+
+
+ 82. Περιφραστική συζυγία (Coniugatio periphrastĭca). Εκτός από τους    	  συνηθισμένους περιφραστικούς τύπους    	  των ρημάτων των τεσσάρων συζυγιών (§76)    	  σχηματίζονται ακόμη περιφραστικοί    	  ρηματικοί τύποι σε όλους τους χρόνους    	  και τις εγκλίσεις με τις διάφορες    	  μετοχές των ρημάτων, κυρίως με τη μετοχή    	  του ενεργητικού μέλλοντα σε -ūrus και το    	  γερουνδιακό σε -ndus, -nda, -ndum (§27,5) και το   	    βοηθητικό ρήμα esse· π.χ. 
+
+
+ 1) scripturus sum (μέλλω γράφειν) πρόκειται να    	  γράψω, scriptūrus eram (έμελλον γράφειν)    	  επρόκειτο να γράψω, scriptūrus ero, scriptūrus fui,    	  κτλ. 
+
+
+ 2)  docendus sum (διδακτέος εἰμί) πρέπει να διδαχθώ, docendus eram έπρεπε να διδαχθώ, docendus    	  ero, κτλ. 
+
+
+ Μερικές μεταβολές σε ρηματικούς    	  τύπους των τεσσάρων συζυγιών 
+
+
+ 83.  Οι ρηματικοί τύποι που    	  σχηματίζονται από χρονικό θέμα    	  παρακειμένου με χαρακτήρα ν πολλές    	  φορές αποβάλλουν το ν, όταν ύστερα από    	  τη συλλαβή ve ή νi ακολουθεί στην κατάληξη r ή s. Μετά την    	  αποβολή του ν τα φωνήεντα που    	  συναντιώνται (εκτός από τα i-e),    	  συναιρούνται ως εξής: (στην α´ συζυγία)    	  το a + i = α, (στην β´ συζυγία) το e + i = e και    	  (στην δ´ συζυγία) το i + i = i. Είναι δυνατό    	  όμως τα δύο i να μένουν και ασυναίρετα    	  π.χ. 
+
+
+ amo, ama-v-i, amavērunt και amarunt, amavistis και amastis,    	  amavero και amāro, amavisse και amasse, κτλ. 
+
+
+ deleo, dele-v-i, deleveram και delēram, delevistis και delēstis    	  κτλ. 
+
+
+ audio, audi-v-i, audivisti και audisti ή audiisti, audiverunt και    	  audie-runt, audiveram και audiĕram κτλ. 
+
+
+Σημείωση.Των παρακειμένων σε -iνί είναι    	  δυνατό να εκπίπτει το ν και στο α´ και γ´    	  ενικό πρόσωπο της οριστικής, αλλά τότε    	  δε συναιρούνται τα δύο i. Σύμφωνα μ'    	  αυτό τον κανόνα σχηματίζονται κανονικά    	  οι τύποι αυτοί στον παρακείμενο των    	  συνθέτων του ρήματος eo πορεύομαι, όπως    	  redeo επιστρέφω - (redīvi και) redĭi - (redīvit    	  και) redĭit, καθώς και του ρήματος peto ζητώ -    	  petīvi και petĭi -(petīvit και) petĭit. 
+
+
+ 84. Δεκαπέντε ρήματα της γ´ συζυγίας    	  (από τα οποία τα τρία αποθετικά) λήγουν    	  σε -iο (όπως δηλ. τα ρήματα της δ´    	  συζυγίας). Αυτά είναι τα εξής: 
+
+
+
+
+ capio (λαμβάνω) παίρνω 
+
+
+ cēpi 
+
+
+ captum 
+
+
+ capĕre 
+
+
+
+
+ cupio επιθυμώ 
+
+
+ cupīvi 
+
+
+ cupītum 
+
+
+ cupĕre 
+
+
+
+
+ facio κάνω 
+
+
+ fēci 
+
+
+ factum 
+
+
+ facĕre 
+
+
+
+
+ fodio σκάζω 
+
+
+ fōdi 
+
+
+ fossum 
+
+
+ fodĕre 
+
+
+
+
+ fugiο φεύγω 
+
+
+ fūgi 
+
+
+ (fugĭtum) 
+
+
+ fugĕre 
+
+
+
+
+ iacio ρίχνω 
+
+
+ iēci 
+
+
+ iactum 
+
+
+ iacĕre 
+
+
+
+
+ lacio (έλκω) σύρω (εύχρηστο στα σύνθετα    	        π.χ. elicio σύρω έξω, 
+
+
+
+
+
+ elicui 
+
+
+ elicĭtum)
+
+
+ lacĕre 
+
+
+
+
+ pario γεννώ 
+
+
+ pepĕri 
+
+
+ partum 
+
+
+ parĕre 
+
+
+
+
+ quatio σείω 
+
+
+ (quassi) 
+
+
+ quassum 
+
+
+ quatĕre 
+
+
+
+
+ rapio αρπάζω 
+
+
+ rapui 
+
+
+ raptum 
+
+
+ rapĕre 
+
+
+
+
+ sapio έχω γεύση (σωφρονώ) (sapīvi ή sapĭi) 
+
+
+
+
+ specio παρατηρώ 
+
+
+ spexi 
+
+
+ spectum 
+
+
+ specĕre 
+
+
+
+
+ gradior βαδίζω 
+
+
+ gressus sum 
+
+
+ gressum 
+
+
+ gradi 
+
+
+
+
+ morior αποθνήσκω 
+
+
+ mortuus sum 
+
+
+ (mortuum) 
+
+
+ mori 
+
+
+
+
+ patior πάσχω 
+
+
+ passus sum 
+
+
+ passum 
+
+
+ pati 
+
+
+
+
+ Των ρημάτων αυτών ο χαρακτήρας του    	  ενεστωτικού θέματος i αποβάλλεται, όπου    	  ακολουθεί άλλο i στην κατάληξη ή -ĕr ή    	  τελικό e. Κατά τα άλλα κλίνονται όπως το    	  lego - legor (§78). 
+
+
+
+ 
+
+
+
+ Ενεργητική φωνή 
+
+
+ Μέση φωνή 
+
+
+
+
+  
+
+
+1. Ιndicatiνus 
+
+
+
+ 
+
+
+
+ Praesens 
+
+
+
+
+ capi-o 
+
+
+
+ capi-or 
+
+
+
+
+
+ cap-ĭs 
+
+
+ (από το capi-is) 
+
+
+ cap-ĕris 
+
+
+ (από το capi-ĕris) 
+
+
+
+
+ capĭt 
+
+
+ (από το capi-it) 
+
+
+ cap-ĭtur 
+
+
+ (από το capi-itur) 
+
+
+
+
+ cap-ĭmus 
+
+
+ (από το capi-imus) 
+
+
+ cap-ĭmur 
+
+
+ (από το capi-imur) 
+
+
+
+
+ cap-ĭtis 
+
+
+ (από το capi-itis) 
+
+
+ capi-mĭni 
+
+
+
+
+
+ capi-unt 
+
+
+
+ capi-untur 
+
+
+
+
+
+  
+
+
+Imperfectum: capi-ēbam, capi-ebăs, capi-ebăt κτλ. 
+
+
+ Futurum: capi-am, capi-es, capi-et κτλ. 
+
+
+
+
+  
+
+
+2 Coniunctiνus 
+
+
+
+ 
+ 
+ 
+ 
+
+
+
+ Praesens: 
+
+
+ capi-ăm, 
+
+
+ capi-ăs, 
+
+
+ capi-ăt κ.τ.λ. 
+
+
+
+
+ 
+
+
+ capi-ăr, 
+
+
+ capiāris 
+
+
+ capi-ātur κ.τ.λ. 
+
+
+
+
+  
+
+
+Imperfectum 
+
+
+
+
+ cap-ĕrem 
+
+
+(από το capi-erem) 
+
+
+ cap-ĕrĕr 
+
+
+ (από το capi-erer) 
+
+
+
+
+ caperēs 
+
+
+ (από το capi-eres) 
+
+
+ cap-erēris 
+
+
+(από το capi-ereris) 
+
+
+
+
+ cap-erĕt 
+
+
+ 
+
+
+ cap-erētur 
+
+
+ 
+
+
+
+
+ cap-erēmus 
+
+
+ 
+
+
+ cap-erēmur 
+
+
+ 
+
+
+
+
+ cap-erētis 
+
+
+ 
+
+
+ cap-eremĭni 
+
+
+ 
+
+
+
+
+ cap-ĕrent 
+
+
+ 
+
+
+ cap-erentur 
+
+
+ 
+
+
+
+
+  
+
+
+3.Imperatīvus 
+
+
+ 
+
+
+
+
+ cape 
+
+
+ (από το capi-e) 
+
+
+ cap-ĕre 
+
+
+ (από το capi-ere) 
+
+
+
+
+ cap-ite 
+
+
+ 
+
+
+ cap-imini 
+
+
+ 
+
+
+
+
+ cap-ito 
+
+
+
+ cap-itor 
+
+
+ (από το capi-itor) 
+
+
+
+
+ cap-ĭtο 
+
+
+ (από το capi-ito) 
+
+
+ cap-ĭtor 
+
+
+ 
+
+
+
+
+ cap-itōte 
+
+
+ 
+
+
+
+ 
+
+
+
+
+ capi-unto 
+
+
+ 
+
+
+ capi-untor 
+
+
+ 
+
+
+
+
+  
+
+
+4.Infinitivus 
+
+
+
+
+  
+
+
+cap-ĕre 
+
+
+  
+
+
+(από το capi-ere) 
+
+
+  
+
+
+capi 
+
+
+  
+
+
+(από το capi-i) 
+
+
+
+
+
+
+
+
+
+
+
+Σημείωση.Του ρήματος facio το β´ ενικό της    	  προστακτικής του ενεργητικού ενεστώτα    	  σχηματίζεται χωρίς την κατάληξη e, με το    	  θέμα μόνο: fac (ποίει) κάνε. Όμοια    	  σχηματίζεται το ίδιο πρόσωπο και των    	  ρημάτων dico (λέγω), duco (οδηγώ), fero (φέρω):    	  dic, duc, fer. 
+
+
+ Όμως τα σύνθετα με πρόθεση του ρήματος    	  facio (που σ' αυτά το a του θέματος    	  τρέπεται σε i), σχηματίζουν το β´ ενικό    	  πρόσωπο της προστακτικής του    	  ενεργητικού ενεστώτα με την κανονική    	  κατάληξη e: conficio (κατασκευάζω) - confĭce,    	  per-ficio (κατορθώνω) - perfĭce κτλ. 
+
+
+ 85. Χρονικά θέματα.- Οι διάφοροι τύποι    	  όλων των ρημάτων της Λατινικής    	  σχηματίζονται από τρία κυρίως θέματα: 1)    	  από το θέμα του ενεστώτα, 2) από το θέμα    	  του ενεργητικού παρακειμένου και 3) από    	  το θέμα του σουπίνου. 
+
+
+ Για το λόγο αυτό ο ενεστώτας, ο (ενεργητικός) παρακείμενος και το    	  σουπίνο (με το απαρέμφατο του ενεστώτα)    	  λέγονται αρχικοί χρόνοι του ρήματος (tempora primitiva), π.χ. 
+
+
+ amo                              	  amāvi            amātum             amāre 
+
+
+ deleo                            	  delēvi            delētum             delēre 
+
+
+ lĕgo                              	  lēgi                lectum                  	  legĕre κτλ. 
+
+
+ 1) Από το θέμα του ενεστώτα    	  σχηματίζονται ο ενεστώτας και ο    	  παρατατικός οριστικής και υποτακτικής,    	  ο μέλλοντας της οριστικής, η    	  προστακτική, το απαρέμφατο του    	  ενεστώτα, η μετοχή του ενεργητικού    	  ενεστώτα και το γερούνδιο. 
+
+
+ (θ. ama-) amo, amor (από το ama-o, ama-or) - amem - amer (από το ama-em, ama-er) — ama-bam, ama-bar, ama-rem, ama-rer,    	  ama-bo, ama-bor, — ama, ama-to κτλ. — ama-re, ama-ri — ama-ns,    	  ama-ndi κτλ. 
+
+
+ 2) Από το θέμα του (ενεργ.) παρακειμένου    	  σχηματίζονται οι συντελικοί χρόνοι της    	  ενεργητικής φωνής, δηλ. ο ενεργητικός    	  παρακείμενος και ο υπερσυντέλικος σε    	  όλες τις εγκλίσεις και ο τετελεσμένος    	  μέλλοντας της οριστικής: 
+
+
+ (θ. amav-) amā-vi, amav-ĕrim, amav-ĕram, amav-issem, amav-isse,    	  amav-ĕro κτλ. 
+
+
+ 3) Από το θέμα του σουπίνου    	  σχηματίζονται το σουπίνο, η μετοχή του    	  ενεργητικού μέλλοντα και η μετοχή του    	  παθητικού παρακειμένου (καθώς και όλοι    	  οι περιφραστικοί τύποι που    	  σχηματίζονται με τις μετοχές αυτές ή με    	  το σουπίνο): 
+
+
+ (θ. amat-) amāt-um, amāt-u, amat-ūrus, -a, -um, amāt-us, -a, -um    	  — amatū-rus sim, sis κτλ.— amatus, -a, -um sum, es κτλ. amatum    	  īri κτλ. 
+
+
+ Παρατηρήσεις στο σχηματισμό των    	  χρονικών θεμάτων. 
+
+
+
+
+
+ 86. α´) Χρονικό θέμα του    	  ενεστώτα.- Θέμα του ενεστώτα πολλών    	  απλών ρημάτων είναι το ίδιο το ρηματικό    	  θέμα τους, π.χ. 
+
+
+ (ρ. θ. para-) paro (από το para-o) παρασκευάζω,    	  parāvi, parātum, parāre∙ 
+
+
+ (ρ. θ. dele-) dele-o καταστρέφω, delēvi, delētum,    	  delēre· 
+
+
+ (ρ. θ. lĕg-) lĕg-o διαβάζω lēg-i, lectum, legĕre 
+
+
+ (ρ. θ. parti-) parti-o μοιράζω, partīvi, partītum, partīre. 
+
+
+ Όμως σε πάρα πολλά ρήματα το θέμα του    	  ενεστώτα σχηματίζεται από το ρηματικό    	  θέμα με την προσθήκη προσφυμάτων ή με    	  αναδιπλασιασμό: 
+
+
+ 1) με πρόσφυμα φωνήεντος a ή e ή i, όπως 
+
+
+ α´) (ρ. θ. nec-) neco (από το nec-a-o) φονεύω,    	  necāvi, necātum, necāre∙ 
+
+
+ β´) (p. θ. aug-) aug-e-o αυξάνω auxi, auctum, augēre∙ (πρβ. στην αρχ. ελληνική δοκω από το    	  δοκ-έ-ω)· 
+
+
+ γ´) (ρ. θ. rap-) rap-i-o αρπάζω, rapui, raptum, rapĕre (§    	  84)·    	 (ρ. θ. mor-) mor-i-or αποθνήσκω, mortuus sum, mortuum (αλλά η μετοχή του ενεργητικού μέλλοντα    	  moriturus), mŏri (§ 80)∙ 
+
+
+ 2) με πρόσφυμα συμφώνου n ή t ή sc, όπως 
+
+
+ α´) (ρ. θ. cer-) cer-n-o κρίνω, crevi, cretum, cernĕre (πρβ. αρχ. ελλ. κάμ-ν-ω), αόρ. ἔ-καμ-ον). 
+
+
+ Σε μερικά ρήματα το πρόσφυμα n    	  παρεμβάλλεται ανάμεσα στο θεματικό    	  φωνήεν και στο χαρακτήρα του ρηματικού    	  θέματος, όπως (ρ. θ. tag-) ta-n-go εγγίζω, tetĭgi,    	  tactum, tangĕre. 
+
+
+ (ρ. θ. fud-) fu-n-do χύνω, fūdi, fūsum, fundĕre (πρβ.    	  αρχ. ελλ. μα-ν-θ-άνω, αόρ. έ-μαθον)· 
+
+
+ β´) (ρ. θ. plec-) plect-o πλέκω, plexi (και -xui), plexum,    	  plectĕre∙
+
+
+ γ´) (ρ. θ. pa-) pa-sc-o βόσκω, pāvi, pāstum, pascĕre. Με    	  το πρόσφυμα sc σχηματίζεται κανονικά το    	  θέμα του ενεστώτα των εναρκτικών    	  ρημάτων (verba inchoatīva ή incohatīva), όπως 
+
+
+ (ρ. θ. sene-) sene-sc-o γεράζω (γηρά-σκ-ω), senui,    	  senescĕre∙
+
+
+ (ρ. θ. cale-) cale-sc-o γίνομαι θερμός, calui,    	  calescĕre∙ 
+
+
+  3) με ενεστωτικό αναδιπλασιασμό, όπως: 
+
+
+ (ρ. θ. gen-) gi-gn-o (από το gi-gen-o) γεννώ, genŭi,    	  genĭtum, gignĕre (πρβ. γί-γν-ομαι, από το    	  γι-γέν-ομαι)∙. 
+
+
+ 87. β´) Χρονικό θέμα του    	  παρακειμένου.- 1) Το θέμα του    	  παρακειμένου των ομαλών ρημάτων της α´,    	  της β´και της δ´ συζυγίας σχηματίζεται    	  από το ρηματικό θέμα με την προσθήκη του    	  χαρακτήρα ν, όπως amo (από το ama-o) amāv-i,    	  dele-o, delēv-i — audio, audīv-i, κτλ. 
+
+
+ Όμως πολλά ρήματα της β´ συζυγίας    	  σχηματίζουν τον παρακείμενο σε -ui και    	  όχι σε –evi, όπως habe-o έχω, hab-ui — mone-o    	  συμβουλεύω, mon-ui κτλ. 
+
+
+ 2) Το θέμα του παρακειμένου των ρημάτων    	  της γ´συζυγίας σχηματίζεται συνήθως    	  κατά τρεις τρόπους,ως εξής: 
+
+
+ α´) από το ίδιο το ρηματικό θέμα με    	  έκταση του θεματικού φωνήεντος, του ă ή ĕ σε ē, του ĭ σε ī ,    	  του ŏ σε ō και του ŭ σέ ū, όπως: 
+
+
+ (ρ. θ. ăg-) ag-o (άγω) οδηγώ, ēg-i, actum, agĕre· 
+
+
+ (ρ. θ. leg-) leg-o διαβάζω, lēg-i, lectum, legĕre 
+
+
+ (p. θ. lĭqu-) linqu-o αφήνω, līqu-i, (lictum), linquĕre· 
+
+
+ (p. θ. fŏd-) fodio σκάβω, fōd-i, fossum, fodĕre (§ 84)· 
+
+
+ (ρ. θ. fŭg-) fugio φεύγω, fūgi, fugĭtum, fugĕre (§ 84)· 
+
+
+ β´) με αναδιπλασιασμό και με τροπή    	  συνήθως του θεματικού φωνήεντος του ă    	  σε ĕ ή ĭ και του ae σε ī, όπως: 
+
+
+ (ρ. θ. tend-) tendo τεντώνω, te-tend-i, tentum (ή tensum),    	  tendĕre (πρβ. τείνω τέ-τα-κα κτλ.) 
+
+
+ (ρ. θ. păr-) pario γεννώ, pe-pĕ-ri (από το pe-pă-ri),    	  partum, parere (μετοχή ενεργητ. μέλλοντα paritūrus    	 )∙ 
+
+
+ (ρ. θ. căn-) cano τραγουδώ, ce-cĭn-i, canĕre (σουπίνο cantātum) 
+
+
+ (p. θ. căd-) cado πέφτω, ce-cĭ-di, (cāsum), cadĕre· 
+
+
+ (p. θ. caed-) caedo κόβω, χτυπώ, ce-cī-di, caesum,    	  caedĕre· 
+
+
+ (p. θ. posc-) posco ζητώ, po-posc-i (από το pe-posc-i),    	  poscĕre· 
+
+
+ (p. θ. curr-) curro τρέχω, cu-curr-i (από το ce-curr-i),    	  cursum, currĕre. 
+
+
+Σημείωση.Ο αναδιπλασιασμός συνήθως    	  παραλείπεται, όταν το ρήμα είναι    	  σύνθετο, π.χ. (tendo, te-tendi), αλλά ex-tendo    	  εκτείνω, extendi, extentum (ή extensum). ex-tendĕre. 
+
+
+ γ´) με προσθήκη στο ρηματικό θέμα του    	  χαρακτήρα s, όπως: 
+
+
+ (ρ. θ. carp-) carpo δρέπω, carp-s-i, carptum, carpĕre (πρβ.    	  δρέπ-ω, έδρεψα από το έδρεπ-σα)· 
+
+
+ (ρ. θ. dic-) dico λέγω, dixi (από το dic-s-i), dictum,    	  dicĕre (§ 84, Σημ. 1)· 
+
+
+ (πρβ. πλέκω - έπλεξα από το έπλεκ-σ-α)· 
+
+
+ (ρ. θ. lud-) ludo παίζω, lūsi (από το lud-si) - lūsum,    	  ludĕre (πρβ. κομίζω - εκόμισα από το    	  εκόμιδ-σ-α). 
+
+
+ 88. γ´) Χρονικό θέμα του σουπίνου.- 1) Το θέμα του σουπίνου σχηματίζεται    	  κανονικά με την προσθήκη στο ρηματικό    	  θέμα του χαρακτήρα t, και σπανιότερα,    	  κυρίως στα ρήματα της γ´ συζυγίας, με    	  την προσθήκη του χαρακτήρα s. 
+
+
+ α´) (ρ. θ. ama-) amo, amāt-um, (ρ. θ. dele-) deleo, delēt-um, (ρ. θ. leg-) lego, lect-um (από το leg-tum πρβ. λέγ-ω,    	  λεκτ-ός από το λεγ-τός), (ρ. θ. audi-) audio,    	  audīt-um∙ 
+
+
+ β´) (ρ. θ. scand-) scando ανεβαίνω, scandi, scan-s-um (από το scand-s-um), scandere. 
+
+
+ 2) Από τα ρήματα της β' συζυγίας όσα    	  έχουν παρακείμενο σε -ui (§ 87, 1)    	  σχηματίζουν το σουπίνο σε ĭtum, όπως habeo    	  έχω, habui, hab-ĭtum,    	  habēre∙ moneo συμβουλεύω, monui, monĭtum, monere. 
+
+
+ 89.  1) Μερικά ρήματα σχηματίζουν το    	  θέμα του παρακειμένου και του σουπίνου    	  ή το θέμα του ενός από αυτά όχι από το    	  ρηματικό θέμα, αλλά από το θέμα του    	  ενεστώτα που έχει επαυξηθεί με πρόσφυμα    	  (§ 86, 1-2), όπως: 
+
+
+ α´) (ρ. θ. iug-) iung-o ζεύγω, iunx-i (από το iung-s-i §    	  87, 2 γ´), iunctum (από το iung-t-um), iungĕre∙ 
+
+
+ β´) (ρ. θ. pig-) ping-o ζωγραφίζω, pinx-i (από το    	  ping-s-i), pictum (από το pig-t-um), pingĕre∙ 
+
+
+(ρ. θ. pug-) pung-o κεντώ, pŭpŭgi (από το pe-pu-gi, §    	  88, 2β´), punctum (από το pung-t-um), pungere. 
+
+
+ 2) Αρκετά ρήματα δεν έχουν σουπίνο,    	  μερικά δεν έχουν και παρακείμενο και    	  σουπίνο, όπως: 
+
+
+ α´) mico πάλλομαι, λάμπω, micŭi, — micāre· 
+
+
+ horreo φρίττω, horrui, — horrēre· 
+
+
+ posco ζητώ, poposci, — poscĕre (§ 87, 2, β´)· 
+
+
+ disco μαθαίνω, διδάσκομαι, didĭci, — discĕre· 
+
+
+ β´) ferio πλήττω, —, —, ferire· 
+
+
+ furo μαίνομαι, —, —, furĕre. 
+
+
+ 3) Πολλά ρήματα σχηματίζουν    	  παρακείμενο και σουπίνο, ή το ένα από τα    	  δύο, σύμφωνα με συζυγία διαφορετική από    	  εκείνη στην οποία ανήκει ο ενεστώτας    	  και το απαρέμφατο τους, όπως: 
+
+
+ domo (δαμάζω), domāre (α´ συζυγίας), domui, domĭtum    	  (β' συζυγίας) 
+
+
+ (πρβ. habui, habitum του ρ. habeo, habēre)· 
+
+
+ seco (κόβω), secāre (α´ συζυγίας), secui (β´    	  συζυγίας), sectum (γ´συζυγίας)· 
+
+
+ (πρβ. lectum του ρήματος lego, legĕre)∙ 
+
+
+ augeo (αυξαίνω), augēre (β´ συζυγ.) auxi, auctum (γ´    	  συζυγ.) πρβ. flixi, flictum του ρ. fligo χτυπώ,    	  fligĕre·
+
+
+ rideo (γελώ), ridēre (β´ συζυγ.), risi, risum (γ´    	  συζυγ.) πρβ. lusi, lusum του ρ. ludo παίζω,    	  ludĕre·
+
+
+ strepo (κάνω θόρυβο), strepĕre (γ´ συζυγ.),    	  strepui, strepĭtum (β´ συζυγ.)· πρβ. habui, habitum του    	  ρ. habeo-habēre· 
+
+
+ rudo (μουγκρίζω) rudĕre (γ´ συζυγ.)· rudīvi, (rudītum) (δ´ συζυγ.) πρβ. audīvi, audītum του ρ.    	  audio, audīre·
+
+
+ venio (έρχομαι), venīre (δ´ συζυγ.)· vēni, ventum (γ´ συζυγ.) πρβ. legi, lectum του ρ. lego legĕre. 
+
+
+ 4) Αρκετά ρήματα σχηματίζουν τον    	  παρακείμενο και το σουπίνο, ή το ένα από    	  τα δύο, από δύο (ή και περισσότερα)    	  θέματα, όπως: 
+
+
+ α´) implĭco εμπλέκω, implicui ή implicāvi, implicĭtum ή    	  implicātum, implicāre (βλ. και neco, § 86, 1)∙ 
+
+
+ β´) lino αλείφω, lēvi, lĭtum, linĕre· 
+
+
+ iuvo ωφελώ, βοηθώ, iuvi, iutum (ή iuvātum), iuvāre    	  (μτχ. μέλ. iuvatūrus)· 
+
+
+ γ´) pango πήζω, (pepĭgi ή) pēgi ή panxi, panctum ή pactum,    	  pangĕre∙ 
+
+
+ pinso κοπανίζω, pinsi ή pinsui, pinsum ή pinsĭtum ή pistum ή    	  pīsum, pinsĕre∙ 
+
+
+
+Σημείωση 1.Τα σουπίνα που λήγουν σε -atum ή    		  -etum ή -utum έχουν το φωνήεν της    		  παραλήγουσας (a, e, u) κανονικά μακρό,    		  όπως: 
+
+
+ amo (amāre), amātum, 
+
+
+ deleo (delēre), delētum 
+
+
+ tribuo (tribuĕre) tribūtum· ενώ 
+
+
+ do (δίνω), dĕdi, dătum, dăre· 
+
+
+ sero (σπέρνω), sēvi, sătum, serĕre·
+
+
+ ruo (καταφέρομαι), rui (rŭtum) ruĕre. 
+
+
+ Όσα σουπίνα λήγουν σε –itum, έχουν το i της    		  παραλήγουσας μακρό, αν ο παρακείμενος    		  του ρήματος λήγει σε -iνi, και βραχύ, αν ο    		  παρακείμενος λήγει σε -ui ή i, όπως: 
+
+
+ audio (ακούω), audire, audīvi, audītum·
+
+
+ quaero (ζητώ), quaerĕre, quaesīvi, quaesītum. Αλλά 
+
+
+ veto (απαγορεύω), vetāre, vetui, vetĭtum· 
+
+
+ habeo (έχω), habēre, habui, habĭtum·
+
+
+ lambo (γλείφω), lambĕre, lambi, lambĭtum·
+
+
+ fugio (φεύγω) fugĕre, fūgi, (fugĭtum). 
+
+
+ Εκτός από τα παραπάνω και τα: 
+
+
+ cieo (πορεύομαι) cīvi, cĭtum, ciēre· 
+
+
+ eo (πορεύομαι), īvi (ή ii, § 83 Σημ.), ĭtum, īre· 
+
+
+ lino (αλείφω), līνi ή lēvi, lĭtum, linĕre· 
+
+
+ sino (αφήνω), sĭvi, sĭtum, sinĕre. 
+
+
+Σημείωση.2. To ρήμα do έχει το χαρακτήρα    		  του θέματος (da), δηλ. το a βραχύ σε όλους    		  τους άλλους τύπους εκτός από τους    		  τύπους das (= δίνεις) και da (=    		  δίνει) και dāns (γεν. dantis). 
+
+
+ Για το λόγο αυτό πρέπει να τονίζονται    		  στην προπαραλήγουσα (§ 7, 2 β´) οι τύποι    		  π.χ. του circumdo (περιβάλλω) circumdămus, circumdătis,    		  circumdăre, circumdăbam, circumdărem, circumdătur. 
+
+
+ Από το do (= δίνω) διαφέρει το -do που είναι    		  εύχρηστο όταν είναι σύνθετο με    		  μονοσύλλαβες προθέσεις (βλ. κατάλογο    		  ανώμαλων ρημάτων). 
+
+
+
+ Τα κυρίως ανώμαλα ρήματα. 
+
+
+ 90. Μερικά ρήματα παρουσιάζουν    	  ανωμαλίες τόσο στα διάφορα χρονικά    	  θέματα όσο και στους διάφορους τύπους    	  τους (πρβ. αρχ. ελλ. εἰμί, εἶμι, οἶδα,    	  φημί κτλ.). Τέτοια ρήματα είναι 1) sum (γι' αυτό βλ. § 77), 2) possum, 3) edo, 4) eo, 5) queo    	  και nequeo, 6) volo, nolo και malo, 7) fero και 8) fiο. 
+
+
+ Τα παραπάνω ρήματα σχηματίζονται ως    	  εξής: 
+
+
+ 91. Possum (δύναμαι), potui, posse (§ 89, 2).    	  Είναι σύνθετο από το pot (pote ή potis =    	  δυνατός, § 42, 1) και το sum· οι    	  περισσότεροι τύποι του σχηματίζονται    	  όπως και του sum. 
+
+
+
+ 
+
+
+
+
+ Indicativus 
+
+
+ Coniunctivus 
+
+
+
+ Indicativus 
+
+
+ Coniunctivus 
+
+
+
+
+ Praesens 
+
+
+ pos-sum 
+
+
+ pos-sim 
+
+
+ Imperfectum 
+
+
+ pot-ĕram 
+
+
+ possem 
+
+
+
+
+ pot-es 
+
+
+ pos-sis 
+
+
+ pot-eras 
+
+
+ posses 
+
+
+
+
+ pot-est 
+
+
+ pos-sit 
+
+
+ pot-erat 
+
+
+ posset 
+
+
+
+
+ pos-sumus 
+
+
+ pos-sīmis 
+
+
+ pot-erāmus 
+
+
+ possemus 
+
+
+
+
+ pot-estis 
+
+
+ pos-sītis 
+
+
+ pot-erātis 
+
+
+ possetis 
+
+
+
+
+ pos-sunt 
+
+
+ pos-sint 
+
+
+ pot-ĕrant 
+
+
+ possent 
+
+
+
+ 
+
+
+
+ Futurum 
+
+
+  
+
+
+pot-ero, poteris, pot-erit 
+
+
+ pot-erimus, poteritis, pot-ĕrunt 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ Perfectum 
+
+
+  
+
+
+pot-ui 
+
+
+  
+
+
+pot-uĕrim 
+
+
+ Plusquamperfectum 
+
+
+  
+
+
+pot-uĕram 
+
+
+  
+
+
+pot-uissem 
+
+
+
+
+ pot-uisti 
+
+
+ pot-ueris 
+
+
+ pot-ueras 
+
+
+ pot-uisses 
+
+
+
+
+ pot-uit 
+
+
+ pot-uerit 
+
+
+ pot-uerat 
+
+
+ pot-uisset 
+
+
+
+
+ pot-uimus 
+
+
+ pot-uerĭmus 
+
+
+ pot-uerāmus 
+
+
+ pot-uissēmus 
+
+
+
+
+ pot-uistis 
+
+
+ pot-ueritis 
+
+
+ pot-ueratis 
+
+
+ pot-uissētis 
+
+
+
+
+ pot-uērunt 
+
+
+ pot-uĕrint 
+
+
+ pot-uerant 
+
+
+ pot-uissent 
+
+
+
+ 
+
+
+
+ Futurum exactum 
+
+
+  
+
+
+pot-uĕro, pot-ueris, pot-uerit 
+
+
+ pot-uerĭmus, pot-uerĭtis, pot-uĕrint 
+
+
+
+
+
+
+ 
+
+
+
+ Infinitivus 
+
+
+  
+
+
+Praesens 
+
+
+ posse 
+
+
+  
+
+
+Perfectum 
+
+
+ pot-uisse 
+
+
+
+
+
+
+
+ Imperativus δεν έχει. Participium: potens (gen. potent-is) (χρησιμεύει μόνο ως επίθετο = δυνατός, §    	  40, γ´ και § 43, 2). 
+
+
+ 92. ĕdo (εσθίω = τρώγω), ēdi, ēsum, ĕdĕre. Το    	  ρήμα αυτό κλίνεται ομαλά όπως τα ρήματα    	  της γ´συζυγίας (§78 lego)· όμως στην    	  οριστική του ενεστώτα, στην υποτακτική    	  του παρατατικού, στην προστακτική και    	  το απαρέμφατο του ενεστώτα εκτός από    	  τους κανονικούς του τύπους έχει και    	  άλλους βραχύτερους, οι οποίοι είναι    	  όμοιοι με τους αντίστοιχους του ρ. sum    	  (§77), με τη διαφορά ότι το e στους τύπους    	  του edo κανονικά είναι μακρό. 
+
+
+
+ 
+
+
+
+  
+
+
+Indicativus, Praesens 
+
+
+  
+
+
+Coniunctivus, Imperfectum 
+
+
+
+ 
+ 
+
+
+
+ edo, ĕdis ή ēs, ĕdit ή ēst 
+
+
+ edĕrem ή ēssem, edĕres ή ēsses, 
+
+
+
+
+ edĭmus, edĭtis ή ēstis, edunt 
+
+
+ ederet ή ēsset 
+
+
+
+
+
+
+ ederemus ή ēssemus, ederetis ή 
+
+
+
+
+
+
+ ēssetis, ederent ή ēssent. 
+
+
+
+ 
+
+
+
+ ede ή ēs, edĭte ή ēste — edito ή ēsto, editōte ή estōte 
+
+
+
+
+ Infinitivus, praesens: edĕre ή ēsse 
+
+
+
+
+ Από το παθητικό (edor, esus sum, edi) έχουν και    	  δεύτερο τύπο μόνο το γ´ ενικό πρόσωπο    	  της οριστικής του ενεστώτα και της    	  υποτακτικής του παρατατικού: edĭtur και    	  estur, ederētur και essētur. Κατά τον ίδιο τρόπο    	  σχηματίζονται και τα σύνθετα com-ĕdo    	  κατατρώγω ex-ĕdo per-ĕdo. 
+
+
+ 93. ĕō (είμι) πορεύομαι, (īvi και) ĭī,    	  ĭtum, īre (βλ. §83 Σημ. και §89,4, Σημ. 1). Το    	  ρήμα eo έχει δύο ρηματικά θέματα, 1)    	  μπροστά από τα φωνήεντα a, ο, u έχει θέμα e,    	  2) μπροστά από σύμφωνο ή i έχει θέμα i. (πβ.    	  αρχ. ελλην είμι. ίμεν κτλ.). Κλίνεται    	  όπως τα ρήματα της δ´ συζυγίας (§ 78, audio),    	  αλλά ο παρατατικός της οριστικής είναι    	  ibam και ο μέλλοντας ibo (βλ. § 79, Σημ. 2). 
+
+
+
+ 
+
+
+
+
+  
+
+
+Indicativus 
+
+
+  
+
+
+Coniunctivus 
+
+
+
+
+ Praesens 
+
+
+  
+
+
+ĕō, īs, ĭt 
+
+
+ īmus, ītis, ĕunt 
+
+
+  
+
+
+ĕam, eās, eat 
+
+
+ eāmus, eātis, eant 
+
+
+
+
+ Imper-
+
+                  fectum 
+
+
+  
+
+
+ībam, ības, ibăt 
+
+
+ ībāmus, ībātis, ibant 
+
+
+  
+
+
+īrem, īres, iret 
+
+
+ irēmus, irētis, irent 
+
+
+
+
+ Futurum 
+
+
+  
+
+
+ībō, ībis, ībit 
+
+
+ ībĭmus, ībĭtis, ibunt 
+
+
+  
+
+
+ĭtūrus, -a, -um sim, sis sit 
+
+
+ ĭturī, -ae, -a, simus, sitis, sint 
+
+
+
+ 
+
+
+
+ Perfectum 
+
+
+  
+
+
+(ivi) ĭī, īsti, ĭit 
+
+
+ ĭĭmus, īstis, iērunt ή iēre 
+
+
+  
+
+
+iĕrim, ieris, ierit 
+
+
+ ĭĕrimus, ieritis, ierint 
+
+
+
+ 
+
+
+ 
+
+
+
+ Plusquam
+
+                  Perfectum 
+
+
+  
+
+
+ĭĕram, ĭĕras κτλ. 
+
+
+  
+
+
+īssēm, īssēs κτλ. 
+
+
+
+ 
+
+
+ 
+
+
+
+ Futurum 
+
+
+  
+
+
+ĭĕro, iĕris κτλ. 
+
+
+
+
+ 
+
+
+
+  
+
+
+Imperativus: ī, īte-īto, īto-ītōte, euntō 
+
+
+
+
+ Infinitivus 
+
+
+
+
+
+  
+
+
+Praesens: īre 
+
+
+
+
+ Perfectum: isse 
+
+
+
+
+ Futurum: itūrum, ituram, iturum esse κτλ. 
+
+
+
+ 
+
+
+
+ parti- 
+
+                  cipium 
+
+
+  
+
+
+Praesens: ĭens, gen. ĕuntis, dat. eunti κτλ. 
+
+
+ Futurum: ĭtūrus,ĭtūra, iturum 
+
+
+
+
+
+  
+
+
+Supinum: itum, itū (§ 89, 4 Σημ. 1) 
+
+
+
+
+
+ Gerundium: eundi, eundo, eundum, eundo 
+
+
+
+
+ Από την παθητική φωνή εύχρηστο είναι    	  του (απλού) ρήματος eo το γ´ ενικό    	  πρόσωπο όλων των χρόνων ως απρόσωπο: ītur    	  (= γίνεται πορεία), ibātur, ibĭtur, itum est κτλ.   	    και απαρέμφατο īrī, (βλ. §79, Σημ. 2). 
+
+
+Σημείωση.Κατά τον ίδιο τρόπο κλίνονται    	  και τα σύνθετα του eo, όπως το ab-eo αναχωρώ,    	  ad-eo προσέρχομαι, ex-eo εξέρχομαι κτλ. Από    	  τα ρήματα αυτά όσα λαμβάνονται με    	  ενεργητική μεταβατική σημασία    	  σχηματίζουν όλους τους τύπους της    	  παθητικής φωνής, π.χ. adeo προσβάλλω -adeor    	  (προσβάλλομαι), adīris, adītur, adīmur, adimini, adeuntur.    	  Perf. adībar, adībaris κτλ. Fut. adībor, adiberis, adibitur κτλ. 
+
+
+ Ένα από τα σύνθετα του eo, το ambīo (από το    	  ambi-eo περικυκλώνω), σχηματίζει όλους τους    	  τύπους του κανονικά όπως τα ρήματα της    	  δ´ συζυγίας (όπως το audio, §79), ambīvi, ambītum,    	  ambīre. 
+
+
+ 94. quĕo (δύναμαι) μπορώ (quīvi και quĭi, quĭtum), quīre- neque (δε δύναμαι),    	  nequīvi, nequīre (§ 89, 2). Τα δύο αυτά ρήματα    	  σχηματίζονται όπως το eo (§93), όμως λίγοι    	  τύποι τους είναι εύχρηστοι, όπως queo, queunt    	  - nequeunt, queam, queant κτλ. - nequibant, nequirent κτλ.    	  Και χωριστά non queo, non queunt, non quivit κτλ. 
+
+
+ 95. volo (θέλω), volui, velle - nolo,    	  από το ne-volo, non volo (δε θέλω, αρνούμαι), nolui,    	  nōlle - mālo, από το magis volo (περισσότερο θέλω,    	  προτιμώ), malui, mālle (§89, 2). 
+
+
+ Τα ρήματα αυτά κλίνονται ως εξής: 
+
+
+
+ 
+
+
+
+  
+
+
+Indicativus 
+
+
+  
+
+
+Coniunctivus 
+
+
+
+
+  
+
+
+Praesens 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ vŏlō 
+
+
+ nōlō 
+
+
+ malō 
+
+
+ vĕlim 
+
+
+ nōlim 
+
+
+ mālim 
+
+
+
+
+ vīs 
+
+
+ nōn vis 
+
+
+ māvis 
+
+
+ vĕlīs 
+
+
+ nōlis 
+
+
+ malīs 
+
+
+
+
+ vult 
+
+
+ nōn vult 
+
+
+ māvult 
+
+
+ velit 
+
+
+ nōlit 
+
+
+ malit 
+
+
+
+
+ volŭmus 
+
+
+ nolŭmus 
+
+
+ mālŭmus 
+
+
+ velīmus 
+
+
+ nōlīmus 
+
+
+ malīmus 
+
+
+
+
+ vultis 
+
+
+ nōn vultis 
+
+
+ māvultis 
+
+
+ velītis 
+
+
+ nōlītis 
+
+
+ malītis 
+
+
+
+
+ volunt 
+
+
+ nōlunt 
+
+
+ mālunt 
+
+
+ velint 
+
+
+ nōlint 
+
+
+ malint 
+
+
+
+
+  
+
+
+Imperfectum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ vŏlēbam 
+
+
+ nōlēbam 
+
+
+ mālēbam 
+
+
+ vĕllem 
+
+
+ nōllem 
+
+
+ māllem 
+
+
+
+
+ vŏlēbas 
+
+
+ nōlēbas 
+
+
+ mālēbas 
+
+
+ velles 
+
+
+ nolles 
+
+
+ malles 
+
+
+
+
+ vŏlēbat 
+
+
+ nōlēbat 
+
+
+ mālēbat 
+
+
+ vellet 
+
+
+ nollet 
+
+
+ mallet 
+
+
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+
+
+  
+
+
+Futurum 
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+ vŏlăm 
+
+
+ nōlăm 
+
+
+ mālăm 
+
+
+
+
+
+
+
+ vŏlēs 
+
+
+ nōlēs 
+
+
+ mālēs 
+
+
+ Δεν έχει 
+
+
+
+
+
+
+ vŏlĕt 
+
+
+ nolĕt 
+
+
+ malĕt 
+
+
+
+
+
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+
+
+
+
+
+  
+
+
+Perfectum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ vŏlŭi 
+
+
+ nolui 
+
+
+ malui κτλ. 
+
+
+ vōluĕrim 
+
+
+ nōluĕrim 
+
+
+ māluĕrim 
+
+
+
+
+ νοluisti 
+
+
+ noluisti 
+
+
+ maluisti 
+
+
+ volueris 
+
+
+ nolueris 
+
+
+ malueris 
+
+
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+ κτλ. 
+
+
+
+
+  
+
+
+Plusquamperfectum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ vŏluĕram 
+
+
+ nōluĕram 
+
+
+ māluĕram 
+
+
+ vŏluissem 
+
+
+ nōluissem 
+
+
+ māluissem 
+
+
+
+
+
+ κτλ. 
+
+
+
+
+ κτλ. 
+
+
+
+
+
+  
+
+
+Futūrum exactum 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ vŏluĕro 
+
+
+ nōluĕro 
+
+
+ māluĕro 
+
+
+ κτλ. 
+
+
+ ελλείπει 
+
+
+
+
+ Imperatīvus του nolo: nōlī, nōlīte - nōlītō, nōlītō,   	    nōlĭtōte, nōlunto (του volo και malo δεν υπάρχει) 
+
+
+ Infinitivus: Praesens: vĕlle, nōlle, mālle. 
+
+
+ Perfectum: voluisse, noluisse, maluisse. 
+
+
+ Participium, Praesens: (volens), (nolens) (το malo δεν έχει    	 ).
+
+            Αντί του volens λέγεται συνήθως cupĭēns (§84)    	  και αντί του nolens λέγεται invītus (ακούσια).    	  Αλλοι τύποι των ρημάτων αυτών δεν είναι    	  εύχρηστοι. 
+
+
+Σημείωση.Αντί του visne? (άραγε θέλεις;)    	  λέγεται vin? και παρενθετικώς αντί του si    	  vis (αν θέλεις) λέγεται sis και αντί του si    	  vultis (αν θέλετε) λέγεται vultis. 
+
+
+ 96. fĕro (φέρω). tŭl-i, lāt-um, ferre. Του    	  ρήματος αυτού: 
+
+
+ 1) ο παρακείμενος και το σουπίνο δε    	  σχηματίζονται από το θέμα του    	  ενεστώτα∙
+
+
+ 2) οι τύποι που σχηματίζονται από το    	  θέμα του ενεστώτα (fer-) συγκόπτουν α) το    	  συνδετικό φωνήεν i μπροστά από το s και t    	  των καταλήξεων και β´) το συνδετικό    	  φωνήεν ĕ, όταν το ακολουθεί r. 
+
+
+
+ 
+
+
+
+  
+
+
+Activum 
+
+
+  
+
+
+Passivum 
+
+
+
+
+  
+
+
+Indicativus 
+
+
+
+
+ Praesens 
+
+
+ 
+
+
+fērō, fers, fert
+
+
+ 
+
+
+feror, ferris, fertur
+
+
+
+fĕrĭmus, fĕrtis, fĕrunt 
+ferĭmur κτλ. 
+
+
+ 
+
+
+
+  
+
+
+Coniunctivus 
+
+
+
+ 
+ 
+ 
+
+
+
+Praesens
+
+fĕrăm,ferās κτλ. 
+ferar, ferāris, κτλ. 
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+Imperfectum
+
+
+ferrem, ferrēs, ferret 
+
+                  ferremus κτλ. 
+
+ferrer, ferrēris, ferretur ferrēmur κτλ. 
+
+
+ 
+
+
+
+
+
+ 
+
+
+Imperativus
+
+
+
+
+
+ 
+
+
+fĕr, fĕrte (§84 Σημ.) 
+
+                  fertō, fertō, fertote, ferunto 
+
+
+  
+
+
+ferre, ferimini 
+
+
+ fertor, fertor - feruntor 
+
+
+
+
+ 
+
+
+Infinitivus
+
+
+
+
+
+ 
+
+ 
+
+
+ferre
+
+
+ 
+
+
+ferrī
+
+
+
+
+ Όλοι οι άλλοι τύποι σχηματίζονται    	  ομαλά,όπως σχηματίζονται τα ρήματα της    	  γ´  συζυγίας (fĕrēbam, fĕram, feres, κτλ. ferar,    	  ferēris, κτλ.). 
+
+
+ 97. fīo (γίνομαι), factus sum, fiĕri. Η μετοχή    	  του factus, με την οποία σχηματίζονται οι    	  συντελικοί χρόνοι του ρήματος ομαλά (factus sum, factus erarn, factus ero, §85,3), είναι του ρ.    	  facior∙ αντί του facior χρησιμοποιείται και το    	  fiο ως παθητικό του facio (§84). 
+
+
+ Οι τύποι που γίνονται από το θέμα του    	  ενεστώτα (fi-) σχηματίζονται σύμφωνα με    	  την δ´ συζυγία, εκτός από την υποτακτική    	  του παρατατικού και το απαρέμφατο του    	  ενεστώτα που σχηματίζονται σύμφωνα με    	  την γ´ συζυγία. 
+
+
+
+ 
+
+
+
+
+
+
+  
+
+
+Indicativus 
+
+
+  
+
+
+Coniuctivus 
+
+
+
+
+ Praesens 
+
+
+  
+
+
+fīō, fīs, fĭt 
+
+
+  
+
+
+fiăm, fiās, fīat 
+
+
+
+
+ (fīmus, fītis), fīunt 
+
+
+ fīamus κτλ. ομαλά 
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+ Imper-
+
+                  fectum 
+
+
+ fīēbam,fiēbas 
+
+
+ fiĕrem,fiĕres,fieret 
+
+
+
+
+ κτλ. ομαλά 
+
+
+ fieremus, fieretis, fierent 
+
+
+
+ 
+
+
+
+
+
+ Futurum 
+
+
+  
+
+
+fiam, fiēs, fiet 
+
+
+ fiemus κτλ. ομαλά 
+
+
+  
+
+
+Δεν έχει 
+
+
+
+
+ Imperativus: fī, fīte. 
+
+
+ Infinitīvus, Praesens: fiĕri, Futurum: factum iri. 
+
+
+ Gerundivum: faciendus, facienda, faciendum. 
+
+
+Σημείωση.To i του θέματος fi- σ' όλους τους    	  άλλους τύπους, εκτός από τον τύπο fit, το    	  απαρέμφατο fiĕri και τους τύπους της    	  υποτακτικής του παρατατικού fiĕrem, fiĕres    	  κτλ. είναι μακρό. 
+
+
+ Ελλειπτικά ρήματα 
+
+
+ 98. Ελλειπτικά ρήματα (verba defectīva)    	  είναι: 
+
+
+ 1) τα ρήματα memĭni (ενθυμούμαι), ōdi (μισώ)    	  και coepi (άρχισα) είναι παρακείμενοι    	  χωρίς ενεστώτα. Από τους παρακειμένους    	  αυτούς οι δύο πρώτοι έχουν σημασία    	  ενεστώτα και ο υπερσυντέλικος    	  παρατατικού (meminĕram θυμόμουν, odĕram    	  μισούσα), ο τετελεσμένος μέλλοντας έχει    	  σημασία απλού μέλλοντα (meminĕro θα    	  ενθυμούμαι ή θα ενθυμηθώ, odĕro θα μισώ ή    	  θα μισήσω). 
+
+
+ Κλίνονται ομαλά όπως τα ρήματα της γ´    	  συζυγίας (§ 78, γ´, legi) σε όλους τους    	  τύπους του παρακειμένου, του    	  υπερσυντελίκου και του τετελεσμένου    	  μέλλοντα. To memini έχει και δύο τύπους    	  προστακτικής, το odi και coepi και    	  απαρέμφατο και μετοχή ενεργητ.    	  μέλλοντα, ακόμη το coepi έχει και μετοχή    	  παθ. παρακειμένου. 
+
+
+
+
+ Imperativus: 
+
+
+ mementō 
+
+
+ να θυμάσαι 
+
+
+
+
+
+ mementōte 
+
+
+ να θυμάστε 
+
+
+
+
+ Infinitivus 
+
+
+
+
+ Perf
+
+
+ meminisse, 
+
+
+ odisse 
+
+
+ coepisse 
+
+
+
+
+ Fut.
+
+
+ —
+
+
+osurum, -am, -um esse
+
+
+coepturum, -am, -um esse 
+
+
+
+
+ Participium 
+
+
+
+
+ Fut. 
+
+
+ —
+
+
+osurus, -a, -um 
+
+
+ coeptums. -a, -um 
+
+
+
+
+ Perf. Pass. 
+
+
+ — 
+
+
+ — 
+
+
+ coeptus, -a, -um 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Σημείωση.Του ρ. coepi οι χρόνοι που    	  λείπουν αναπληρώνονται με τους    	  αντίστοιχους χρόνους του ρ. incipio αρχίζω (incēpi, inceptum) incipĕre. 
+
+
+ Η μετοχή coeptus, -a, -um μαζί με το sum, eram, ero    	  κτλ., χρησιμοποιείται αντί για το coepi,    	  coeperam, coepero κτλ. όταν ακολουθεί ως    	  συμπλήρωμα της εννοίας του ρήματος    	  αυτού παθητικό απαρέμφατο παθητικής    	  διαθέσεως, όπως aedes aedificari caepta est (άρχισε να οικοδομείται ο ναός)· αλλά: mons    	  movēri coepit. 
+
+
+ Μετοχή παθητ. παρακειμένου, αλλά με    	  ενεργητική συνήθως σημασία, έχει και το    	  ρ. odi (οsus). κυρίως εύχρηστο στα σύνθετα    	  exōsus, perōsus (= πολύ μισώντας §81, 2, Σημ.). 
+
+
+ 2) τα ρήματα āio, inquam, quaeso, (for) fāri. 
+
+
+ α) To āio (λέγω, αρχ. ελλην. ἠμί) είναι    	  εύχρηστο στους εξής τύπους: 
+
+
+
+
+ Indicativus 
+
+
+ Coniunctivus 
+
+
+
+
+ aio 
+
+
+ ais 
+
+
+ ăit 
+
+
+ — 
+
+
+ aias 
+
+
+ aiat 
+
+
+
+
+ — 
+
+
+ — 
+
+
+ āiunt 
+
+
+ — 
+
+
+ — 
+
+
+ aiant 
+
+
+
+
+ Imperfectum: aiēbam, aiēbas, κτλ. ομαλά και αρχ. aībam,    	  aības, κτλ. 
+
+
+ Perfectum: (γ´ εν. μόνο) ait. 
+
+
+ Imperativus: (ăi) 
+
+
+ Participium: aiens. 
+
+
+Σημείωση.Συνήθως λέγεται ain? αντί ais-ne? (λες; νομίζεις;).Πρβ. § 95 Σημ. 
+
+
+ β´) το inquam (φημί) λέγω, είναι εύχρηστο    	  στους εξής τύπους: Indicativus, Praesens: inquam, inquis,    	  inquit, (inquimus, inquĭtis), inquiunt. Imperfectum: inquiēbat.    	  Futurum: inquiēs, inquiet. Pertectum: (inquii), inquisti, inquit, (inquimus),    	  Imperativus: (inque, inquīto). Participium: inquiens. 
+
+
+Σημείωση.Όλοι οι παραπάνω τύποι    	  χρησιμοποιούνται μόνο παρενθετικώς    	  μέσα σε ευθύ λόγο, όπως Tum ille «pater, inquit, precor, ut...» Τότε εκείνος, «Πατέρα,    	  λέγει, παρακαλώ να...» (Πρβ. αρχ. ελλην.    	  φημί και ἠμί). 
+
+
+ γ´) του quaeso (παρακαλώ) εύχρηστος είναι    	  ο τύπος quaesŭmus (παρακαλούμε). Τους τύπους    	  αυτούς χρησιμοποιούν παρενθετικώς μετά    	  από προστακτική για να μετριαστεί η    	  έννοια της προσταγής: hic mihi, quaeso, πες μου,    	  παρακαλώ∙ (πρβ. κάθισε, παρακαλώ, εδώ)∙ 
+
+
+ δ´) for (φημί) λέγω, fātus sum, fāri (αποθετικό,    	  § 80). Του ρήματος αυτού στους πεζούς    	  συγγραφείς εύχρηστος είναι μόνο ο τύπος    	  fando από το γερούνδιο (στη φράση fando audire =    	  ακούω να λέγεται) και ο τύπος fanda από το    	  γερουνδιακό (στη φράση fanda atque nefanda = ρητά    	  και απόρρητα, § 75, 4 και 5). Όμως στους    	  ποιητές είναι εύχρηστοι και άλλοι τύποι    	  του ρήματος αυτού και κυρίως των    	  συνθέτων (όπως adfari προσαγορεύω, praefari    	  προλέγω, κτλ.), δηλ. όλοι οι τύποι του    	  μέλλοντα της οριστικής (fabor, fabĕris, fabĭtur,    	  κτλ.), του παρακειμένου και του    	  υπερσυντελίκου οριστικής και    	  υποτακτικής (fatus sum, fatus sim, fatus eram, fatus essem    	 )· εκτός από τους τύπους αυτούς και οι    	  εξής: 
+
+
+ Indic., Praes. fatur, fantur. Indic., Imperf. fabar, fabantur. Coniunct.    	  lmperf. (prae) fārer, farēris, κτλ. Imperativus: fare.    	  Infinitivus: fari (και farier, § 79 σημ. 2). Supinum: fatu.    	  Participium: fans. Gerundium: fando. Gerundivum: fandus, -a, -um. 
+
+
+ 3) μερικοί τύποι προστακτικής εγκλίσεως    	  και απαρεμφάτου 
+
+
+ ăvē (ή have) χαίρε, avēto - avēte, απαρμφ. avēre. 
+
+
+ salve χαίρε, υγίαινε, salvē-tō, salvēte, απαρμφ.    	  salvēre. 
+
+
+ cĕdo δώσε, πες, πληθ. cette (πρβ. να,- νάτε). 
+
+
+Σημείωση.Στα ελλειπτικά ρήματα ανήκουν    	  και οι τύποι forem, fores- forent, απαρμφ. fore. Οι    	  τύποι αυτοί αντικαθιστούν ορισμένους    	  τόπους του ρ. esse (§ 77). 
+
+
+ Απρόσωπα ρήματα (Verba impersonalia) 
+
+
+ 99. Απρόσωπα ρήματα, που είναι δηλ.    	  εύχρηστα μόνο στο γ´ ενικό πρόσωπο (και    	  το απαρέμφατο) όλων των χρόνων, χωρίς    	  υποκείμενο, είναι, 
+
+
+ 1) όπως στην ελληνική γλώσσα ρήματα που    	  σημαίνουν κάποιο φυσικό φαινόμενο, όπως    	  dilucēscit, illucescit φέγγει (η ημέρα), fulget και    	  fulgŭrat αστράφτει, rorat πέφτει δροσιά, tonat    	  βροντά κτλ. 
+
+
+Σημείωση.Κατά τη χρήση των ανωτέρω    	  ρημάτων, όταν στο νου εκείνου που γράφει    	  ή ομιλεί επικρατεί η θρησκευτική    	  αντίληψη, τότε τα ρήματα εκφέρονται με    	  υποκείμενο το όνομα κάποιου θείου    	  προσώπου, όπως Juppiter tonat ο Δίας βροντά.    	  Χρησιμοποιούνται δε τότε με τον ίδιο    	  τρόπο και στη μετοχή: Jove fulgurante καθώς    	  αστράφτει ο Δίας. 
+
+
+ 2) αρκετά ρήματα της β´ συζυγίας (κυρίως    	  απρόσωπα), 
+
+
+ dĕcet πρέπει, decuit - decēre· 
+
+
+ libet αρέσει, libuit και libĭtum est, libēre· 
+
+
+ lĭcet επιτρέπεται, licuit και licĭtum est, licēre· 
+
+
+ oportet (χρη) είναι ανάγκη, oportuit, oportēre· 
+
+
+ pudet (me) ντρέπομαι, puduit και pudĭtum est, pudēre. 
+
+
+ Τα ρήματα αυτά δεν έχουν προστακτική,    	  σουπίνο και μετοχή. Την προστακτική    	  αναπληρώνει η υποτακτική τους, π.χ. pudeat te    	  να ντρέπεσαι, μόνο του ρήματος licere    	  υπάρχει σε νόμους ο τύπος της    	  προστακτικής licēto ας επιτρέπεται. 
+
+
+ Υπάρχει επίσης η μετοχή μερικών από τα    	  απρόσωπα αυτά ρήματα, αλλά αυτή έχει    	  σημασία επιθέτου, όπως licens ελεύθερος,    	  pudens ντροπαλός, κτλ. (§ 40, γ´). 
+
+
+ 100. Απροσώπως λαμβάνεται στη    	  λατινική γλώσσα ακόμη. 
+
+
+ 1) το γ´ ενικό πρόσωπο της παθητικής    	  φωνής (καθώς και το απαρέμφατο) ρημάτων    	  ουδέτερων (§ 74, 1, δ´) ή ενεργητικών, αλλά    	  αμετάβατων όπως: 
+
+
+ (vivo) ζω, vivĭtur ζει κάποιος, ζουν, απρμφ.    	  vivi· 
+
+
+ (curro) τρέχω, currĭtur γίνεται δρόμος,    	  τρέχουν, απρμφ. curri∙ (βλ. και eo, itur, itum est,    	  iri, § 93)∙ 
+
+
+ (canto) τραγουδώ, cantātur τραγουδιέται    	  τραγούδι, τραγουδούν∙ 
+
+
+ 2) όπως στην ελληνική γλώσσα, το γ´    	  ενικό πρόσωπο διαφόρων προσωπικών    	  ρημάτων, όταν μέσα στο λόγο έχουν κάποια    	  ιδιαίτερη σημασία, όπως: 
+
+
+ (ac-cĭdo προσπίπτω, -cĭdi, -cidĕre), accĭdit    	  συμβαίνει∙ 
+
+
+ (con-sto αποτελούμαι, -stĭti, -āre), constat είναι    	  αποδεκτό (ομολογείται)· 
+
+
+ (expedio απολύω, -īvi, -ītum, -īre), expĕdit ωφελεί,    	  συμφέρει· 
+
+
+ (inter-sum κείμαι ανάμεσα, -fui, -esse), intĕrest    	  ενδιαφέρει.

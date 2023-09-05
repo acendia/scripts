@@ -1,0 +1,917 @@
+3. Τρίτη κλίση (Declinatio tertia)
+
+
+20. Η τρίτη κλίση περιέχει ονόματα και από τα τρία γένη όπως και η δεύτερη κλίση. Τα ονόματα αυτά:
+
+
+1) στην ονομαστική του ενικού τελειώνουν σε ένα από τα φωνήεντα (a), e, ο ή σε ένα από τα ληκτικά σύμφωνα (ή ληκτικά συμφωνικά συμπλέγματα, § 4, 2 σημ.).
+
+
+2) στη γενική του ενικού έχουν όλα κατάληξη -is: urb-s πόλη, gen. urb-is, mare (ουδ.) θάλασσα, gen. mar-is.
+
+
+21. Τα τριτόκλιτα ονόματα
+
+
+1) ανάλογα με το χαρακτήρα του θέματός τους (§ 13,4), (όπως και της αρχαίας ελληνικής τα τριτόκλιτα), είναι:
+
+
+α΄) φωνηεντόληκτα· αυτά έχουν χαρακτήρα i, εκτός από τα ονόματα grus (γερανός) και sus (αγριόχοιρος), τα οποία έχουν χαρακτήρα u (gen. gru-is, su-is)·
+
+
+β΄) συμφωνόληκτα με χαρακτήρα άφωνο (b, p-c, g-d-t), υγρό ή έρρινο (1, r, m, n) ή συριστικό (s ή ν): trabs (δοκάρι) (gen. tra-bis), bos (βόδι) (gen. bov-is), nix (χιόνι) (gen. niv-is) κτλ. (Βλ. § 4, 2 σημ.)·
+
+
+2) τα φωνηεντόληκτα (εκτός από τα grus και sus) είναι όλα ισοσύλλαβα: civis πολίτης (gen. civis), sedes έδρα (gen. sedis). Τα συμφωνόληκτα είναι όλα περιττοσύλλαβα: rex βασιλιάς· (gen. regis), lapis λίθος (gen. lapĭd-is).
+
+
+Σημείωση. Κυρίως και τα φωνηεντόληκτα τριτόκλιτα αρχικά ήταν περιττοσύλλαβα, αλλά παρουσιάζονται ως ισοσύλλαβα, επειδή ο χαρακτήρας i του θέματος τους συγχωνεύτηκε με τo i και e των καταλήξεων που ακολουθεί.
+
+
+22. Από τα τριτόκλιτα ονόματα
+
+
+1) τα αρσενικά και τα θηλυκά έχουν σε όλες τις πτώσεις τις ίδιες καταλήξεις· από αυτά άλλα είναι καταληκτικά, δηλ. έχουν στην ενική ονομαστική την κατάληξη s, άλλα είναι ακατάληκτα χωρίς καμιά κατάληξη στην ενική ονομαστική: dux ηγεμόνας (από το duc-s), gen. duc-is, puppi-s πρύμνη gen. puppis, consul ύπατος, gen. consŭl-is, orātor ρήτορας, gen. oratōris, κτλ.
+
+
+2) τα ουδέτερα έχουν τις ίδιες καταλήξεις με τα αρσενικά και θηλυκά μόνο στη γενική, τη δοτική και την αφαιρετική (ενικού και πληθυντικού), και είναι όλα ακατάληκτα, δηλ. δεν έχουν καμιά κατάληξη στην ονομαστική του ενικού: anĭmal ζώο, gen. animāl-is, mare θάλασσα, gen. mar-is, κτλ. (Βλ. § 13, 3).
+
+
+23. Από τα τριτόκλιτα ονόματα
+
+
+1) άλλα είναι μονόθεμα, σχηματίζουν δηλ. όλες τις πτώσεις από ένα θέμα: dux (από το duc-s), gen. duc-is κτλ., lapis (από το lapid-s), gen. lapid-is κτλ., orātor ρήτορας, gen. oratōr-is κτλ. 
+
+
+2) άλλα είναι διπλόθεμα, σχηματίζονται δηλ. από δύο θέματα, ένα στην ονομαστική και κλητική και άλλο για τις άλλες πτώσεις: miles (στρατιώτης) (από το milet-s), gen. milit-is κτλ. homo άνθρωπος, gen. homin-is κτλ. corpus σώμα, gen. corpŏr-is κτλ.
+
+
+Σημείωση. Από όσα λήγουν στην ενική ονομαστική σε -s και στη γενική σε –ris, πολλά φαινομενικά είναι διπλόθεμα, κυρίως αυτά είναι σιγμόληκτα μονόθεμα. Σ' αυτά ο χαρακτήρας s ανάμεσα σε δύο φωνήεντα τράπηκε σε r π.χ. mus ποντικός, gen. mur-is, corpus σώμα gen. corpŏris (και αρχικά corpŏs-is) (αρχικά ήταν mus-is πρβλ. μῦς-μυός από το μυσός), κ.ά.
+
+
+24. Παραδείγματα τρίτης κλίσεως
+
+
+Α' Αρσενικά και θηλυκά
+
+
+1. Συμφωνόληκτα ή περιττοσύλλαβα
+
+
+(καταληκτικά ή ακατάληκτα, μονόθεμα ή διπλόθεμα §§ 21-23)
+
+
+(dux ηγεμόνας, θ. duc-, pastor βοσκός, θ. pastor-, homo άνθρωπος, θ. homo και homin-, urbs πόλη, θ. urb-)
+
+
+
+ 
+
+
+
+Singularis
+
+
+
+
+Nom.
+
+
+dux(duc + s)
+
+
+pastor
+
+
+homo
+
+
+urbs
+
+
+
+
+Gen.
+
+
+ duc - ĭs 
+
+
+pastōr - is
+
+
+homĭn - is
+
+
+urb - is
+
+
+
+
+Dat.
+
+
+duc - ī
+
+
+pastōr - i
+
+
+homĭn - i
+
+
+urb - i
+
+
+
+
+Acc.
+
+
+duc - ĕm
+
+
+pastōr - em
+
+
+homĭn - em
+
+
+urb - em
+
+
+
+
+Voc.*
+
+
+dux
+
+
+pastōr
+
+
+homo
+
+
+urbs
+
+
+
+
+Abl.
+
+
+duc - ĕ
+
+
+pastōr - e
+
+
+homĭn - e
+
+
+urb - e
+
+
+
+ 
+
+
+
+Ρluralis
+
+
+
+
+Nom.
+
+
+duc - ēs
+
+
+pastōr - es
+
+
+homĭn - es
+
+
+urb - es
+
+
+
+
+Gen.
+
+
+duc - um
+
+
+pastōr - um
+
+
+homĭn - um
+
+
+urb - ĭum
+
+
+
+
+Dat.
+
+
+duc - ĭbus
+
+
+pastōr - ĭbus
+
+
+homin - ĭbus
+
+
+urb - ĭbus
+
+
+
+
+Ace.
+
+
+duc - ēs
+
+
+pastōr - es
+
+
+homin - es
+
+
+urb - es
+
+
+
+
+Voc.*
+
+
+duc - ēs
+
+
+pastōr - es
+
+
+homin - es
+
+
+urb - es
+
+
+
+
+Abl.*
+
+
+duc - ĭbus
+
+
+pastōr - ĭbus
+
+
+homin - ĭbus
+
+
+urb - ĭbus
+
+
+
+
+Όμοια κλίνονται τα: lux (luc-is, θηλ.) φως, rex (reg-is) βασιλιάς, lex (leg-is, θηλ.) νόμος, judex (judĭc-is) δικαστής, lapis (lapĭd-is) πέτρα, pes (ped-is) πόδι, civitas (civitat-is) πολιτεία, virtus (virtūt-is), αρετή, miles (milĭt-is) στρατιώτης, princeps (princĭp-is) άρχοντας, πρώτος, orator (oratōr-is) ρήτορας, uxor (uxōr-is) η σύζυγος, arbor (arbŏr-is, θηλ.) δέντρο, mos (mor-is αρσεν.) ήθος, flos (flor-is αρσεν.) άνθος, tellus (tellūr-is) γη, lepus (lepŏr-is) λαγός, mulier (muliĕr-is) γυναίκα, pulvis (pulvĕr-is) σκόνη, sermo (sermōn-is) λόγος, praedo (praedōn-is) ληστής, virgo (virgĭn-is) παρθένος, ordo (ordĭn-is αρσεν.) τάξη, flamen (flamĭn-is) ιερέας, tibīcen (tibicĭn-is) αυλητής - (κατά το urbs), stirps (stirp-is) ρίζα, arx (arc-is) ακρόπολη, gens (gent-is, θηλ.) έθνος, mors (mort-is, θηλ.) θάνατος, pons (pont-is αρσ.) γέφυρα κ.ά. (ανάμεσα σ' αυτά και το nix, niv-is, χιόνι, plur. gen. nivium∙ αρχικό θέμα ningu- [ πρβλ. ningu-it χιονίζει ]).
+
+
+Σημείωση. Μερικά ακατάληκτα συμφωνόληκτα σε -er στις άλλες πτώσεις, εκτός από την ονομαστική και κλητική του ενικού, συγκόπτουν το e που βρίσκεται εμπρός από το χαρακτήρα r. Τέτοια είναι: α΄) τα συγγενικά ονόματα pater (patr-is) πατέρα, mater (matr-is) μητέρα και frater (fratr-is) αδελφός, β΄) τα ονόματα imber (imbr-is) βροχή, uter (utr-is) ασκί, venter (ventr-is αρσεν.) κοιλιά και τα ονόματα των τεσσάρων μηνών September (Septembr-is), October, November και December (πρβλ. τα αρχαία Ελληνικά συγκοπτόμενα τριτόκλιτα π.χ. πατήρ, πατρ-ός, πατέρ-α).
+
+
+2. Φωνηεντόληκτα ή ισοσύλλαβα
+
+
+(Μονόθεμα ή διπλόθεμα, §§ 21-23)
+
+
+(civis πολίτης, θ. civi-, nubes νεφέλη, θ. nube- και nubi-)
+
+
+
+ 
+ 
+
+
+
+Singularis
+
+
+Pluralis
+
+
+
+
+Nom.
+
+
+Gen.
+
+
+Dat.
+
+
+Acc.
+
+
+Voc.
+
+
+Abl.
+
+
+civĭs
+
+
+civĭs
+
+
+civī
+
+
+civĕm
+
+
+civis
+
+
+civĕ
+
+
+nūbēs
+
+
+nubĭs
+
+
+nubī
+
+
+nubĕm
+
+
+nubēs
+
+
+nubĕ
+
+
+cives
+
+
+civĭ - ŭm
+
+
+civ - ĭbus
+
+
+civēs (ή civ - is)
+
+
+civēs
+
+
+civĭbus
+
+
+nubes
+
+
+nubĭ - ŭm
+
+
+nubĭbus
+
+
+nubēs (ή nub - is)
+
+
+nubēs
+
+
+nubĭbus
+
+
+
+
+Όμοια κλίνονται:
+
+
+α΄) όπως το civĭs τα: avis (θηλ.) πτηνό, navis πλοίο, collis λόφος, fascis (αρσεν.) δέσμη, hostis εχθρός, orbis κύκλος, mensis μήνας, unguis νύχι, piscis ψάρι, vallis κοιλάδα κ.ά.
+
+
+β΄) όπως το nubes τα: aedes (aed-is, θηλ.) ναός, sēdes (sed-is) έδρα (βλ. § 26, 4, Α´ σημ.) fames (fam-is) πείνα, nipes (rup-is, θηλ.) βράχος (απόκρημνος) κ.ά. (βλ. και § 16).
+
+
+Β´ Ουδέτερα, συμφωνόληκτα ή φωνηεντόληκτα
+
+
+(Μονόθεμα ή διπλόθεμα, §§ 21 - 23)
+
+
+(aequor πέλαγος, θ. aequor-. nomen όνομα θ. nomen- και nomin-, opus, θ. opus- και oper-, mare θάλασσα, θ. mare- και mari-)
+
+
+
+ 
+
+
+
+Singularis
+
+
+
+
+Nom.
+
+
+aequor
+
+
+nomen
+
+
+opus
+
+
+mărĕ
+
+
+
+
+Gen.
+
+
+aequŏr - ĭs
+
+
+nomĭn - is
+
+
+opĕr - is
+
+
+mar - ĭs
+
+
+
+
+Dat.
+
+
+aequŏr - ī 
+
+
+nomĭn - i
+
+
+opĕr - i
+
+
+mar - ī
+
+
+
+
+Acc.
+
+
+aequor
+
+
+nomen
+
+
+opus
+
+
+mare
+
+
+
+
+Voc.
+
+
+aequor
+
+
+nomen
+
+
+opus
+
+
+mare
+
+
+
+
+Abl.
+
+
+aequŏr - ĕ
+
+
+nomĭne
+
+
+opĕre
+
+
+mar - ī
+
+
+
+ 
+
+
+
+Pluralis
+
+
+
+
+Nom.
+
+
+aequŏr - ă
+
+
+nomĭn - a
+
+
+opĕr - a
+
+
+mar - ĭă
+
+
+
+
+Gen.
+
+
+aequŏr - um
+
+
+nomĭn - um
+
+
+opĕr - um
+
+
+mar - ĭŭm
+
+
+
+
+Dat.
+
+
+aequor - ĭbus
+
+
+nomin - ĭbus
+
+
+oper - ĭbus
+
+
+mar - ĭbus
+
+
+
+
+Acc.
+
+
+aequŏr - ă
+
+
+nomĭn - a
+
+
+opĕr - a
+
+
+mar - ĭă
+
+
+
+
+Voc.
+
+
+aequŏr - ă
+
+
+nomĭn - a
+
+
+opĕr - a
+
+
+mar - ĭă
+
+
+
+
+Abl.
+
+
+aequor - ĭbus
+
+
+nomin - ĭbus
+
+
+oper - ĭbus
+
+
+mar - ĭbus
+
+
+
+
+Ομοια κλίνονται:
+
+
+α΄) όπως το aequor τα: marmor (marmŏr-is) μάρμαρο, fulgur (fulgŭris) αστραπή, uber (ubĕr-is) μαστός, ōs (or-is) στόμα, aes (aer-is) χαλκός, ius (iur-is) το δίκαιο, κ.ά.
+
+
+β΄) όπως το nomen τα: flumen (flumĭn-is) ποταμός, certāmen (certamĭn-is) αγώνας, caput (capĭt-is) κεφαλή κ.ά.
+
+
+γ΄) όπως το opus τα: onus (onĕr-is) φορτίο, corpus (corpŏr-is) σώμα, robur (robŏr-is) ξύλο δρύινο κ.ά.
+
+
+δ΄) όπως το mare τα: animal (animāl-is) ζώο, exemplar (exemplār-is) παράδειγμα, par (par-is) ζευγάρι κ.ά.
+
+
+25. Καταλήξεις της τρίτης κλίσεως.
+
+
+
+ 
+ 
+
+
+Singularis
+Pluralis
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Αρσ. και θηλ.
+
+
+ 
+
+
+Ουδ
+
+
+Αρσ. και θηλ.
+
+
+ 
+
+
+Ουδ.
+
+
+
+
+Nom.
+
+
+-s
+
+
+ ή —
+
+
+—
+
+
+-es
+
+
+-a
+
+
+(ή -ia)
+
+
+
+
+Gen.
+
+
+-is
+
+
+
+-is
+
+
+-um (ή -ium)
+
+
+-um
+
+
+(ή -ium)
+
+
+
+
+Dai.
+
+
+-i
+
+
+
+-i
+
+
+-ibus
+
+
+-ibus
+
+
+
+
+
+Acc.
+
+
+-em
+
+
+(ή im)
+
+
+—
+
+
+-es (ή -is)
+
+
+-a
+
+
+(ή -ia)
+
+
+
+
+Voc.
+
+
+-s
+
+
+ ή —
+
+
+—
+
+
+-es
+
+
+-a
+
+
+(ή -ia)
+
+
+
+
+Abl.
+
+
+-e
+
+
+(ή -i)
+
+
+-e ή -i
+
+
+-ibus
+
+
+-ibus
+
+
+
+
+
+26. Διαφορετικός σχηματισμός μερικών πτώσεων των τριτοκλίτων.- Από τα τριτόκλιτα ονόματα:
+
+
+1) Έχουν την αιτιατική του ενικού σε -im (αντί σε -em): α΄) τα εξής ισοσύλλαβα προσηγορικά ονόματα, febris πυρετός, puppis πρύμνη, sitis δίψα, turris πύργος, tussis βήχας, και secūris τσεκούρι, όλα θηλυκά (sing. acc. febrim, puppim, sitim, turrim, tussim, securim)· β΄) τα ισοσύλλαβα σε is ονόματα ποταμών και πόλεων, Albis Άλβις, Tibĕris Τίβερις, Neapŏlis Νεάπολη (sing. acc.Albim, Tiberim, Neapolim).
+
+
+2) Έχουν την αφαιρετική του ενικού σε -i (αντί σε -e): α΄) όσα λήγουν στην αιτιατική του ενικού σε -im: febris – febri, puppis – puppi, Albis – Albi. κτλ.
+
+
+Σημείωση. Στην αφαιρετική του ενικού πολλές φορές έχουν -i αντί -e και τα ονόματα civis πολίτης, ignis (αρσ.) φωτιά, navis πλοίο, και imber βροχή, (civi, igni, navi, imbri). Του ignis ο τύπος της ενικής αφαιρετικής igni είναι ο κανονικός στις φράσεις ferro et igni (= με φωτιά και σίδερο), aqua et igni interdicĕre (= να απαγορεύεται παροχή νερού και φωτιάς).
+
+
+β΄) τα ονόματα μηνών σε -is ή -er. π.χ. Aprīlis, November κτλ. και τα προσηγορικά ονόματα σε -is, που αρχικά ήταν επίθετα, όπως aequālis ομήλικος, annālis (ενν. liber) το χρονικό, natalis (ενν. dies) η γενέθλιος, Atheniensis Αθηναίος κτλ. (sing. abl. Aprili, Novembri, aequali, annali, natali, Atheniensi)∙ αντιθέτως τα κύρια ονόματα που στην αρχή ήταν επίθετα, σχηματίζουν την αφαιρετική του ενικού κανονικά σε -e: Juvernālis, Celer, Felix, sing. abl. Juvernale, Celere, Felīce.
+
+
+γ΄) τα ουδέτερα που λήγουν σε -e, -al (-al, -is) και -ar (-ar, -is) όπως mare, animal, calcar (πτερνιστήριο) (sing. abl. mari, animāli, calcāri).
+
+
+3) Έχουν την ονομαστική (αιτιατική και κλητική) του πληθυντικού σε -ia όσα ουδέτερα τριτόκλιτα λήγουν σε -e, -al και -ar: mare, mar-ia, - animal, animal-ia - cal-car, calcar-ia. Ο σχηματισμός σε -ia της ονομαστικής πληθυντικής αυτών των ουδετέρων είναι κανονικός, γιατί το θέμα τους στην αρχή έχει το χαρακτήρα -i (βλ. § 21, 2 σημ.).
+
+
+4) Έχουν τη γενική του πληθυντικού σε -ium (αντί σε -um):
+
+
+Α΄) τα ισοσύλλαβα (ή φωνηεντόληκτα με χαρακτήρα i, §21, 1 α΄).
+
+
+π.χ. civis – civium, collis – collium, navis – navium, aedes – aedium, nubes – nubium κτλ. (βλ. § 24, A´ 2). Εξαιρούνται τα canis σκύλος, iuvenis νεανίας και sedes έδρα (plur. gen. canum, iuvenum, sedum).
+
+
+Β΄) από τα περιττοσύλλαβα (ή συμφωνόληκτα, § 21, 1β΄ και 2):
+
+
+α΄) όσα έχουν θέμα που τελειώνει σε δύο ή περισσότερα σύμφωνα. π.χ. urbs (θ. urb-), arx (θ. arc-), pons (θ. pont-), nox (θ. noct-), os (oss-is κόκαλο, θ. oss-), imber (θ. imbr-): plur. gen. urb-ium, arc-ium, pont-ium, noct-ium, oss-ium, imbr-ium (βλ. § 24 A´ 1). Εξαιρούνται τα τρία συγγενικά ονόματα pater, mater, frater (θ. patr-, matr-, fratr-): plur. gen. patr-um, matr-um, fratr-um,
+
+
+β΄) τα ονόματα dos (dot-is) προίκα, fauces (μόνο στον πληθυν.) ο λάρυγγας, fraus (fraudis) η απάτη, lis (lit-is) φιλονικία, mus (mur-is) ποντικός, nix (niv-is) χιόνι, vires (πληθ.) δύναμη, τα εθνικά σε -as (ātis) και -is (-itis), π.χ. Arpinas - Arpinates οι κάτοικοι του Αρπίνου, Samnis - Samnītes οι Σαμνίτες. Ακόμη τα ονόματα nostras ημεδαπός, vestras υμεδαπός, optimātes (πληθ.) οι αριστείς και penātes (πληθ.) οι πατρώοι θεοί: plur. gen. dot-ium, fauc-ium, fraud-ium, lit-ium, mur-ium, niv-ium, vir-ium, Arpinat-ium, Samnit-ium, nostrat-ium, vestrat-ium, optimat-ium, penat-ium.
+
+
+Γ΄) τα ουδέτερα σε -e, -al και -ar: mare-mar-ium, animal-animal-ium, calcar-calcarium (βλ. § 24, Β΄ και ανωτέρω 2, γ΄ και 3).
+
+
+Σημείωση. Τα ισοσύλλαβα ή φωνηεντόληκτα τριτόκλιτα σχηματίζουν κανονικά τη γενική πληθυντικού σε -ium, επειδή από την αρχή το θέμα τους έχει το χαρακτήρα i, π.χ civis (θ. civi-) civ-ium, aedes (θ. aedi-) aed-ium κτλ. Από τα περιττοσύλλαβα ή συμφωνόληκτα μερικά σχηματίζουν κανονικά τη γενική πληθυντικού σε -ium, επειδή και αυτά αρχικώς ήταν φωνηεντόληκτα (με χαρακτήρα i), π.χ. το ars τέχνη, pars μέρος, mors θάνατος, gens έθνος κ.ά. (η ονομαστική ενικού ήταν στην αρχή art-is, part-is, mort-is, gent-is). Τα άλλα συμφωνόληκτα που σχηματίζουν αυτή την πτώση σε -ium, τη σχηματίζουν κατ' αναλογίαν προς τα προηγούμενα: arx-arc-ium, urbs-urb-ium, pons-pont-ium, imber-imbr-ium, fraus-fraud-ium. κτλ.
+
+
+5) όσα αρσενικά και θηλυκά σχηματίζουν τη γενική του πληθυντικού σε -ium, σχηματίζουν και την αιτιατική πληθυντικού συνήθως σε -is (αντί σε -es): civis-civis (= πολίτες), hostis-hostis (= εχθρούς), pars-partis (= μερίδες).
+
+
+27. Ανώμαλα ονόματα της τρίτης κλίσεως.
+
+
+1) Bos το βόδι, bov-is, bov-i, bov-em, bos, bov-e. Plur. bov-es, bo-um, bubus (ή bobus), κτλ. (θ. bo- και bov-)·
+
+
+2) caro (θηλ.) κρέας, carn-is, κτλ. Plur. carn-es, carn-ium, κτλ. (θ. caro- και caru-)∙
+
+
+3) iter (ουδ.) πορεία, itinĕr-is, itinĕr-i, iter, itiner-e. Plur. itinera, itinerum, κτλ. (θ. iter- και itiner-)·
+
+
+4) Juppĭter ο Δίας, Jov-is, Jov-i, Jov-em, Juppiter, Jov-e.
+
+
+5) senex ο γέροντας, sen-is, sen-i κτλ. Plur. sen-es, sen-um, sen-ibus κτλ. (θ. senec- και sen-)·
+
+
+6) vis δύναμη (γεν. και δοτ. λείπουν), acc. vim, abl. vi. Plur. vir-es, vir-ium, vir-ibus κτλ.
+
+
+28. Τριτόκλιτα της λατινικής από τριτόκλιτα της αρχαίας ελληνικής γλώσσας.
+
+
+Από τα τριτόκλιτα ονόματα (κύρια ή προσηγορικά) που προέρχονται από αρχαία ελληνικά τριτόκλιτα, μερικά κλίνονται σε όλες τις πτώσεις όπως η τρίτη κλίση της λατινικής∙ π.χ. Plato Πλάτων, Platōn-is, Platon-i, Platon-em κτλ. (όπως το sermo, sermōn-is κτλ. § 24, A´ 1).
+
+
+Αρκετά όμως ονόματα αυτής της κατηγορίας σε μερικές πτώσεις σχηματίζουν τύπους όμοιους με τους αντίστοιχους της ελληνικής. Π.χ. aer αέρας, aether αιθέρας. Marathon Μαραθών - acc. aer-a, aethĕr-a, Marathon-a κτλ. Cyclops Κύκλωψ, acc. Cyclōpa Κύκλωπα, Cyclōpes Κύκλωπες, acc. Cyclōp-as.
+
+
+
+* Βλ. § 13, 1-2.

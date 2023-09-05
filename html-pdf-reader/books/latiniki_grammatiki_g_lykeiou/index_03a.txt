@@ -1,0 +1,769 @@
+2. Τριτόκλιτα επίθετα
+
+
+ 39. Τα τριτόκλιτα επίθετα λήγουν: 
+
+
+1) τα τρικατάληκτα σε -er, -(e)ris, -(e)re· 
+
+
+2) τα δικατάληκτα σε -is, -e και τα συγκριτικά σε -ior, ius· 
+
+
+3) τα μονοκατάληκτα, πολλά σε x, όπως τα audax τολμηρός, rapax αρπακτικός, felix ευτυχής, κτλ., άλλα σε -el, -r, -es, -us, -ns, κτλ., όπως vigil (-gĭlis) άγρυπνος, pauper (-pĕris) φτωχός, dives (-vĭtis) πλούσιος, vetus (-tĕris) παλαιός, prudens (-entis) συνετός κτλ. 
+
+
+ Σημείωση.Τα τριτόκλιτα επίθετα κυρίως είναι ή δικατάληκτα ή μονοκατάληκτα. Όσα από αυτά παρουσιάζονται ως τρικατάληκτα (με κατάληξη -er) ήταν και αυτά δικατάληκτα (celĕr-is αρσ. και θηλ., celĕre ουδ., acr-is αρσ. και θηλ. acr-e ουδ), ύστερα απέβαλαν την κατάληξη της ενικής ονομαστικής και κλητικής (-is) και όσα εμπρός από το χαρακτήρα του θέματος r είχαν άλλο σύμφωνο ανέπτυξαν εμπρός από το r ένα e βραχύ. Έτσι από το acr-is προήλθε το acr- και έπειτα το ac-e-r. (Πρβλ. §38, liber, niger). 
+
+
+ 40. Παραδείγματα τριτόκλιτων επιθέτων 
+
+
+ α´. Τρικατάληκτα 
+
+
+
+
+ (celer ταχύς, acer οξύς) 
+
+
+
+ 
+
+
+
+ Singularis 
+
+
+
+
+ Nom. 
+
+
+ celer 
+
+
+ celĕris 
+
+
+ celĕre 
+
+
+ acer 
+
+
+ acris 
+
+
+ acre 
+
+
+
+
+ Gen. 
+
+
+
+ celeris 
+
+
+
+
+ acris 
+
+
+
+
+
+ Dat. 
+
+
+
+ celeri 
+
+
+
+
+ acri 
+
+
+
+
+
+ Acc. 
+
+
+ celerem 
+
+
+ celerem 
+
+
+ celere 
+
+
+ acrem 
+
+
+ acrem 
+
+
+ acre 
+
+
+
+
+ Voc. 
+
+
+ celer 
+
+
+ celeris 
+
+
+ celere 
+
+
+ acer 
+
+
+ acris 
+
+
+ acre 
+
+
+
+
+ Abl. 
+
+
+
+ celeri 
+
+
+
+
+ acri 
+
+
+
+
+ 
+
+
+
+ Ρluralis 
+
+
+
+
+ Nom. 
+
+
+ celĕres 
+
+
+ celĕres 
+
+
+ celeria 
+
+
+ acres 
+
+
+ acres 
+
+
+ acria 
+
+
+
+
+ Gen, 
+
+
+
+ celerium 
+
+
+
+
+ acrium 
+
+
+
+
+
+ Dat. 
+
+
+
+ celeribus 
+
+
+
+
+ acribus 
+
+
+
+
+
+ Acc. 
+
+
+ celeres 
+
+
+ celeres 
+
+
+ celeria 
+
+
+ acres 
+
+
+ acres 
+
+
+ acria 
+
+
+
+
+ Voc. 
+
+
+ celeres 
+
+
+ celeres 
+
+
+ celeria 
+
+
+ acres 
+
+
+ acres 
+
+
+ acria 
+
+
+
+
+ Abl. 
+
+
+
+ celeribus 
+
+
+
+
+ acribus 
+
+
+
+
+
+ Όπως το acer κλίνονται το celĕber (-bris, -bre) ονομαστός, salūber υγιεινός, equēster (-stris, -stre) ιππικός, pedester πεζικός κ.ά. To celer είναι μοναδικό (§39,3 Σημ.). 
+
+
+ Β´. Δικατάληκτα 
+
+
+ (facĭlis εύκολος, altior υψηλότερος) 
+
+
+
+ 
+
+
+
+ Singularis 
+
+
+
+
+
+ Αρσ. και θηλ. 
+
+
+ Ουδ. 
+
+
+ Αρσ. και θηλ. 
+
+
+ Ουδ. 
+
+
+
+
+ Nom. 
+
+
+ facĭlis 
+
+
+
+ facĭle 
+
+
+ altior 
+
+
+
+ altĭus 
+
+
+
+
+ Gen. 
+
+
+
+ facilis 
+
+
+
+
+ altiōris 
+
+
+
+
+
+ Dat. 
+
+
+
+ facili 
+
+
+
+
+ altiōri 
+
+
+
+
+
+ Acc. 
+
+
+ facilem 
+
+
+
+ facile 
+
+
+ altiōrem 
+
+
+
+ altĭus 
+
+
+
+
+ Voc. 
+
+
+ facilis 
+
+
+
+ facile 
+
+
+ altior 
+
+
+
+ altĭus 
+
+
+
+
+ Abi. 
+
+
+
+ facili 
+
+
+
+
+ altiōr-e 
+
+
+
+
+ 
+
+
+
+ Pluralis 
+
+
+
+
+ Nom. 
+
+
+ facĭles 
+
+
+
+ facilĭa 
+
+
+ altiōres 
+
+
+
+ altiōr-a 
+
+
+
+
+ Gen. 
+
+
+
+ facilĭum 
+
+
+
+
+ altiōr-um 
+
+
+
+
+
+ Dat. 
+
+
+
+ facilĭbus 
+
+
+
+
+ altior-ĭbus 
+
+
+
+
+
+ Acc. 
+
+
+ faciles 
+
+
+
+ facilia 
+
+
+ altiōres 
+
+
+
+ altiōr-a 
+
+
+
+
+ Voc. 
+
+
+ faciles 
+
+
+
+ facilia 
+
+
+ altiores 
+
+
+
+ altiōr-a 
+
+
+
+
+ Abl. 
+
+
+
+ facilibus 
+
+
+
+
+ altior-ĭbus 
+
+
+
+
+
+ Όπως το facĭlis κλίνονται τα: difficĭlis δύσκολος, similis όμοιος, dissimilis, ανόμοιος, fertĭlis εύφορος, fortis ισχυρός, gravis βαρύς κ.ά. 
+
+
+ Όπως το altior, -us κλίνονται όλα τα συγκριτικά (γι' αυτά θα γίνει λόγος παρακάτω). 
+
+
+ Γ´. Μονοκατάληκτα 
+
+
+
+
+ (felix ευτυχής, prudens συνετός) 
+
+
+
+ 
+
+
+
+ Singularis 
+
+
+
+
+
+ Αρσ. θηλ. 
+
+
+ και ουδ. 
+
+
+ Αρσ. θηλ. 
+
+
+ και ουδ. 
+
+
+
+
+ Nom. 
+
+
+ fēlix 
+
+
+
+ prūdēns 
+
+
+
+
+
+ Gen. 
+
+
+ felīcĭs 
+
+
+
+ prudentis 
+
+
+
+
+
+ Dat. 
+
+
+ felīci 
+
+
+
+ prudentī 
+
+
+
+
+
+ Acc. 
+
+
+ felīcĕm 
+
+
+ felix 
+
+
+ prudentĕm 
+
+
+ prudens 
+
+
+
+
+ Voc. 
+
+
+ felix 
+
+
+ felix 
+
+
+ prudens 
+
+
+ prudens 
+
+
+
+
+ Abl. 
+
+
+ felīci 
+
+
+
+ prudentī 
+
+
+
+
+ 
+
+
+
+ Pluralis 
+
+
+
+
+ Nom. 
+
+
+ felīcēs 
+
+
+ felicĭa 
+
+
+ prudentēs 
+
+
+ prudentĭa 
+
+
+
+
+ Gen. 
+
+
+ felicĭŭm 
+
+
+
+ pnidentĭŭm 
+
+
+
+
+
+ Dat. 
+
+
+ felicĭbus 
+
+
+
+ prudentĭbus 
+
+
+
+
+
+ Acc. 
+
+
+ felicēs 
+
+
+ felicĭa 
+
+
+ prudentēs 
+
+
+ prudentĭa 
+
+
+
+
+ Voc. 
+
+
+ felicēs 
+
+
+ felicĭa 
+
+
+ prudentēs 
+
+
+ prudentĭa 
+
+
+
+
+ Abl. 
+
+
+ felicĭbus 
+
+
+
+ prudentĭbus 
+
+
+
+
+
+ Όπως το felix κλίνονται τα: atrox (atrōcis) σκληρός, ferox άγριος, audax (audācis) τολμηρός, rapax αρπακτικός κ.ά. 
+
+
+ Όπως το prudens κλίνονται τα: ingens υπερμεγέθης, vehĕmens σφοδρός, sapĭens σοφός, elĕgans κομψός κ.ά. 
+
+
+ 41. Παρατηρήσεις στα τριτόκλιτα επίθετα. Τα τριτόκλιτα επίθετα έχουν την αφαιρετική του ενικού σε -i, τη γενική του πληθυντικού σε -ium και την ονομαστική (αιτιατική και κλητική) πληθυντικού του ουδετέρου σε -ia: celer - celeri - celerium - celeria, gravis - gravi - gravium - gravia, felix - felici - felicium - felicia (βλ. §26,2 β´ και γ´ και Σημ.). 
+
+
+ Εξαιρούνται και 
+
+
+ 1) έχουν κανονικά την αφαιρετική του ενικού σε -e, τη γενική πληθυντικού σε -um και την ονομαστική (αιτιατική και κλητική) του πληθυντικού του ουδέτερου σε -a: 
+
+
+ α´) τα συγκριτικά επίθετα, π.χ. altior, altius-altiore, altiorum, altiora. 
+
+
+ Σημείωση.Tα ανώμαλα παραθετικά plūres (περισσότεροι) και complūres (πάμπολλοι) έχουν τη γενική του πληθυντικού σε -ium: (plures, plura) plurium, (complures, complura) complurium 
+
+
+ β´) τα μονοκατάληκτα επίθετα compos (-ŏtis) εγκρατής, dives (-ĭtis) πλούσιος, partĭceps (-cĭpis) μέτοχος, pauper (-pĕris) φτωχός, princeps (-cĭpis) πρώτος, superstes (-stitis) επιζών και vetus (-teris) παλαιός: divitĕ - divitum, vetere - veterum - vetera. (Από τα προηγούμενα επτά μονοκατάληκτα επίθετα μόνο το vetus σχηματίζει πληθυντικό του ουδετέρου vetera και το dives, ditia (αντί divitia με απλολογία). 
+
+
+ 2) έχουν τη γενική πληθυντικού σε -um (αν και έχουν την αφαιρετική ενικού σε -i) τα επίθετα inops (-ŏpis) ενδεής και memor (-ŏris) μνήμων: (inŏpi) inŏpum, (memori) memŏrum.
