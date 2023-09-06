@@ -41,3 +41,4 @@ def main():
 if __name__ == "__main__":
     ### !!!!!!!! This script is not needed anymore. Only used to collect all the urls from each book !!!!!!!!!!!
     # main()
+    pass
