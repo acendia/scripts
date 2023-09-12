@@ -103,14 +103,34 @@ class WebsiteProcessor:
 
 
 class WebsiteDirectoryManager:
-    def __init__(self, crawled_urls_file=None, delete_existing_directories=False, directory=None):
+    def __init__(self, crawled_urls_file=None, delete_existing_directories=False, directory=None, flag=None):
         self.crawled_urls_file = crawled_urls_file
         self.delete_existing_directories = delete_existing_directories
         self.url = None
         self.urls = []
         self.directory = directory
+        self.flag = flag
 
     def read_urls_from_file(self):
+        # check if the directory exists
+        if not os.path.exists(self.directory):
+            print('Directory does not exist')
+        else :
+            # Assuming self.directory is the base directory
+            directory_path = os.path.join(self.directory, 'txt_files')
+            
+            # Get a list of all .txt files in the directory
+            txt_files = [filename for filename in os.listdir(directory_path) if filename.endswith('.txt')]
+
+            # Find the max number
+            max_number = max(int(filename[:-4]) for filename in txt_files) if txt_files else 0
+            print(f'Directory name: {self.directory}')
+            print(f'Max number: {max_number}')
+
+            # if max_number == :
+            self.flag = max_number + 1
+
+            
         if os.path.exists(self.crawled_urls_file):
             with open(self.crawled_urls_file, 'r') as f:
                 self.urls = f.readlines()
@@ -265,7 +285,7 @@ class WebsiteDataExtractor():
 
 
 
-    def run(self, urls):
+    def run(self, urls, flag):
         """
         Run the data extraction process
         """
@@ -274,7 +294,15 @@ class WebsiteDataExtractor():
 
         # Loop over each tag and extract the data
         # for tag in loc_tags:
-        for tag in urls[1:]:
+        url_idx = 1
+
+        if flag is not None:
+            url_idx = flag
+            idx_article_page = flag
+
+        print (flag)
+
+        for tag in urls[url_idx:]:
             
             # Retrieve the HTML document using the get() method of the requests module
             html_document = requests.get(tag)
@@ -536,7 +564,7 @@ if __name__ == "__main__":
         else:
             data_extractor = SportsNewsGreeceDataExtractor(directory = args.allowed_domains[0])
         
-        data_extractor.run(directory_manager.urls)
+        data_extractor.run(directory_manager.urls, directory_manager.flag)
 
     if not args.ignore_zip:
         # Create a zip file

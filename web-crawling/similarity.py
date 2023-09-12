@@ -1,40 +1,40 @@
 import os
+import math
+import json
+import string
+import nltk
 import pandas as pd
 import numpy as np
-
-import nltk
-from nltk.corpus import stopwords
-import string
-
-from tqdm import tqdm
-
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+from tqdm import tqdm
+from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-
-import json
 
 # ignore warnings
 import warnings
 warnings.filterwarnings('ignore')
-
 
 class ArticleSimilarityAnalyzer:
     def __init__(self):
         self.df = None
 
     def create_df(self):
-        directory = "myxalandri/txt_files"
+        directory = "myxalandri.gr/txt_files"
 
         # create pandas dataframe with column names ["index", "article_text"]:
         self.df = pd.DataFrame(columns=["file_index", "url", "article_text"])
 
-        start = 300
-        offset = 50 
+        ## Default values
+        # start = 0
+        # offset = -1 
+        ## Custom values   
+        start = 200
+        offset = 30
+
         for filename in os.listdir(directory)[start:start + offset]:
             if filename.endswith(".txt"):
-                metadata_file = "myxalandri/metadata_files/" + filename[:-4] + ".meta"
+                metadata_file = "myxalandri.gr/metadata_files/" + filename[:-4] + ".meta"
                 # read from metadata file:
                 with open(metadata_file, "r") as file:
                     # get og:url from json
@@ -66,29 +66,31 @@ class ArticleSimilarityAnalyzer:
         return ((tfidf * tfidf.T).toarray())[0, 1]
 
     def print_similar_articles(self, top):
-        # dictionary for storing similar articles
-        similar_articles_dict = dict()
+        # list for storing similar articles (vice versa)
+        similart_articles_list = list()
 
         for col in top.columns:
             similar_articles = top.index[top[col].notnull()]
             for article in similar_articles:
                 # To avoid printing self-comparisons
                 if article != col:
-                    # if dictionary already contains the article, then skip it
-                    if (article in similar_articles_dict.keys() and col in similar_articles_dict.values()) or (
-                            col in similar_articles_dict.keys() and article in similar_articles_dict.values()):
+                    # if list already contains the similarity between the two articles (vice versa), then skip it
+                    if article+col in similart_articles_list or col+article in similart_articles_list:
                         continue
+                    
+                    # add the two articles to the list (vice versa)
+                    similart_articles_list.append(article+col)
+                    similart_articles_list.append(col+article)
 
-                    similar_articles_dict[article] = col
                     # in df get Index column value for specific url:
                     article_index = self.df.file_index[self.df["url"] == article].tolist()[0]
                     col_index = self.df.file_index[self.df["url"] == col].tolist()[0]
-                    similarity = int(top.loc[article, col] * 100)
+                    similarity = int(math.ceil(top.loc[article, col] * 100))
                     print("-" * 40)
                     print(f"Article {col_index}: {col} \nArticle {article_index}: {article} \nSimilarity: {similarity}%")
                     print("-" * 40)
                     # save it to a file:
-                    with open("myxalandri/similar_articles.txt", "a") as file:
+                    with open("myxalandri.gr/similar_articles.txt", "a") as file:
                         file.write("-" * 40 + "\n")
                         file.write(f"Article {col_index}: {col} \nArticle {article_index}: {article} \nSimilarity: {similarity}%\n")
                         file.write("-" * 40 + "\n")
@@ -106,7 +108,8 @@ class ArticleSimilarityAnalyzer:
             yticklabels=top.columns,
             xticklabels=top.columns,
             cmap="YlGnBu",
-            mask=mask
+            mask=mask,
+            linewidths=0.1,
         )
 
         plt.title('Similarity heatmap', fontdict={'fontsize': 24})
@@ -130,6 +133,7 @@ class ArticleSimilarityAnalyzer:
         # we select the articles with similarity > 0.4
         similarity_threshold = 0.35
         top = similarity_df[similarity_df > similarity_threshold]
+        # top = similarity_df
 
         # Mask to remove the upper triangle of the matrix
         mask = np.triu(np.ones_like(top, dtype=bool))
@@ -141,7 +145,7 @@ class ArticleSimilarityAnalyzer:
         self.create_df()
         # self.df = self.df.sort_values(by=["index"], ascending=True)
         # print(self.df)
-        self.df.to_csv("myxalandri/descriptions.csv", index=False)
+        self.df.to_csv("myxalandri.gr/descriptions.csv", index=False)
         self.get_similar_articles()
 
 
