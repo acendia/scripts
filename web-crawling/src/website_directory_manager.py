@@ -75,7 +75,7 @@ class WebsiteDirectoryManager:
     
     # zip the directories
     def create_zip_file(self, directory_name, zip_file_name=None):
-        zip_file_name = zip_file_name + ".zip"
+        zip_file_name = "website_files/" + zip_file_name + ".zip"
         with zipfile.ZipFile(zip_file_name, "w", zipfile.ZIP_DEFLATED) as zip_file:
             directory_path = os.path.abspath(directory_name)
             for root, dirs, files in os.walk(directory_path):
